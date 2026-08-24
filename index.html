@@ -3,15 +3,22 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cal Poly PDF Share 2</title>
- 
 
-  <!-- Papa Parse: CSV parser -->
+  <title>Cal Poly PDF Share 2</title>
+
+  <!-- Papa Parse -->
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 
   <style>
     :root {
-      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-family:
+        Inter,
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
       color: #1f2328;
       background: #f6f8fa;
     }
@@ -42,7 +49,7 @@
 
     .toolbar {
       display: flex;
-      gap: 12px;
+      gap: 10px;
       align-items: center;
       margin-bottom: 16px;
       flex-wrap: wrap;
@@ -57,13 +64,69 @@
       font: inherit;
     }
 
+    input[type="search"]:focus {
+      outline: 2px solid #0969da;
+      outline-offset: -1px;
+      border-color: #0969da;
+    }
+
+    button {
+      padding: 9px 12px;
+      border: 1px solid #d0d7de;
+      border-radius: 6px;
+      background: white;
+      color: #1f2328;
+      font: inherit;
+      cursor: pointer;
+    }
+
+    button:hover:not(:disabled) {
+      background: #f3f4f6;
+    }
+
+    button:disabled {
+      opacity: 0.45;
+      cursor: default;
+    }
+
     .status {
       color: #656d76;
       font-size: 0.9rem;
     }
 
+    .loading-bar {
+      width: 100%;
+      height: 3px;
+      overflow: hidden;
+      border-radius: 999px;
+      background: #d8dee4;
+      margin-bottom: 12px;
+    }
+
+    .loading-bar-inner {
+      width: 35%;
+      height: 100%;
+      background: #0969da;
+      animation: loading 1.2s infinite ease-in-out;
+    }
+
+    .loading-bar.hidden {
+      display: none;
+    }
+
+    @keyframes loading {
+      from {
+        transform: translateX(-110%);
+      }
+
+      to {
+        transform: translateX(300%);
+      }
+    }
+
     .table-wrap {
       overflow: auto;
+      max-height: 75vh;
       background: white;
       border: 1px solid #d0d7de;
       border-radius: 8px;
@@ -102,7 +165,11 @@
       font-weight: 600;
       cursor: pointer;
       user-select: none;
-      z-index: 1;
+      z-index: 2;
+    }
+
+    th:hover {
+      background: #eaeef2;
     }
 
     tbody tr:nth-child(even) {
@@ -126,6 +193,40 @@
       color: #656d76;
       font-size: 0.8em;
     }
+
+    .pagination {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .page-jump {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .page-jump input {
+      width: 70px;
+      padding: 8px;
+      border: 1px solid #d0d7de;
+      border-radius: 6px;
+      font: inherit;
+    }
+
+    @media (max-width: 700px) {
+      body {
+        padding: 20px 10px;
+      }
+
+      h1 {
+        font-size: 1.6rem;
+      }
+
+      input[type="search"] {
+        width: 100%;
+      }
+    }
   </style>
 </head>
 
@@ -135,25 +236,139 @@
     <p class="subtitle">It's the remix</p>
 
     <div class="toolbar">
-      <input id="search" type="search" placeholder="Search rows..." aria-label="Search rows" />
-      <span id="status" class="status">Loading…</span>
+      <input
+        id="search"
+        type="search"
+        placeholder="Search rows..."
+        aria-label="Search rows"
+        autocomplete="off"
+      />
+
+      <div class="pagination">
+        <button id="firstPage" type="button" disabled>
+          «
+        </button>
+
+        <button id="prevPage" type="button" disabled>
+          ← Previous
+        </button>
+
+        <span id="pageInfo" class="status"></span>
+
+        <button id="nextPage" type="button" disabled>
+          Next →
+        </button>
+
+        <button id="lastPage" type="button" disabled>
+          »
+        </button>
+      </div>
+
+      <span id="status" class="status">
+        Loading…
+      </span>
+    </div>
+
+    <div id="loadingBar" class="loading-bar">
+      <div class="loading-bar-inner"></div>
     </div>
 
     <div id="output"></div>
   </main>
 
   <script>
+    /*
+     * ============================
+     * CONFIG
+     * ============================
+     */
+
     const CSV_FILE = "data.csv";
 
+    // Number of rows shown at once.
+    // Increase to 500 if you want more rows per page.
+    const PAGE_SIZE = 200;
+
+    // Delay after typing before search starts.
+    const SEARCH_DELAY = 300;
+
+    // Papa Parse chunk size.
+    // 2 MB is a decent balance for large CSVs.
+    const CHUNK_SIZE = 2 * 1024 * 1024;
+
+
+    /*
+     * ============================
+     * ELEMENTS
+     * ============================
+     */
+
     const output = document.getElementById("output");
+
     const searchInput = document.getElementById("search");
+
     const status = document.getElementById("status");
-    document.getElementById("csv-name").textContent = CSV_FILE;
+
+    const pageInfo = document.getElementById("pageInfo");
+
+    const loadingBar = document.getElementById("loadingBar");
+
+    const firstPageButton =
+      document.getElementById("firstPage");
+
+    const prevPageButton =
+      document.getElementById("prevPage");
+
+    const nextPageButton =
+      document.getElementById("nextPage");
+
+    const lastPageButton =
+      document.getElementById("lastPage");
+
+
+    /*
+     * ============================
+     * STATE
+     * ============================
+     */
 
     let rows = [];
+
     let columns = [];
+
+    let filteredRows = rows;
+
+    let currentPage = 0;
+
     let sortColumn = null;
+
     let sortAscending = true;
+
+    let searchTimer = null;
+
+    let loading = true;
+
+    let lastRenderTime = 0;
+
+
+    /*
+     * Reuse a single collator instead of creating
+     * one every time a sort is performed.
+     */
+    const collator = new Intl.Collator(
+      undefined,
+      {
+        numeric: true,
+        sensitivity: "base"
+      }
+    );
+
+
+    /*
+     * ============================
+     * HELPERS
+     * ============================
+     */
 
     function escapeHtml(value) {
       return String(value ?? "")
@@ -164,124 +379,683 @@
         .replaceAll("'", "&#039;");
     }
 
-    function getFilteredRows() {
-      const query = searchInput.value.trim().toLowerCase();
 
-      let filtered = !query
-        ? [...rows]
-        : rows.filter(row =>
-            columns.some(column =>
-              String(row[column] ?? "").toLowerCase().includes(query)
-            )
-          );
-
-      if (sortColumn) {
-        filtered.sort((a, b) => {
-          const aValue = String(a[sortColumn] ?? "");
-          const bValue = String(b[sortColumn] ?? "");
-
-          const aNumber = Number(aValue);
-          const bNumber = Number(bValue);
-          const bothNumbers =
-            aValue.trim() !== "" &&
-            bValue.trim() !== "" &&
-            Number.isFinite(aNumber) &&
-            Number.isFinite(bNumber);
-
-          const comparison = bothNumbers
-            ? aNumber - bNumber
-            : aValue.localeCompare(bValue, undefined, {
-                numeric: true,
-                sensitivity: "base"
-              });
-
-          return sortAscending ? comparison : -comparison;
-        });
+    function getPageCount() {
+      if (filteredRows.length === 0) {
+        return 1;
       }
 
-      return filtered;
+      return Math.ceil(
+        filteredRows.length / PAGE_SIZE
+      );
     }
 
-    function renderTable() {
-      const filteredRows = getFilteredRows();
 
-      status.textContent =
-        `${filteredRows.length.toLocaleString()} of ${rows.length.toLocaleString()} rows`;
+    function clampCurrentPage() {
+      const pageCount = getPageCount();
 
-      if (!columns.length) {
-        output.innerHTML = '<div class="error">The CSV does not contain any columns.</div>';
+      if (currentPage < 0) {
+        currentPage = 0;
+      }
+
+      if (currentPage >= pageCount) {
+        currentPage = pageCount - 1;
+      }
+    }
+
+
+    function updatePagination() {
+      clampCurrentPage();
+
+      const pageCount = getPageCount();
+
+      const hasRows = filteredRows.length > 0;
+
+      firstPageButton.disabled =
+        !hasRows ||
+        currentPage === 0;
+
+      prevPageButton.disabled =
+        !hasRows ||
+        currentPage === 0;
+
+      nextPageButton.disabled =
+        !hasRows ||
+        currentPage >= pageCount - 1;
+
+      lastPageButton.disabled =
+        !hasRows ||
+        currentPage >= pageCount - 1;
+
+      if (!hasRows) {
+        pageInfo.textContent = "No results";
         return;
       }
 
-      const header = columns.map(column => {
-        let indicator = "";
-        if (sortColumn === column) {
-          indicator = `<span class="sort-indicator">${sortAscending ? "▲" : "▼"}</span>`;
+      pageInfo.textContent =
+        `Page ${(currentPage + 1).toLocaleString()} ` +
+        `of ${pageCount.toLocaleString()}`;
+    }
+
+
+    function updateStatus() {
+      const total =
+        rows.length.toLocaleString();
+
+      const visible =
+        filteredRows.length.toLocaleString();
+
+      if (loading) {
+        status.textContent =
+          `${total} rows loaded…`;
+
+        return;
+      }
+
+      if (searchInput.value.trim()) {
+        status.textContent =
+          `${visible} of ${total} rows`;
+      } else {
+        status.textContent =
+          `${total} rows`;
+      }
+    }
+
+
+    function scrollTableToTop() {
+      const tableWrap =
+        output.querySelector(".table-wrap");
+
+      if (tableWrap) {
+        tableWrap.scrollTop = 0;
+      }
+    }
+
+
+    /*
+     * ============================
+     * TABLE RENDERING
+     * ============================
+     */
+
+    function createHeaderHtml() {
+      return columns
+        .map(column => {
+          let indicator = "";
+
+          if (sortColumn === column) {
+            indicator = `
+              <span class="sort-indicator">
+                ${sortAscending ? "▲" : "▼"}
+              </span>
+            `;
+          }
+
+          return `
+            <th data-column="${escapeHtml(column)}">
+              ${escapeHtml(column)}
+              ${indicator}
+            </th>
+          `;
+        })
+        .join("");
+    }
+
+
+    function renderPage() {
+      updatePagination();
+      updateStatus();
+
+      if (!columns.length) {
+        if (!loading) {
+          output.innerHTML = `
+            <div class="error">
+              The CSV does not contain any columns.
+            </div>
+          `;
         }
 
-        return `<th data-column="${escapeHtml(column)}">${escapeHtml(column)}${indicator}</th>`;
-      }).join("");
+        return;
+      }
 
-      const body = filteredRows.map(row => {
-        const cells = columns
-          .map(column => `<td>${escapeHtml(row[column])}</td>`)
-          .join("");
-        return `<tr>${cells}</tr>`;
-      }).join("");
+      const start =
+        currentPage * PAGE_SIZE;
+
+      const end =
+        Math.min(
+          start + PAGE_SIZE,
+          filteredRows.length
+        );
+
+      /*
+       * Crucial optimisation:
+       *
+       * Only PAGE_SIZE rows are rendered.
+       *
+       * Even if there are 500,000 rows,
+       * only 200 enter the DOM.
+       */
+      const pageRows =
+        filteredRows.slice(start, end);
+
+      const header =
+        createHeaderHtml();
+
+      let body = "";
+
+      for (let i = 0; i < pageRows.length; i++) {
+        const row = pageRows[i];
+
+        body += "<tr>";
+
+        for (let c = 0; c < columns.length; c++) {
+          const column = columns[c];
+
+          body +=
+            `<td>${escapeHtml(row[column])}</td>`;
+        }
+
+        body += "</tr>";
+      }
+
+      if (!pageRows.length) {
+        body = `
+          <tr>
+            <td
+              colspan="${Math.max(columns.length, 1)}"
+              style="
+                text-align:center;
+                color:#656d76;
+                padding:30px;
+              "
+            >
+              No matching rows
+            </td>
+          </tr>
+        `;
+      }
 
       output.innerHTML = `
         <div class="table-wrap">
           <table>
-            <thead><tr>${header}</tr></thead>
-            <tbody>${body}</tbody>
+            <thead>
+              <tr>
+                ${header}
+              </tr>
+            </thead>
+
+            <tbody>
+              ${body}
+            </tbody>
           </table>
         </div>
       `;
+    }
 
-      output.querySelectorAll("th").forEach(th => {
-        th.addEventListener("click", () => {
-          const column = th.dataset.column;
 
-          if (sortColumn === column) {
-            sortAscending = !sortAscending;
+    /*
+     * ============================
+     * SEARCH
+     * ============================
+     */
+
+    function rowMatchesQuery(
+      row,
+      query
+    ) {
+      /*
+       * Plain for-loops are slightly faster here
+       * than repeatedly using some/every/map.
+       */
+
+      for (
+        let i = 0;
+        i < columns.length;
+        i++
+      ) {
+        const value =
+          row[columns[i]];
+
+        if (value == null) {
+          continue;
+        }
+
+        if (
+          String(value)
+            .toLowerCase()
+            .includes(query)
+        ) {
+          return true;
+        }
+      }
+
+      return false;
+    }
+
+
+    function filterRows(query) {
+      /*
+       * Important:
+       *
+       * Don't copy the giant rows array if
+       * there's no active search.
+       */
+      if (!query) {
+        return rows;
+      }
+
+      const results = [];
+
+      for (
+        let i = 0;
+        i < rows.length;
+        i++
+      ) {
+        if (
+          rowMatchesQuery(
+            rows[i],
+            query
+          )
+        ) {
+          results.push(rows[i]);
+        }
+      }
+
+      return results;
+    }
+
+
+    /*
+     * ============================
+     * SORTING
+     * ============================
+     */
+
+    function sortRows(data) {
+      if (!sortColumn) {
+        return data;
+      }
+
+      /*
+       * Sorting mutates arrays, so only make a
+       * copy when sorting is actually requested.
+       */
+      const sorted =
+        data.slice();
+
+      const column =
+        sortColumn;
+
+      const direction =
+        sortAscending ? 1 : -1;
+
+      sorted.sort(
+        (a, b) => {
+          const rawA =
+            a[column] ?? "";
+
+          const rawB =
+            b[column] ?? "";
+
+          const stringA =
+            String(rawA);
+
+          const stringB =
+            String(rawB);
+
+          const numberA =
+            Number(stringA);
+
+          const numberB =
+            Number(stringB);
+
+          const aIsNumber =
+            stringA.trim() !== "" &&
+            Number.isFinite(numberA);
+
+          const bIsNumber =
+            stringB.trim() !== "" &&
+            Number.isFinite(numberB);
+
+          let comparison;
+
+          if (
+            aIsNumber &&
+            bIsNumber
+          ) {
+            comparison =
+              numberA - numberB;
           } else {
-            sortColumn = column;
-            sortAscending = true;
+            comparison =
+              collator.compare(
+                stringA,
+                stringB
+              );
           }
 
-          renderTable();
-        });
+          return (
+            comparison *
+            direction
+          );
+        }
+      );
+
+      return sorted;
+    }
+
+
+    /*
+     * ============================
+     * FILTER + SORT
+     * ============================
+     */
+
+    function applyFilterAndSort() {
+      const query =
+        searchInput.value
+          .trim()
+          .toLowerCase();
+
+      status.textContent =
+        query
+          ? "Searching…"
+          : "Updating…";
+
+      /*
+       * Let the browser update the status message
+       * before doing potentially expensive work.
+       */
+      requestAnimationFrame(() => {
+        let result =
+          filterRows(query);
+
+        result =
+          sortRows(result);
+
+        filteredRows =
+          result;
+
+        currentPage = 0;
+
+        renderPage();
       });
     }
 
-    Papa.parse(CSV_FILE, {
-      download: true,
-      header: true,
-      skipEmptyLines: true,
-      transformHeader: header => header.trim(),
 
-      complete: results => {
-        if (results.errors.length) {
-          console.warn("CSV parsing warnings:", results.errors);
+    /*
+     * ============================
+     * SEARCH EVENTS
+     * ============================
+     */
+
+    searchInput.addEventListener(
+      "input",
+      () => {
+        clearTimeout(searchTimer);
+
+        /*
+         * Don't search the entire CSV on every
+         * individual keyboard event.
+         */
+        searchTimer =
+          setTimeout(
+            applyFilterAndSort,
+            SEARCH_DELAY
+          );
+      }
+    );
+
+
+    /*
+     * ============================
+     * PAGINATION
+     * ============================
+     */
+
+    firstPageButton.addEventListener(
+      "click",
+      () => {
+        currentPage = 0;
+
+        renderPage();
+
+        scrollTableToTop();
+      }
+    );
+
+
+    prevPageButton.addEventListener(
+      "click",
+      () => {
+        if (currentPage > 0) {
+          currentPage--;
+
+          renderPage();
+
+          scrollTableToTop();
+        }
+      }
+    );
+
+
+    nextPageButton.addEventListener(
+      "click",
+      () => {
+        const lastPage =
+          getPageCount() - 1;
+
+        if (
+          currentPage <
+          lastPage
+        ) {
+          currentPage++;
+
+          renderPage();
+
+          scrollTableToTop();
+        }
+      }
+    );
+
+
+    lastPageButton.addEventListener(
+      "click",
+      () => {
+        currentPage =
+          getPageCount() - 1;
+
+        renderPage();
+
+        scrollTableToTop();
+      }
+    );
+
+
+    /*
+     * ============================
+     * SORT HEADER CLICKS
+     * ============================
+     *
+     * One delegated click listener.
+     *
+     * We DON'T attach a separate listener to
+     * every header every time the table renders.
+     */
+
+    output.addEventListener(
+      "click",
+      event => {
+        const th =
+          event.target.closest(
+            "th[data-column]"
+          );
+
+        if (!th) {
+          return;
         }
 
-        columns = results.meta.fields || [];
-        rows = results.data || [];
-        renderTable();
-      },
+        const column =
+          th.dataset.column;
 
-      error: error => {
-        status.textContent = "Unable to load CSV";
-        output.innerHTML = `
-          <div class="error">
-            <strong>Could not load ${escapeHtml(CSV_FILE)}.</strong>
-            ${escapeHtml(error.message || error)}
-          </div>
-        `;
+        if (
+          sortColumn === column
+        ) {
+          sortAscending =
+            !sortAscending;
+        } else {
+          sortColumn =
+            column;
+
+          sortAscending =
+            true;
+        }
+
+        applyFilterAndSort();
       }
-    });
+    );
 
-    searchInput.addEventListener("input", renderTable);
+
+    /*
+     * ============================
+     * LOAD CSV
+     * ============================
+     */
+
+    Papa.parse(
+      CSV_FILE,
+      {
+        download: true,
+
+        header: true,
+
+        skipEmptyLines: true,
+
+        /*
+         * Parse CSV away from the main UI thread.
+         */
+        worker: true,
+
+        /*
+         * Process the CSV progressively instead
+         * of waiting for one enormous result.
+         */
+        chunkSize: CHUNK_SIZE,
+
+        transformHeader(header) {
+          return header.trim();
+        },
+
+
+        /*
+         * Called repeatedly while CSV is loading.
+         */
+        chunk(results) {
+          if (!columns.length) {
+            columns =
+              results.meta.fields || [];
+          }
+
+          if (
+            results.errors &&
+            results.errors.length
+          ) {
+            console.warn(
+              "CSV parsing warnings:",
+              results.errors
+            );
+          }
+
+
+          /*
+           * Avoid rows.push(...results.data)
+           * because extremely large arrays can
+           * exceed JavaScript argument limits.
+           */
+          for (
+            let i = 0;
+            i < results.data.length;
+            i++
+          ) {
+            rows.push(
+              results.data[i]
+            );
+          }
+
+
+          /*
+           * During loading, filteredRows can
+           * simply reference rows.
+           */
+          filteredRows = rows;
+
+
+          /*
+           * Render the initial page quickly,
+           * but don't continuously rebuild the
+           * DOM for every parsed chunk.
+           */
+          const now =
+            performance.now();
+
+          if (
+            rows.length <= PAGE_SIZE ||
+            now - lastRenderTime > 750
+          ) {
+            lastRenderTime = now;
+
+            renderPage();
+          } else {
+            updateStatus();
+          }
+        },
+
+
+        /*
+         * All CSV chunks have finished.
+         */
+        complete() {
+          loading = false;
+
+          loadingBar.classList.add(
+            "hidden"
+          );
+
+          filteredRows = rows;
+
+          applyFilterAndSort();
+        },
+
+
+        /*
+         * Download or parsing failure.
+         */
+        error(error) {
+          loading = false;
+
+          loadingBar.classList.add(
+            "hidden"
+          );
+
+          status.textContent =
+            "Unable to load CSV";
+
+          output.innerHTML = `
+            <div class="error">
+              <strong>
+                Could not load
+                ${escapeHtml(CSV_FILE)}.
+              </strong>
+
+              <br><br>
+
+              ${escapeHtml(
+                error.message || error
+              )}
+            </div>
+          `;
+        }
+      }
+    );
   </script>
 </body>
 </html>
