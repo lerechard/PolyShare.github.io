@@ -1,20 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>Cal Poly PDF Share 2</title>
 
   <style>
     :root {
-      font-family:
-        system-ui,
-        -apple-system,
-        BlinkMacSystemFont,
-        "Segoe UI",
-        sans-serif;
-
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       color: #1f2328;
       background: #f6f8fa;
     }
@@ -29,12 +23,12 @@
     }
 
     .container {
-      width: min(1200px, 100%);
+      width: min(1400px, 100%);
       margin: 0 auto;
     }
 
     h1 {
-      margin: 0 0 8px;
+      margin: 0 0 6px;
       font-size: 2rem;
     }
 
@@ -45,39 +39,33 @@
 
     .toolbar {
       display: flex;
-      gap: 10px;
       align-items: center;
       flex-wrap: wrap;
+      gap: 10px;
       margin-bottom: 14px;
     }
 
-    input[type="search"] {
+    #search {
       width: min(420px, 100%);
       padding: 10px 12px;
-
       border: 1px solid #d0d7de;
       border-radius: 6px;
-
-      background: white;
+      background: #fff;
       color: inherit;
-
       font: inherit;
     }
 
-    input[type="search"]:focus {
+    #search:focus {
       outline: 2px solid #0969da;
       outline-offset: -1px;
     }
 
     button {
       padding: 9px 12px;
-
       border: 1px solid #d0d7de;
       border-radius: 6px;
-
-      background: white;
-      color: inherit;
-
+      background: #fff;
+      color: #1f2328;
       font: inherit;
       cursor: pointer;
     }
@@ -87,7 +75,7 @@
     }
 
     button:disabled {
-      opacity: 0.45;
+      opacity: 0.4;
       cursor: default;
     }
 
@@ -96,19 +84,14 @@
       font-size: 0.9rem;
     }
 
-    .loading-status {
-      display: inline-flex;
-      align-items: center;
-      gap: 7px;
-    }
-
     .loading-dot {
+      display: inline-block;
       width: 8px;
       height: 8px;
-
+      margin-right: 5px;
       border-radius: 50%;
-      background: #1f883d;
-
+      background: #1a7f37;
+      vertical-align: middle;
       animation: pulse 0.8s ease-in-out infinite alternate;
     }
 
@@ -123,34 +106,26 @@
     }
 
     .table-wrap {
+      max-height: 76vh;
       overflow: auto;
-      max-height: 75vh;
-
-      background: white;
-
+      background: #fff;
       border: 1px solid #d0d7de;
       border-radius: 8px;
-
-      box-shadow: 0 1px 2px rgba(31, 35, 40, 0.04);
     }
 
     table {
       width: 100%;
-      min-width: 600px;
-
+      min-width: 700px;
       border-collapse: collapse;
     }
 
     th,
     td {
       padding: 9px 12px;
-
-      border-bottom: 1px solid #d8dee4;
       border-right: 1px solid #d8dee4;
-
+      border-bottom: 1px solid #d8dee4;
       text-align: left;
       vertical-align: top;
-
       white-space: nowrap;
     }
 
@@ -159,17 +134,11 @@
       border-right: 0;
     }
 
-    tr:last-child td {
-      border-bottom: 0;
-    }
-
     th {
       position: sticky;
       top: 0;
       z-index: 2;
-
       background: #f6f8fa;
-
       font-weight: 600;
       cursor: pointer;
       user-select: none;
@@ -187,38 +156,48 @@
       background: #eef6ff;
     }
 
-    .sort-indicator {
+    td a {
+      color: #0969da;
+      text-decoration: none;
+    }
+
+    td a:hover {
+      text-decoration: underline;
+    }
+
+    .sort-arrow {
       margin-left: 4px;
+      font-size: 0.75em;
       color: #656d76;
-      font-size: 0.8em;
+    }
+
+    .message {
+      padding: 28px;
+      color: #656d76;
+      text-align: center;
+      background: #fff;
+      border: 1px solid #d0d7de;
+      border-radius: 8px;
     }
 
     .error {
       padding: 16px;
-
       color: #cf222e;
       background: #ffebe9;
-
       border: 1px solid #ff8182;
-      border-radius: 6px;
-    }
-
-    .empty {
-      padding: 32px;
-      text-align: center;
-      color: #656d76;
+      border-radius: 8px;
     }
 
     @media (max-width: 700px) {
       body {
-        padding: 20px 10px;
+        padding: 18px 10px;
       }
 
       h1 {
         font-size: 1.6rem;
       }
 
-      input[type="search"] {
+      #search {
         width: 100%;
       }
     }
@@ -227,110 +206,94 @@
 
 <body>
   <main class="container">
+
     <h1>Cal Poly PDF Share 2</h1>
     <p class="subtitle">It's the remix</p>
 
     <div class="toolbar">
+
       <input
         id="search"
         type="search"
-        placeholder="Search loaded rows..."
-        aria-label="Search rows"
+        placeholder="Search rows..."
         autocomplete="off"
-      />
+        aria-label="Search rows"
+      >
 
-      <button id="firstPage" type="button" disabled>
-        «
-      </button>
-
-      <button id="prevPage" type="button" disabled>
-        ← Previous
-      </button>
+      <button id="firstPage" type="button" disabled>«</button>
+      <button id="prevPage" type="button" disabled>← Previous</button>
 
       <span id="pageInfo" class="status"></span>
 
-      <button id="nextPage" type="button" disabled>
-        Next →
-      </button>
+      <button id="nextPage" type="button" disabled>Next →</button>
+      <button id="lastPage" type="button" disabled>»</button>
 
-      <button id="lastPage" type="button" disabled>
-        »
-      </button>
-
-      <span class="status loading-status">
+      <span id="status" class="status">
         <span id="loadingDot" class="loading-dot"></span>
-        <span id="statusText">Opening data.csv…</span>
+        <span id="statusText">Loading data.csv…</span>
       </span>
+
     </div>
 
     <div id="output">
-      <div class="empty">
-        Loading first rows…
-      </div>
+      <div class="message">Waiting for first rows…</div>
     </div>
+
   </main>
 
   <script>
     "use strict";
 
+
     /*
-     * ==========================================================
-     * CONFIG
-     * ==========================================================
+     * ============================================================
+     * SETTINGS
+     * ============================================================
      */
 
     const CSV_FILE = "data.csv";
 
-    // Only this many rows exist in the HTML table at once.
+    // Only this many rows are inserted into the HTML table.
     const PAGE_SIZE = 100;
 
-    // Wait briefly after typing before searching.
+    // Search waits this long after the user stops typing.
     const SEARCH_DELAY = 200;
 
+    // While streaming, don't redraw faster than this.
+    const RENDER_DELAY = 100;
+
 
     /*
-     * ==========================================================
+     * ============================================================
      * ELEMENTS
-     * ==========================================================
+     * ============================================================
      */
 
-    const output =
-      document.getElementById("output");
+    const output = document.getElementById("output");
 
-    const searchInput =
-      document.getElementById("search");
+    const searchInput = document.getElementById("search");
 
-    const statusText =
-      document.getElementById("statusText");
+    const statusText = document.getElementById("statusText");
+    const loadingDot = document.getElementById("loadingDot");
 
-    const loadingDot =
-      document.getElementById("loadingDot");
+    const pageInfo = document.getElementById("pageInfo");
 
-    const pageInfo =
-      document.getElementById("pageInfo");
-
-    const firstPageButton =
-      document.getElementById("firstPage");
-
-    const prevPageButton =
-      document.getElementById("prevPage");
-
-    const nextPageButton =
-      document.getElementById("nextPage");
-
-    const lastPageButton =
-      document.getElementById("lastPage");
+    const firstPageButton = document.getElementById("firstPage");
+    const prevPageButton = document.getElementById("prevPage");
+    const nextPageButton = document.getElementById("nextPage");
+    const lastPageButton = document.getElementById("lastPage");
 
 
     /*
-     * ==========================================================
-     * TABLE STATE
-     * ==========================================================
+     * ============================================================
+     * DATA
+     * ============================================================
      */
+
+    let columns = [];
 
     let rows = [];
     let visibleRows = rows;
-    let columns = [];
 
     let currentPage = 0;
 
@@ -338,53 +301,52 @@
     let sortAscending = true;
 
     let loading = true;
-    let searchTimer = null;
-
-    let renderQueued = false;
 
     let bytesLoaded = 0;
     let totalBytes = 0;
 
+    let searchTimer = null;
+    let renderTimer = null;
 
-    const collator = new Intl.Collator(
-      undefined,
-      {
-        numeric: true,
-        sensitivity: "base"
-      }
-    );
+    let viewNeedsUpdate = false;
+
+
+    const collator = new Intl.Collator(undefined, {
+      numeric: true,
+      sensitivity: "base"
+    });
 
 
     /*
-     * ==========================================================
-     * CSV STREAMING PARSER STATE
-     * ==========================================================
-     *
-     * This parser supports:
-     *
-     * - commas inside quoted fields
-     * - escaped quotes ("")
-     * - newlines inside quoted fields
-     * - Windows CRLF
-     * - Unix LF
-     * - streaming chunks
-     *
-     * No external library is required.
+     * ============================================================
+     * CSV PARSER STATE
+     * ============================================================
      */
 
-    let csvField = "";
-    let csvRow = [];
+    let parserField = "";
+    let parserRow = [];
 
-    let csvInsideQuotes = false;
-    let csvQuotePending = false;
+    let parserInQuotes = false;
 
-    let headerRead = false;
+    /*
+     * If a network chunk happens to end exactly on a quote,
+     * we need the next character before knowing whether it was:
+     *
+     *     ""
+     *
+     * or the end of a quoted field.
+     */
+    let parserPendingQuote = false;
+
+    let parserPreviousCR = false;
+
+    let headerLoaded = false;
 
 
     /*
-     * ==========================================================
-     * HELPERS
-     * ==========================================================
+     * ============================================================
+     * BASIC HELPERS
+     * ============================================================
      */
 
     function escapeHtml(value) {
@@ -397,68 +359,152 @@
     }
 
 
-    function formatBytes(bytes) {
-      if (!Number.isFinite(bytes) || bytes <= 0) {
-        return "0 KB";
+    /*
+     * Make cells containing a complete HTTP or HTTPS URL clickable.
+     *
+     * This DOES NOT load the URL.
+     *
+     * The external site is only contacted if the visitor clicks it.
+     */
+    function renderCell(value) {
+      const text = String(value ?? "");
+      const trimmed = text.trim();
+
+      if (!trimmed) {
+        return "";
       }
 
-      const units = [
-        "B",
-        "KB",
-        "MB",
-        "GB"
-      ];
+      if (
+        trimmed.startsWith("https://") ||
+        trimmed.startsWith("http://")
+      ) {
+        try {
+          const url = new URL(trimmed);
+
+          if (
+            url.protocol === "https:" ||
+            url.protocol === "http:"
+          ) {
+            return (
+              '<a href="' +
+              escapeHtml(url.href) +
+              '" target="_blank" rel="noopener noreferrer">' +
+              escapeHtml(trimmed) +
+              "</a>"
+            );
+          }
+        } catch {
+          // Invalid URL. Fall through to normal text.
+        }
+      }
+
+      return escapeHtml(text);
+    }
+
+
+    function formatBytes(bytes) {
+      if (!Number.isFinite(bytes) || bytes <= 0) {
+        return "0 B";
+      }
+
+      const units = ["B", "KB", "MB", "GB"];
 
       let value = bytes;
-      let index = 0;
+      let unit = 0;
 
       while (
         value >= 1024 &&
-        index < units.length - 1
+        unit < units.length - 1
       ) {
         value /= 1024;
-        index++;
+        unit++;
       }
 
       return (
-        value.toFixed(
-          index === 0 ? 0 : 1
-        ) +
+        value.toFixed(unit === 0 ? 0 : 1) +
         " " +
-        units[index]
+        units[unit]
       );
     }
 
+
+    /*
+     * ============================================================
+     * STATUS
+     * ============================================================
+     */
+
+    function updateStatus() {
+      const rowCount = rows.length.toLocaleString();
+
+      if (loading) {
+        if (totalBytes > 0) {
+          const percentage = Math.min(
+            100,
+            Math.round((bytesLoaded / totalBytes) * 100)
+          );
+
+          statusText.textContent =
+            rowCount +
+            " rows — " +
+            percentage +
+            "% (" +
+            formatBytes(bytesLoaded) +
+            " / " +
+            formatBytes(totalBytes) +
+            ")";
+        } else {
+          statusText.textContent =
+            rowCount + " rows loaded…";
+        }
+
+        return;
+      }
+
+      loadingDot.style.display = "none";
+
+      if (searchInput.value.trim()) {
+        statusText.textContent =
+          visibleRows.length.toLocaleString() +
+          " matches from " +
+          rows.length.toLocaleString() +
+          " rows";
+      } else {
+        statusText.textContent =
+          rows.length.toLocaleString() +
+          " rows loaded";
+      }
+    }
+
+
+    /*
+     * ============================================================
+     * PAGINATION
+     * ============================================================
+     */
 
     function getPageCount() {
       return Math.max(
         1,
         Math.ceil(
-          visibleRows.length /
-          PAGE_SIZE
+          visibleRows.length / PAGE_SIZE
         )
       );
     }
 
 
     function updatePagination() {
-      const pageCount =
-        getPageCount();
+      const pageCount = getPageCount();
 
-      if (
-        currentPage >=
-        pageCount
-      ) {
-        currentPage =
-          pageCount - 1;
+      if (currentPage >= pageCount) {
+        currentPage = pageCount - 1;
       }
 
       if (currentPage < 0) {
         currentPage = 0;
       }
 
-      const hasRows =
-        visibleRows.length > 0;
+      const hasRows = visibleRows.length > 0;
 
       firstPageButton.disabled =
         !hasRows ||
@@ -470,98 +516,32 @@
 
       nextPageButton.disabled =
         !hasRows ||
-        currentPage >=
-          pageCount - 1;
+        currentPage >= pageCount - 1;
 
       lastPageButton.disabled =
         !hasRows ||
-        currentPage >=
-          pageCount - 1;
+        currentPage >= pageCount - 1;
 
       if (!hasRows) {
-        pageInfo.textContent =
-          "No rows";
-      } else {
-        pageInfo.textContent =
-          `Page ${
-            (currentPage + 1)
-              .toLocaleString()
-          } of ${
-            pageCount
-              .toLocaleString()
-          }`;
-      }
-    }
-
-
-    function updateStatus() {
-      const count =
-        rows.length.toLocaleString();
-
-      if (loading) {
-        if (totalBytes > 0) {
-          const percent =
-            Math.min(
-              100,
-              Math.round(
-                (
-                  bytesLoaded /
-                  totalBytes
-                ) * 100
-              )
-            );
-
-          statusText.textContent =
-            `${count} rows loaded — ` +
-            `${percent}% ` +
-            `(${formatBytes(bytesLoaded)} / ` +
-            `${formatBytes(totalBytes)})`;
-        } else {
-          statusText.textContent =
-            `${count} rows loaded…`;
-        }
-
+        pageInfo.textContent = "No rows";
         return;
       }
 
-      loadingDot.style.display =
-        "none";
-
-      const query =
-        searchInput.value.trim();
-
-      if (query) {
-        statusText.textContent =
-          `${visibleRows.length.toLocaleString()} matches ` +
-          `from ${count} rows`;
-      } else {
-        statusText.textContent =
-          `${count} rows loaded`;
-      }
+      pageInfo.textContent =
+        "Page " +
+        (currentPage + 1).toLocaleString() +
+        " of " +
+        pageCount.toLocaleString();
     }
 
 
     /*
-     * ==========================================================
-     * DOM RENDERING
-     * ==========================================================
+     * ============================================================
+     * TABLE RENDERING
+     * ============================================================
      */
 
-    function queueRender() {
-      if (renderQueued) {
-        return;
-      }
-
-      renderQueued = true;
-
-      requestAnimationFrame(() => {
-        renderQueued = false;
-        renderPage();
-      });
-    }
-
-
-    function renderPage() {
+    function renderTable() {
       updateStatus();
       updatePagination();
 
@@ -585,37 +565,30 @@
 
       let headerHtml = "";
 
-      for (
-        let i = 0;
-        i < columns.length;
-        i++
-      ) {
-        const column =
-          columns[i];
+      for (let i = 0; i < columns.length; i++) {
+        const column = columns[i];
 
-        let indicator = "";
+        let arrow = "";
 
-        if (
-          sortColumn === column
-        ) {
-          indicator = `
-            <span class="sort-indicator">
-              ${sortAscending ? "▲" : "▼"}
-            </span>
-          `;
+        if (column === sortColumn) {
+          arrow =
+            '<span class="sort-arrow">' +
+            (sortAscending ? "▲" : "▼") +
+            "</span>";
         }
 
-        headerHtml += `
-          <th data-column="${escapeHtml(column)}">
-            ${escapeHtml(column)}
-            ${indicator}
-          </th>
-        `;
+        headerHtml +=
+          '<th data-column="' +
+          escapeHtml(column) +
+          '">' +
+          escapeHtml(column) +
+          arrow +
+          "</th>";
       }
 
 
       /*
-       * Rows
+       * Body
        */
 
       let bodyHtml = "";
@@ -625,8 +598,7 @@
         rowIndex < end;
         rowIndex++
       ) {
-        const row =
-          visibleRows[rowIndex];
+        const row = visibleRows[rowIndex];
 
         bodyHtml += "<tr>";
 
@@ -639,7 +611,9 @@
             columns[columnIndex];
 
           bodyHtml +=
-            `<td>${escapeHtml(row[column])}</td>`;
+            "<td>" +
+            renderCell(row[column]) +
+            "</td>";
         }
 
         bodyHtml += "</tr>";
@@ -647,103 +621,132 @@
 
 
       if (!bodyHtml) {
-        bodyHtml = `
-          <tr>
-            <td
-              colspan="${Math.max(columns.length, 1)}"
-              class="empty"
-            >
-              ${
-                loading
-                  ? "Loading rows…"
-                  : "No matching rows"
-              }
-            </td>
-          </tr>
-        `;
+        bodyHtml =
+          '<tr>' +
+          '<td colspan="' +
+          Math.max(columns.length, 1) +
+          '" style="text-align:center;padding:30px;color:#656d76">' +
+          (loading ? "Loading…" : "No matching rows") +
+          "</td>" +
+          "</tr>";
       }
 
 
-      output.innerHTML = `
-        <div class="table-wrap">
-          <table>
-            <thead>
-              <tr>
-                ${headerHtml}
-              </tr>
-            </thead>
+      output.innerHTML =
+        '<div class="table-wrap">' +
+          "<table>" +
+            "<thead>" +
+              "<tr>" +
+                headerHtml +
+              "</tr>" +
+            "</thead>" +
 
-            <tbody>
-              ${bodyHtml}
-            </tbody>
-          </table>
-        </div>
-      `;
+            "<tbody>" +
+              bodyHtml +
+            "</tbody>" +
+          "</table>" +
+        "</div>";
     }
 
 
     /*
-     * ==========================================================
+     * Don't rebuild the table after every single CSV row.
+     *
+     * Rows still appear progressively, but the browser only
+     * redraws roughly every 100ms while the file streams.
+     */
+    function scheduleRender() {
+      if (renderTimer !== null) {
+        return;
+      }
+
+      renderTimer = setTimeout(() => {
+        renderTimer = null;
+
+        if (viewNeedsUpdate) {
+          applyView(false);
+          viewNeedsUpdate = false;
+        } else {
+          renderTable();
+        }
+
+      }, RENDER_DELAY);
+    }
+
+
+    /*
+     * ============================================================
      * CSV ROW HANDLING
-     * ==========================================================
+     * ============================================================
      */
 
-    function processCompletedCsvRow(values) {
-      /*
-       * Skip completely blank lines.
-       */
-      const allBlank =
-        values.every(
-          value =>
-            String(value)
-              .trim() === ""
-        );
+    function createUniqueHeaders(values) {
+      const result = [];
+      const counts = new Map();
 
-      if (allBlank) {
+      for (let i = 0; i < values.length; i++) {
+        let name = String(values[i] ?? "")
+          .replace(/^\uFEFF/, "")
+          .trim();
+
+        if (!name) {
+          name = "Column " + (i + 1);
+        }
+
+        const count =
+          (counts.get(name) || 0) + 1;
+
+        counts.set(name, count);
+
+        if (count > 1) {
+          result.push(
+            name + " (" + count + ")"
+          );
+        } else {
+          result.push(name);
+        }
+      }
+
+      return result;
+    }
+
+
+    function handleCsvRow(values) {
+      /*
+       * Skip a totally empty CSV line.
+       */
+      let containsData = false;
+
+      for (let i = 0; i < values.length; i++) {
+        if (String(values[i] ?? "").trim() !== "") {
+          containsData = true;
+          break;
+        }
+      }
+
+      if (!containsData) {
         return;
       }
 
 
       /*
-       * First row = column headers.
+       * First row = headers.
        */
-      if (!headerRead) {
+      if (!headerLoaded) {
         columns =
-          values.map((value, index) => {
-            let name =
-              String(value)
-                .replace(/^\uFEFF/, "")
-                .trim();
+          createUniqueHeaders(values);
 
-            /*
-             * Prevent empty header names.
-             */
-            if (!name) {
-              name =
-                `Column ${index + 1}`;
-            }
+        headerLoaded = true;
 
-            return name;
-          });
-
-        headerRead = true;
-
-        queueRender();
+        renderTable();
 
         return;
       }
 
 
-      /*
-       * Convert CSV array into an object.
-       */
       const row = {};
 
-      for (
-        let i = 0;
-        i < columns.length;
-        i++
-      ) {
+      for (let i = 0; i < columns.length; i++) {
         row[columns[i]] =
           values[i] ?? "";
       }
@@ -752,109 +755,137 @@
 
 
       /*
-       * If there is no filter/sort active,
-       * visibleRows references the master array
-       * directly.
+       * Fast path when there is no search or sorting.
        */
       if (
         !searchInput.value.trim() &&
         !sortColumn
       ) {
         visibleRows = rows;
+      } else {
+        /*
+         * Search/sort is active, so refresh the view
+         * on the next throttled render.
+         */
+        viewNeedsUpdate = true;
       }
 
-
-      /*
-       * Immediately request a visible update.
-       * requestAnimationFrame prevents hundreds
-       * of DOM rebuilds in one frame.
-       */
-      queueRender();
+      scheduleRender();
     }
 
 
     /*
-     * ==========================================================
+     * ============================================================
      * STREAMING CSV PARSER
-     * ==========================================================
+     * ============================================================
+     *
+     * Supports:
+     *
+     *   normal CSV
+     *   quoted fields
+     *   commas inside quotes
+     *   "" escaped quotes
+     *   multiline quoted values
+     *   CRLF
+     *   LF
+     *
+     * The parser state survives across network chunks.
+     * ============================================================
      */
 
-    function processCsvText(text) {
+    function emitField() {
+      parserRow.push(parserField);
+      parserField = "";
+    }
+
+
+    function emitRow() {
+      emitField();
+
+      handleCsvRow(parserRow);
+
+      parserRow = [];
+      parserField = "";
+    }
+
+
+    function processCsvChunk(text) {
       for (
         let i = 0;
         i < text.length;
         i++
       ) {
-        const char =
-          text[i];
+        let char = text[i];
 
 
         /*
-         * We encountered a quote at the end of
-         * the previous text chunk and didn't yet
-         * know whether it was an escaped quote.
+         * Previous network chunk ended directly
+         * after a quote inside a quoted field.
          */
-        if (csvQuotePending) {
-          csvQuotePending = false;
+        if (parserPendingQuote) {
+          parserPendingQuote = false;
 
           if (char === '"') {
             /*
-             * ""
-             *
-             * Escaped quote inside quoted field.
+             * Previous quote + this quote = escaped ".
              */
-            csvField += '"';
-
+            parserField += '"';
             continue;
           }
 
           /*
-           * Previous quote closed the field.
+           * Previous quote was the closing quote.
            */
-          csvInsideQuotes = false;
+          parserInQuotes = false;
 
           /*
-           * Continue handling the current
-           * character normally below.
+           * Do NOT continue.
+           *
+           * Current character still needs normal
+           * processing, e.g. comma or newline.
            */
         }
 
 
         /*
-         * Inside a quoted value.
+         * Inside quoted field.
          */
-        if (csvInsideQuotes) {
+        if (parserInQuotes) {
           if (char === '"') {
+
             /*
-             * If another character exists in this
-             * chunk we can immediately determine
-             * whether this is "" or a closing ".
+             * Is there another character available
+             * in this network chunk?
              */
-            if (
-              i + 1 <
-              text.length
-            ) {
-              if (
-                text[i + 1] === '"'
-              ) {
-                csvField += '"';
+            if (i + 1 < text.length) {
+
+              if (text[i + 1] === '"') {
+                /*
+                 * ""
+                 */
+                parserField += '"';
                 i++;
               } else {
-                csvInsideQuotes = false;
+                /*
+                 * Closing quote.
+                 */
+                parserInQuotes = false;
               }
+
             } else {
               /*
-               * Quote is the final character in
-               * this network chunk.
+               * Quote is the final character in this
+               * network chunk. Decide when next chunk
+               * arrives.
                */
-              csvQuotePending = true;
+              parserPendingQuote = true;
             }
+
           } else {
             /*
-             * Includes commas and newlines inside
-             * quoted values.
+             * Commas/newlines inside quotes are text.
              */
-            csvField += char;
+            parserField += char;
           }
 
           continue;
@@ -862,120 +893,98 @@
 
 
         /*
-         * Start quoted field.
+         * Handle CRLF correctly outside quoted fields.
+         */
+        if (parserPreviousCR) {
+          parserPreviousCR = false;
+
+          if (char === "\n") {
+            /*
+             * CR already emitted the row.
+             * Ignore the LF half of CRLF.
+             */
+            continue;
+          }
+        }
+
+
+        /*
+         * Start quoted value.
          */
         if (
           char === '"' &&
-          csvField.length === 0
+          parserField.length === 0
         ) {
-          csvInsideQuotes = true;
+          parserInQuotes = true;
           continue;
         }
 
 
         /*
-         * New column.
+         * Next column.
          */
         if (char === ",") {
-          csvRow.push(csvField);
-          csvField = "";
-
+          emitField();
           continue;
         }
 
 
         /*
-         * New row.
+         * Windows/Mac newline.
+         */
+        if (char === "\r") {
+          emitRow();
+          parserPreviousCR = true;
+          continue;
+        }
+
+
+        /*
+         * Unix newline.
          */
         if (char === "\n") {
-          csvRow.push(csvField);
-
-          /*
-           * Strip trailing CR for CRLF files.
-           */
-          const lastIndex =
-            csvRow.length - 1;
-
-          if (
-            csvRow[lastIndex]
-              .endsWith("\r")
-          ) {
-            csvRow[lastIndex] =
-              csvRow[lastIndex]
-                .slice(0, -1);
-          }
-
-          processCompletedCsvRow(
-            csvRow
-          );
-
-          csvRow = [];
-          csvField = "";
-
+          emitRow();
           continue;
         }
 
 
         /*
-         * Ordinary character.
+         * Normal character.
          */
-        csvField += char;
+        parserField += char;
       }
     }
 
 
     function finishCsvParser() {
       /*
-       * A quote at EOF closes the quoted field.
+       * A pending quote at EOF is a closing quote.
        */
-      if (csvQuotePending) {
-        csvQuotePending = false;
-        csvInsideQuotes = false;
+      if (parserPendingQuote) {
+        parserPendingQuote = false;
+        parserInQuotes = false;
       }
 
 
       /*
-       * Process final row if the CSV doesn't
-       * end with a newline.
+       * Emit final row if file doesn't end in newline.
        */
       if (
-        csvField.length > 0 ||
-        csvRow.length > 0
+        parserField.length > 0 ||
+        parserRow.length > 0
       ) {
-        csvRow.push(csvField);
-
-        const lastIndex =
-          csvRow.length - 1;
-
-        if (
-          csvRow[lastIndex]
-            .endsWith("\r")
-        ) {
-          csvRow[lastIndex] =
-            csvRow[lastIndex]
-              .slice(0, -1);
-        }
-
-        processCompletedCsvRow(
-          csvRow
-        );
+        emitRow();
       }
-
-      csvField = "";
-      csvRow = [];
     }
 
 
     /*
-     * ==========================================================
+     * ============================================================
      * SEARCH
-     * ==========================================================
+     * ============================================================
      */
 
-    function rowMatchesQuery(
-      row,
-      query
-    ) {
+    function rowMatchesQuery(row, query) {
       for (
         let i = 0;
         i < columns.length;
@@ -985,7 +994,8 @@
           row[columns[i]];
 
         if (
-          value != null &&
+          value !== null &&
+          value !== undefined &&
           String(value)
             .toLowerCase()
             .includes(query)
@@ -998,9 +1008,7 @@
     }
 
 
-    function applyFilterAndSort(
-      resetPage = true
-    ) {
+    function applyView(resetPage = true) {
       const query =
         searchInput.value
           .trim()
@@ -1008,7 +1016,7 @@
 
 
       /*
-       * Filter
+       * Filter.
        */
       if (!query) {
         visibleRows = rows;
@@ -1026,79 +1034,61 @@
               query
             )
           ) {
-            matches.push(
-              rows[i]
-            );
+            matches.push(rows[i]);
           }
         }
 
-        visibleRows =
-          matches;
+        visibleRows = matches;
       }
 
 
       /*
-       * Sort
+       * Sort.
        */
       if (sortColumn) {
         const column =
           sortColumn;
 
         const direction =
-          sortAscending
-            ? 1
-            : -1;
+          sortAscending ? 1 : -1;
 
-        /*
-         * Don't modify master rows.
-         */
         visibleRows =
           visibleRows.slice();
 
-        visibleRows.sort(
-          (a, b) => {
-            const aValue =
-              String(
-                a[column] ?? ""
+        visibleRows.sort((a, b) => {
+          const aText =
+            String(a[column] ?? "");
+
+          const bText =
+            String(b[column] ?? "");
+
+          const aNumber =
+            Number(aText);
+
+          const bNumber =
+            Number(bText);
+
+          const bothNumeric =
+            aText.trim() !== "" &&
+            bText.trim() !== "" &&
+            Number.isFinite(aNumber) &&
+            Number.isFinite(bNumber);
+
+          let result;
+
+          if (bothNumeric) {
+            result =
+              aNumber - bNumber;
+          } else {
+            result =
+              collator.compare(
+                aText,
+                bText
               );
-
-            const bValue =
-              String(
-                b[column] ?? ""
-              );
-
-            const aNumber =
-              Number(aValue);
-
-            const bNumber =
-              Number(bValue);
-
-            const bothNumbers =
-              aValue.trim() !== "" &&
-              bValue.trim() !== "" &&
-              Number.isFinite(aNumber) &&
-              Number.isFinite(bNumber);
-
-            let comparison;
-
-            if (bothNumbers) {
-              comparison =
-                aNumber -
-                bNumber;
-            } else {
-              comparison =
-                collator.compare(
-                  aValue,
-                  bValue
-                );
-            }
-
-            return (
-              comparison *
-              direction
-            );
           }
-        );
+
+          return result * direction;
+        });
       }
 
 
@@ -1106,38 +1096,26 @@
         currentPage = 0;
       }
 
-      renderPage();
+      renderTable();
     }
 
-
-    /*
-     * ==========================================================
-     * SEARCH EVENT
-     * ==========================================================
-     */
 
     searchInput.addEventListener(
       "input",
       () => {
-        clearTimeout(
-          searchTimer
-        );
+        clearTimeout(searchTimer);
 
-        searchTimer =
-          setTimeout(
-            () => {
-              applyFilterAndSort();
-            },
-            SEARCH_DELAY
-          );
+        searchTimer = setTimeout(() => {
+          applyView(true);
+        }, SEARCH_DELAY);
       }
     );
 
 
     /*
-     * ==========================================================
-     * SORT EVENT
-     * ==========================================================
+     * ============================================================
+     * SORTING
+     * ============================================================
      */
 
     output.addEventListener(
@@ -1155,35 +1133,30 @@
         const column =
           header.dataset.column;
 
-        if (
-          sortColumn === column
-        ) {
+        if (sortColumn === column) {
           sortAscending =
             !sortAscending;
         } else {
-          sortColumn =
-            column;
-
-          sortAscending =
-            true;
+          sortColumn = column;
+          sortAscending = true;
         }
 
-        applyFilterAndSort();
+        applyView(true);
       }
     );
 
 
     /*
-     * ==========================================================
+     * ============================================================
      * PAGINATION
-     * ==========================================================
+     * ============================================================
      */
 
     firstPageButton.addEventListener(
       "click",
       () => {
         currentPage = 0;
-        renderPage();
+        renderTable();
       }
     );
 
@@ -1193,7 +1166,7 @@
       () => {
         if (currentPage > 0) {
           currentPage--;
-          renderPage();
+          renderTable();
         }
       }
     );
@@ -1207,7 +1180,7 @@
           getPageCount() - 1
         ) {
           currentPage++;
-          renderPage();
+          renderTable();
         }
       }
     );
@@ -1219,87 +1192,87 @@
         currentPage =
           getPageCount() - 1;
 
-        renderPage();
+        renderTable();
       }
     );
 
 
     /*
-     * ==========================================================
-     * LOAD + STREAM data.csv
-     * ==========================================================
+     * ============================================================
+     * LOAD data.csv
+     * ============================================================
+     *
+     * This page automatically loads ONLY:
+     *
+     *     ./data.csv
+     *
+     * There are:
+     *
+     *     NO CDN requests
+     *     NO external JavaScript
+     *     NO external CSS
+     *     NO external fonts
+     *     NO APIs
+     *     NO analytics
+     *     NO trackers
+     *
+     * URLs from data.csv are only contacted when
+     * somebody actually clicks them.
+     * ============================================================
      */
 
     async function loadCsv() {
       try {
-        statusText.textContent =
-          "Opening data.csv…";
-
-
-        /*
-         * This is the ONLY resource requested
-         * by this page.
-         *
-         * It is local:
-         *
-         *   ./data.csv
-         *
-         * There are no external websites,
-         * scripts, APIs, fonts, libraries,
-         * tracking calls or CDNs.
-         */
         const response =
-          await fetch(
-            CSV_FILE,
-            {
-              cache: "no-store"
-            }
-          );
+          await fetch("./" + CSV_FILE, {
+            cache: "no-store"
+          });
 
 
         if (!response.ok) {
           throw new Error(
-            `HTTP ${response.status} ${response.statusText}`
+            "HTTP " +
+            response.status +
+            " " +
+            response.statusText
           );
         }
 
 
         /*
-         * Read file size when server provides it.
+         * Content-Length may or may not be supplied
+         * depending on static host configuration.
          */
-        const contentLength =
-          Number(
-            response.headers.get(
-              "Content-Length"
-            )
+        const lengthHeader =
+          response.headers.get(
+            "Content-Length"
           );
 
-        if (
-          Number.isFinite(
-            contentLength
-          ) &&
-          contentLength > 0
-        ) {
-          totalBytes =
-            contentLength;
+        if (lengthHeader) {
+          const value =
+            Number(lengthHeader);
+
+          if (
+            Number.isFinite(value) &&
+            value > 0
+          ) {
+            totalBytes = value;
+          }
         }
 
 
         /*
-         * Modern browsers expose the response
-         * body as a stream.
+         * Preferred path: stream the response.
          */
         if (
           response.body &&
-          response.body.getReader
+          typeof response.body.getReader === "function"
         ) {
           const reader =
             response.body.getReader();
 
           const decoder =
-            new TextDecoder(
-              "utf-8"
-            );
+            new TextDecoder("utf-8");
 
 
           while (true) {
@@ -1313,9 +1286,6 @@
             bytesLoaded +=
               result.value.byteLength;
 
-            /*
-             * Decode ONLY this network chunk.
-             */
             const text =
               decoder.decode(
                 result.value,
@@ -1324,71 +1294,46 @@
                 }
               );
 
+            processCsvChunk(text);
 
-            /*
-             * Immediately parse rows from it.
-             */
-            processCsvText(
-              text
-            );
-
-
-            /*
-             * Update loading status.
-             */
             updateStatus();
           }
 
 
           /*
-           * Flush decoder's remaining bytes.
+           * Flush any remaining UTF-8 decoder bytes.
            */
-          const remainingText =
+          const finalText =
             decoder.decode();
 
-          if (remainingText) {
-            processCsvText(
-              remainingText
-            );
+          if (finalText) {
+            processCsvChunk(finalText);
           }
 
-
         } else {
+
           /*
-           * Fallback for older browsers.
+           * Older-browser fallback.
            *
-           * It still works, but won't visually
-           * stream while downloading.
+           * Still works, just won't progressively
+           * render during network download.
            */
           const text =
             await response.text();
 
           bytesLoaded =
-            new TextEncoder()
-              .encode(text)
-              .byteLength;
+            totalBytes ||
+            text.length;
 
-          processCsvText(
-            text
-          );
+          processCsvChunk(text);
         }
 
 
-        /*
-         * Handle CSV's final row.
-         */
         finishCsvParser();
-
 
         loading = false;
 
-        /*
-         * Reapply any active search/sort against
-         * the now-complete data.
-         */
-        applyFilterAndSort(
-          false
-        );
+        applyView(false);
 
       } catch (error) {
         loading = false;
@@ -1397,29 +1342,19 @@
           "none";
 
         statusText.textContent =
-          "Unable to load data.csv";
+          "Could not load data.csv";
 
-        output.innerHTML = `
-          <div class="error">
-            <strong>
-              Could not load data.csv.
-            </strong>
-
-            <br><br>
-
-            ${escapeHtml(
+        output.innerHTML =
+          '<div class="error">' +
+            "<strong>Could not load data.csv.</strong>" +
+            "<br><br>" +
+            escapeHtml(
               error.message || error
-            )}
-
-            <br><br>
-
-            Make sure
-            <strong>index.html</strong>
-            and
-            <strong>data.csv</strong>
-            are in the same folder.
-          </div>
-        `;
+            ) +
+            "<br><br>" +
+            "Make sure <strong>index.html</strong> and " +
+            "<strong>data.csv</strong> are in the same directory." +
+          "</div>";
 
         console.error(error);
       }
@@ -1431,5 +1366,6 @@
      */
     loadCsv();
   </script>
+
 </body>
 </html>
