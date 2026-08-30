@@ -1,38 +1,38 @@
-"Class? (MATH 143, PSY 202, etc)",Book Title,Book Author,Edition,Link,
+"Class? (MATH 143, PSY 202, etc)",Book Title,Book Author,Edition,Link,ISBN
 ,,,,,
 Textbook Submission Links,,,,,
 Submit via link to google drive,https://forms.gle/dTiQ1c1AmuhLCKK16,,,,
-ENGL 145,Everything's an Argument with Readings,Andrea A. Lunsford; John J. Ruszkiewicz,9,https://drive.google.com/open?id=1rT59f0jGttUyoA0JW7rVbjp7UT00YtHj,
-AEPS 123,California Master Gardener Handbook,Dennis R. Pittenger,2,https://drive.google.com/open?id=1ikZ99A34ycJKzEeajQdAwnfnAaCZktXY,
-AEPS 124,Plant Propagation: Principles and Practices,"Hartmann, H.T., D.E. Kester, F.T. Davies Jr., R.L. Geneve, and S.E. Wilson",9th,https://drive.google.com/file/d/1h2nq6Hy_1Y3mWFoYHkxRlwk45twW5yoM/view,
+ENGL 145,Everything's an Argument with Readings,Andrea A. Lunsford; John J. Ruszkiewicz,9,https://drive.google.com/open?id=1rT59f0jGttUyoA0JW7rVbjp7UT00YtHj,9781319244477
+AEPS 123,California Master Gardener Handbook,Dennis R. Pittenger,2,https://drive.google.com/open?id=1ikZ99A34ycJKzEeajQdAwnfnAaCZktXY,9781601078575
+AEPS 124,Plant Propagation: Principles and Practices,"Hartmann, H.T., D.E. Kester, F.T. Davies Jr., R.L. Geneve, and S.E. Wilson",9th,https://drive.google.com/file/d/1h2nq6Hy_1Y3mWFoYHkxRlwk45twW5yoM/view,9780134480893
 AERO 299,Fluid Mechanics - Fundamentals and Applications,Cengel & Cimbala,1,https://imtk.ui.ac.id/wp-content/uploads/2014/02/Fluid-Mechanics-Cengel.pdf,
 AERO 299,Fluid Mechanics - Fundamentals and Applications,Cengel & Cimbala,3,https://engineeringbookslibrary.files.wordpress.com/2019/03/fluid-mechanics-fundamentals-and-applications-3rd-edition-cengel-and-cimbala-2014.pdf,
-AERO 299,Fundamentals of Engineering Thermodynamics,"Moran, Shapiro, Boettner, Bailey",7,http://library.lol/main/3FECCB84B9D8B0DC1F547145C6491D49,
+AERO 299,Fundamentals of Engineering Thermodynamics,"Moran, Shapiro, Boettner, Bailey",7,http://library.lol/main/3FECCB84B9D8B0DC1F547145C6491D49,9781118050286
 AERO 300,Numerical Analysis,Timothy Sauer,2,https://drive.google.com/open?id=1Tl7G_nCoyFYTwKb3oskUiP5FsClGbThV,
-AERO 300300,Numerical Analysis,Timothy Sauer,3,http://libgen.rs/book/index.php?md5=F3E0057A9893BE05137DE4D43E33E189,
-AERO 302,Fundamentals of Aerodynamics,John D. Anderson,6,https://es.b-ok.cc/book/3423817/40ebca,
-AERO 320,Spacecraft Dynamics and Control: An Introduction,"Damaren, Christopher; De Ruiter, Anton H. J.; Forbes, James R",1,https://drive.google.com/open?id=1mJ93nwDj9gMKELsvbbDkw8Gkrl7I3FR4,
-AERO 331,Aircraft Structures for Engineering Students,T. H. G. Megson,4,https://drive.google.com/open?id=1K9jtoKIuEHcw-BbWwBDiifbUyiH-EaaL,
-AERO 351,Orbital Mechanics For Engineering Students,Howard D. Curtis,4,https://drive.google.com/open?id=17yeFy8sTUo6Fj8FHVrvu53GyFv_pRMyc,
+AERO 300300,Numerical Analysis,Timothy Sauer,3,http://libgen.rs/book/index.php?md5=F3E0057A9893BE05137DE4D43E33E189,9780134696454
+AERO 302,Fundamentals of Aerodynamics,John D. Anderson,6,https://es.b-ok.cc/book/3423817/40ebca,9781259129919
+AERO 320,Spacecraft Dynamics and Control: An Introduction,"Damaren, Christopher; De Ruiter, Anton H. J.; Forbes, James R",1,https://drive.google.com/open?id=1mJ93nwDj9gMKELsvbbDkw8Gkrl7I3FR4,9781118403327
+AERO 331,Aircraft Structures for Engineering Students,T. H. G. Megson,4,https://drive.google.com/open?id=1K9jtoKIuEHcw-BbWwBDiifbUyiH-EaaL,9780750667395
+AERO 351,Orbital Mechanics For Engineering Students,Howard D. Curtis,4,https://drive.google.com/open?id=17yeFy8sTUo6Fj8FHVrvu53GyFv_pRMyc,9780081021330
 AERO302,Fluid Mechanics,Cengel,4,https://es.b-ok.cc/book/3492387/2a3dc5,
-AGB 212,Introduction to Agricultural Economics,John Penson,6th,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjHxaT2qYXuAhWdJDQIHX1tB-YQFjADegQIBRAC&url=https%3A%2F%2Fwww.textbooks.com%2FIntroduction-to-Agricultural-Economics-6th-Edition%2F9780133379488%2FPenson.php&usg=AOvVaw0NVKMTXqb4iOvs6O-4K01I,
+AGB 212,Introduction to Agricultural Economics,John Penson,6th,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjHxaT2qYXuAhWdJDQIHX1tB-YQFjADegQIBRAC&url=https%3A%2F%2Fwww.textbooks.com%2FIntroduction-to-Agricultural-Economics-6th-Edition%2F9780133379488%2FPenson.php&usg=AOvVaw0NVKMTXqb4iOvs6O-4K01I,9780133379488
 AGB 212,Introduction to Agricultural Economics,John B. Penson,7,https://drive.google.com/open?id=1RNf_Vxcs7m81kV6NdZiCP5mo9duMtFqs,
-AGB 212,Introduction to Agricultural Economics,John Penson,6th,http://library1.ga/_ads/688E77D2151C08BC95F47468C2C28FF0,
-AGB 301,Marketing: An Introduction,Kotler and Armstrong,14th,https://libgen.rocks/ads.php?md5=45362B997813C287447061D6179A5834,
+AGB 212,Introduction to Agricultural Economics,John Penson,6th,http://library1.ga/_ads/688E77D2151C08BC95F47468C2C28FF0,9780133379488
+AGB 301,Marketing: An Introduction,Kotler and Armstrong,14th,https://libgen.rocks/ads.php?md5=45362B997813C287447061D6179A5834,9780135192122
 AGB 369,Managing Human Resources,"Gomez-Mejia, Balkin and Cardy",,https://drive.google.com/open?id=1F1FcjmH1H--du0DPoc5p2WH7VOGd6vBc,
 AGC 314,The Devil in The White City,Erik Larson,,https://drive.google.com/open?id=1hOCNNDvyFQLlrEuATbJGRQNHOvg5gCXP,
 AGC 404,The 21 Irrefutable Laws of Leadership,John C. Maxwell,,https://drive.google.com/open?id=1vYjHhPDQU1dLdG9z23kgMHNI24YWy_5B,
-AMSL 100,Learning American Sign Language Levels I & II Beginning and Intermediate,Tom L. Humphries/Carol A. Padden/Robert Hills/Peggy Lott/Daniel W. Renner,2,https://drive.google.com/open?id=1-OFhsnLselSeka08OJFsGDc7OfmXkZy8,
+AMSL 100,Learning American Sign Language Levels I & II Beginning and Intermediate,Tom L. Humphries/Carol A. Padden/Robert Hills/Peggy Lott/Daniel W. Renner,2,https://drive.google.com/open?id=1-OFhsnLselSeka08OJFsGDc7OfmXkZy8,9780205275533
 ANT 201,Mirror for Humanity,Conrad Phillip Kottak,7,https://drive.google.com/open?id=1kzewBpMV0xveabB20rtunhKZHLgbCY_f,
 ANT 201,Mirror for Humanity A Concise Introduction to Cultural Anthropology,Conrad Phillip Kottak,11,https://dbcdfcg.r.bh.d.sendibt3.com/tr/cl/c9n9wTLNsxj9Ox8o21h54IwqUw89o-irFeH1XkM5d_UPtefrFojI_QlEnidtNb9A9FMNal0n12kXBHBJPcl-M-_jeQGjp8H7vPlM-3TLlqN8Suj2piQQNkFca65vddFdXKAggQPNskNharK-lf7NZLHKxv33d28UZd0dZLP1g_3ljLxM5KuZzN-MpPR0BGg6Up8kd4JEIY9QsOSJgXCIE9kbDE3zrCtATD50Wkv8r_lNllgbTn-Bf4tbY49iC-KXfimMWSOwM55dZNpS3wyMBGUlXsLi2NwpQmEwAGbWyU7h4TG1P07adi9uDGtCHey3r0ZmlJVhRFYHWLnQUBwpyfGfEDIkX9-bQOWZMnXR0DR1mDNJ8O7PrdDqaWDq11orecaFB0Iet3-EG_6t43oIOTJRF4ucrrUMZQCxMuvkYupJCIwRySx4AsyG2me3ACNXg9eRXQ,
 ANT 201,Mirror for Humanity: A Concise Introduction to Cultural Anthropology,Conrad Kottak,11,http://library.lol/main/3BDE10E562EF5F47D0306AB48758ACA1,
 Ant 201,Cultural Anthropology,"Carol R. Ember, Melvin R. Ember",,https://drive.google.com/open?id=1YqEN5C4_xcL6QA1P8FOQR4qg2abz1qQe,
-ANT 201,Humanity: An Introduction to Cultural Anthropology,James Peoples/Garrick Bailey,11,https://drive.google.com/open?id=1i3kJLQdD0keAE5ymiurgFgRjvevIgSYC,
+ANT 201,Humanity: An Introduction to Cultural Anthropology,James Peoples/Garrick Bailey,11,https://drive.google.com/open?id=1i3kJLQdD0keAE5ymiurgFgRjvevIgSYC,9781337109697
 ANT 201,Mirror for Humanity: A Concise Introduction to Cultural Anthropology,Conrad Kottak,11,https://drive.google.com/open?id=1LS7deTxainOP9fFdepsriuHTTd_TwnpN,
 ANT 201,Essentials of Cultural Anthropology: A Toolkit for a Global Age,Kenneth J. Guest,2nd,https://drive.google.com/file/d/1bdhIsu-KhrLNiiMrioZ8rv-AS1gnCVWG/view,
 ANT 201,Humanity: An Introduction to Cultural Anthropology,James Peoples,9th,http://library1.ga/_ads/4C3DCD1127BE176E7402FBF3D93E4B8D,
 ANT 201,Mirror for Humanity,Conrad Phillip Kottak,7,https://drive.google.com/open?id=1kzewBpMV0xveabB20rtunhKZHLgbCY_f,
-ANT 201 Dr lewis,Humanity An Introduction to Cultural Anthropology,- James People,11,https://drive.google.com/open?id=1Xc-AhdVC6Yu733cgnqVx3u8hUhJGlLvX,
+ANT 201 Dr lewis,Humanity An Introduction to Cultural Anthropology,#NAME?,11,https://drive.google.com/open?id=1Xc-AhdVC6Yu733cgnqVx3u8hUhJGlLvX,9781337109697
 ANT 202,World Prehistory and the Anthropocene,"Joy McCorriston, Julie Field",,https://drive.google.com/open?id=1i2W85gkYwqXLBmlc4Hcq0hzTfWP-DAep,
 ANT 250,How Humans Evovled,Robert Boyd,8th edition,https://drive.google.com/file/d/1X04_rV00KcQ3Pni_yKzh_7Xon0yaXK2i/view?usp=sharing,
 ANT 250,Demonic Males: Apes and the Origins of Human Violence,Richard Wrangham,,https://drive.google.com/open?id=17qwNRibQjI5BKUg1SFH110Q1PX4WJiPR,
@@ -41,50 +41,50 @@ ANT 250,How Humans Evolved,Robert Boyd,5,https://drive.google.com/open?id=12dlMX
 Ant 309,Archaeology Essentials (2018),"Renfrew, Colin, and Paul Bahn",,https://drive.google.com/open?id=1c3dTll2bvDjhDHLLxhYl3T6WqMmOn_y9,
 ANT 344,Evolution and Human Behavior,John Cartwright,3,https://drive.google.com/open?id=18QgxtkKlJUWICZAQHFEts8neVRsPXuNB,
 ANT 455,Research Methods in Anthropology: Qualitative and Quantitative Approaches,H. Russell Bernard,4,https://drive.google.com/open?id=1ogusIstcISazqS8cW0kPS_JfLOrLPdKq,
-ARCE 106,Building Construction Illustrated - 6th edition,Francis Ching,6,https://drive.google.com/open?id=1prGnno_Zj1DjtzGipuULh8CC56Dk7c6j,
-ARCE 212 (i think also 211 and 213),Statics and Strength of Materials for Architecture and Building Construction,"Barry Onuye, Kevin Kane",Fourth,https://drive.google.com/open?id=1dzqJYgCKvSLgmxxtTEu95TCVs8TRC1NP,
+ARCE 106,Building Construction Illustrated - 6th edition,Francis Ching,6,https://drive.google.com/open?id=1prGnno_Zj1DjtzGipuULh8CC56Dk7c6j,9781119583080
+ARCE 212 (i think also 211 and 213),Statics and Strength of Materials for Architecture and Building Construction,"Barry Onuye, Kevin Kane",Fourth,https://drive.google.com/open?id=1dzqJYgCKvSLgmxxtTEu95TCVs8TRC1NP,9780135079256
 ARCE 223,Mechanics of Materials,"Beer, Johnston, DeWolf, Mazurek",7th edition,https://archive.org/download/MechanicsOfMaterials7thEditionBeer./Mechanics_of_Materials_7th_edition_beer..pdf,
-ARCE 223,Mechanics of Materials,"Beer, Johnston, DeWolf, Mazurek",6th Edition,http://site.iugaza.edu.ps/ajubeh/files/2012/05/B00k-Mechanics-of-Materials-Mcgraw-2012-Ed6-978-0-07-338028-5.pdf,
+ARCE 223,Mechanics of Materials,"Beer, Johnston, DeWolf, Mazurek",6th Edition,http://site.iugaza.edu.ps/ajubeh/files/2012/05/B00k-Mechanics-of-Materials-Mcgraw-2012-Ed6-978-0-07-338028-5.pdf,9780073380285
 ARCE 223,Statics and Mechanics of Materials,"Beer, Johnston, DeWolf, Mazurek",8th Edition,http://160592857366.free.fr/joe/ebooks/Mechanical%20Engineering%20Books%20Collection/STRENGTH%20OF%20MATERIALS/Statics%20and%20mechanics%20of%20Materials.pdf,
 ARCE 302,Fundamentals of Structural Analysis,"Leet, K.M., Uang, C.M., Lanning J.T., Gilbert, A.M.",5,Fundamentals of Structural Analysis (5th Edition) Google Drive this link says it is a violation of Googles Terms of Service and i dont know why,
 ARCE 302,,Leet,5,https://collegepdf.com/?download_file=9626&order=wc_order_ovjG1gWlwnHJK&uid=5dd369f3c6fc0d647cded26df0d9751b64fb9ebd4de5cdc011f951a4cda56af3&key=c288a379bcdc398603857b81b2dc53cd,
 Arce 302,,,,https://www.dropbox.com/scl/fi/o12chfnsu4k1xsjepk4mi/Kenneth-M.-Leet-Chia-Ming-Uang-Joel-T.-Lanning-Anne-M.-Gilbert-Fundamentals-of-Structural-Analysis-2018-McGraw-Hill-Education.pdf?rlkey=d002kovfc5ork5l2kv2jcob3p&dl=0,
-ARCE 360,Architectural Structures Visualizing Load Flow Geometrically,Edmond Saliklis,1,https://drive.google.com/open?id=13I-ZlaZqwMfvCMqM9S8iHuFAvyTbDpzn,
+ARCE 360,Architectural Structures Visualizing Load Flow Geometrically,Edmond Saliklis,1,https://drive.google.com/open?id=13I-ZlaZqwMfvCMqM9S8iHuFAvyTbDpzn,9781032019000
 ARCE 421,Soils and Foundations,Cheng Liu and Jack B. Evett,,https://drive.google.com/open?id=13ts1UP-kq46QVnDRsTsP6s1DukiZTDSu,
-ARCH 217,A Global History of Architecture,"Ching, Prakash, & Jarzombek",3,https://drive.google.com/file/d/1sCxWcp1etD-Ad4KQfWD9NaNW5NWtSplJ/view?usp=share_link,
+ARCH 217,A Global History of Architecture,"Ching, Prakash, & Jarzombek",3,https://drive.google.com/file/d/1sCxWcp1etD-Ad4KQfWD9NaNW5NWtSplJ/view?usp=share_link,9781118981337
 ARCH 217,World Architecture,Ingersoll,2,https://drive.google.com/file/d/1Sjg4fvFg4Eu4v39AZDts4cRIlg4cQ3Qw/view?usp=sharing,
 ARCH 217,,,,https://ebookcentral.proquest.com/lib/calpoly/detail.action?docID=698776,
-Arch 217,A Global History of Architecture,"Ching, Francis",3,https://drive.google.com/open?id=1UgnbJC0Y05GNA5kJH0izaVIoEFLcoYQQ,
+Arch 217,A Global History of Architecture,"Ching, Francis",3,https://drive.google.com/open?id=1UgnbJC0Y05GNA5kJH0izaVIoEFLcoYQQ,9781118981337
 ARCH 217,Global History of Architecture,Ching,2,https://drive.google.com/file/d/1Sjg4fvFg4Eu4v39AZDts4cRIlg4cQ3Qw/view?usp=sharing,
 ARCH 218,World Architecture: A Cross-Cultural History,Richard Ingersoll,2,http://93.174.95.29/main/2308000/98d6596cfa1f127d520f8cd15f47ab57/Richard%20Ingersoll%20-%20World%20Architecture%20A%20Cross-Cultural%20History.pdf,
 ARCH 219,World Architecture: A Cross-Cultural History,Ingersoll & Kostof,2nd edition,https://yadi.sk/i/r4BbzFHt-AsNjw,
 ARCH 341/307/342,The Architect's Studio Companion,Edward Allen & Joseph Iano,6th,https://drive.google.com/open?id=1KV0QCuH1RlsOKBgbBCh9DbwqjEeDZth4,
 ARCH 341/342/307,The Architect's Studio Companion,"Edward Allen, Joseph Iano",5th,https://ia600201.us.archive.org/0/items/The_Architects_Studio_Companion_Rules_of_Thumb_for_Preliminary_Design_5th_Editio/The_Architects_Studio_Companion_Rules_of_Thumb_for_Preliminary_Design_5th_Edition_by_Edward_Allen_Joseph_Iano.pdf,
 ART 102,Design Basics,"Stephan Pentak, David A. Lauer",9,https://drive.google.com/open?id=1XPw9-JxbkVn1FIp0QIbK37qVEjsNUhuY,
-ART 212,Fourteenth to Seventeenth Century Art,Marilyn Stokstad,5th Edition,https://www.pearsonhighered.com/assets/preface/0/2/0/5/0205873782.pdf,
+ART 212,Fourteenth to Seventeenth Century Art,Marilyn Stokstad,5th Edition,https://www.pearsonhighered.com/assets/preface/0/2/0/5/0205873782.pdf,9780205873784
 ART 260,The AIGA Guide to Careers in Graphic and Communication Design,Juliette Cezzar,1st,https://drive.google.com/file/d/1o-wJ-13T0lxI24ylBl2LKOCHvT9K8f2I/view?usp=sharing,
-ART 314,The Photograph as Contemporary Art (World of Art),Charlotte Cotton,4,https://drive.google.com/open?id=1YNXg2jWoFY_JyvUgnVH8XYSS1fJ17eGD,
+ART 314,The Photograph as Contemporary Art (World of Art),Charlotte Cotton,4,https://drive.google.com/open?id=1YNXg2jWoFY_JyvUgnVH8XYSS1fJ17eGD,9780500204481
 ART 370,The Life of Michelangelo,Ascanio Condivi,2,https://www2.gwu.edu/~art/Temporary_SL/129%3A255/Readings/Condivi_Michelangelo.pdf,
 ART 370,Michelangelo,Howard Hibbard,2,https://drive.google.com/open?id=1ROJxhs7wIo9vpw6kERilmJ2K-D3B2IFo,
-ASCI 229,Clinical Anatomy & Physiology for Veterinary Technicians,Thomas P. Colville,3,https://drive.google.com/open?id=1GalxEnwNlBUwobRp_KM2JPpd9LF07HRi,
-ASCI 229,Clinical Anatomy and Physiology for Veterinary Technicians,Thomas Colville and Joanna Bassert,3rd,https://handoutset.com/wp-content/uploads/2022/03/Clinical-Anatomy-and-Physiology-for-Veterinary-Technicians-by-Thomas-Colville-Joanna-M.-Bassert.pdf,
+ASCI 229,Clinical Anatomy & Physiology for Veterinary Technicians,Thomas P. Colville,3,https://drive.google.com/open?id=1GalxEnwNlBUwobRp_KM2JPpd9LF07HRi,9780323227933
+ASCI 229,Clinical Anatomy and Physiology for Veterinary Technicians,Thomas Colville and Joanna Bassert,3rd,https://handoutset.com/wp-content/uploads/2022/03/Clinical-Anatomy-and-Physiology-for-Veterinary-Technicians-by-Thomas-Colville-Joanna-M.-Bassert.pdf,9780323227933
 ASCI 346,Nutrient Requirements of Horses,National Research Council,,https://drive.google.com/open?id=1_T85j3ZgnDmlmXMEXDj3zd4oNuuGVr1-,
 ASCI 351,Pathways to Pregnancy and Parturition,P. L. Senger,3rd,https://drive.google.com/file/d/15tAVJ8L0bseRvXBf4QkyPnh3O1532QUK/view,
-ASCI 366,Fundamentals of Pharmacology for Veterinary Technicians,Romich,3,https://drive.google.com/open?id=1GibRrABnyPPCKQAD44kr4RqGOn6kYxlc,
-ASCI 405,Endocrine and Reproductive Physiology,White and Porterfield,4,file:///C:/Users/17149/OneDrive/Desktop/textbooks/Endocrine_and_Reproductive_Physiology.pdf,
-ASCI 438,Human Physiology: From Cells to Systems,Sherwood,9,https://drive.google.com/open?id=1_gRlB7e0PmbsREijtf1sA39n_IGGCIPj,
+ASCI 366,Fundamentals of Pharmacology for Veterinary Technicians,Romich,3,https://drive.google.com/open?id=1GibRrABnyPPCKQAD44kr4RqGOn6kYxlc,9780357361474
+ASCI 405,Endocrine and Reproductive Physiology,White and Porterfield,4,file:///C:/Users/17149/OneDrive/Desktop/textbooks/Endocrine_and_Reproductive_Physiology.pdf,9780323087049
+ASCI 438,Human Physiology: From Cells to Systems,Sherwood,9,https://drive.google.com/open?id=1_gRlB7e0PmbsREijtf1sA39n_IGGCIPj,9781285866932
 ASCI 440,Veterinary Immunology: Principles and Practice,Michael J. Day,2nd,https://drive.google.com/file/d/1m1LFJWb3yfwjti_-gOQKLk31WDvYGev7/view?usp=sharing,
 ASTR 101,Astronomy,"Andrew Fraknoi, David Morrison, Sidney C. Wolff",,https://drive.google.com/open?id=1eqSkUgsvFLkxKpua-mrLXeTX6Hdjvr1t,
 ASTR 101,How To Read the Solar System,Chris North and Paul Abel,,https://drive.google.com/open?id=1jptknCPBgaxByFFLmqjYEUNPzh3kbRGd,
 ASTR 302,Foundations of Astrophysics,Ryden,1,https://u1lib.org/book/17188330/0aceff,
-ASTR101,Lecture Tutorials for Introductory Astronomy,Prather et al.,4th,https://drive.google.com/file/d/1Rs7WsE3zCw2YciiD8ZbIhkTpMjCsvAgH/view?usp=sharing,
+ASTR101,Lecture Tutorials for Introductory Astronomy,Prather et al.,4th,https://drive.google.com/file/d/1Rs7WsE3zCw2YciiD8ZbIhkTpMjCsvAgH/view?usp=sharing,9780135807026
 ASTRO 326,Introduction to Cosmology,Barbra Ryden,2,https://sites.astro.caltech.edu/~george/ay21/readings/Ryden_IntroCosmo.pdf,
 BIO 111,Essential Biology,"Simon, Dickey, Reece",,https://drive.google.com/open?id=1hr3RhFiVVCQQzDjSwHq_eBdJKJPXAmkz,
-BIO 1110,Campbell Essential Biology,"Simon, Dickey, and Reece",5th,http://93.174.95.29/main/2258000/cee04ba3250719ff9deb74dc3e3c55a6/Simon%20et%20al.%20-%20Campbell%20Essential%20Biology.pdf,
+BIO 1110,Campbell Essential Biology,"Simon, Dickey, and Reece",5th,http://93.174.95.29/main/2258000/cee04ba3250719ff9deb74dc3e3c55a6/Simon%20et%20al.%20-%20Campbell%20Essential%20Biology.pdf,9781292038674
 BIO 112,Essential Environment The Science Behind the Stories,Jay Withgott and Matthew Laposata,5,https://drive.google.com/open?id=1I_0KxkHM-STAl3Vwj0m4iHHdEFY44R3p,
 BIO 114,Botany for Gardeners,Brian Capon,3,https://libgen.is/book/index.php?md5=6F015913920EDF83922EC91B5FCDFCF7,
 "BIO 160, 161, 162",Biological Sciences,Freeman,6,https://drive.google.com/file/d/1hypOX44eWeTq8bdmLLIYcaOJXPSpjunV/view?usp=sharing,
-BIO 161,Biological Science,Freeman,7,https://drive.google.com/open?id=1Cu6K-8vm4ebfW5cuK9dg0Enx5XJKvS8U,
+BIO 161,Biological Science,Freeman,7,https://drive.google.com/open?id=1Cu6K-8vm4ebfW5cuK9dg0Enx5XJKvS8U,9780135934302
 BIO 161,Lab Report Booklet,Professor Neal,1,https://drive.google.com/open?id=1MIdarIIZt2SDFsLkeygloMzORlp5H6sm,
 BIO 213,Biology: The Essentials,Marielle Hoefnagels,3,https://drive.google.com/open?id=1vjveSXvPKATNZVOAJqH9n5D8Emm6VIK2,
 BIO 222,A Natural History of California,"Shoenherr, Allan A",2nd,https://libgen.lc/ads.php?md5=7d850d9a0a6da568c98c0103e9374145,
@@ -93,8 +93,8 @@ BIO 222,The California Naturalist Handbook,"Adina Merenlender, Deborah Stanger E
 BIO 227,An Introduction to Conservation Biology,Richard B. Primack and Anna A. Sher,2,https://drive.google.com/open?id=1GtmJhQUXqm7DLPDHryifMP3HKtn8DPV1,
 BIO 227,Conservation Biology,"Bradley Cardinale, Richard Primack, James Murdoch",1,https://drive.google.com/open?id=1oCIhZSYzFKo6A00BCkmesh5Q-N60IuVJ,
 BIO 302,Human Heredity,Michael Cummings,10,https://www.dropbox.com/s/chaav2pwd9cde9i/Human%20Heredity%20-%20Michael%20Cummings.pdf?dl=0,
-BIO 321,Mammology,T. Vaughan,6th,http://library.lol/main/84914DCB55E1B0F980ADFE795EB7DAEC,
-BIO 336,Biology of the Invertebrates,Jan A. Pechenik,7,https://u1lib.org/book/5003784/753ff7?dsource=recommend,
+BIO 321,Mammology,T. Vaughan,6th,http://library.lol/main/84914DCB55E1B0F980ADFE795EB7DAEC,9781284032093
+BIO 336,Biology of the Invertebrates,Jan A. Pechenik,7,https://u1lib.org/book/5003784/753ff7?dsource=recommend,9780073524184
 BIO 351,Essentials of Genetics,"William S. Klug, et al.",9th,https://b-ok.cc/book/3515281/bb8526,
 BIO 351,Introduction to Genetic Analysis,Anthony J. F. Griffiths,,https://drive.google.com/open?id=1kEmaG8hQAwZP1FX9gWijmtyfQM0vbGJD,
 BIO 351,Introduction to Genetic Analysis,"Griffiths, Anthony J.F.",11,https://drive.google.com/open?id=140NftMXr78W7Q5J69TbVBmnCbOdEGjtj,
@@ -102,14 +102,14 @@ BIO 351,Essentials of Genetics,"William S. Klug, et al.",9th,https://b-ok.cc/boo
 BIO 361,Animal Physiology,"Richard W. Hill, Gordon A. Wyse, Margaret Anderson",4,https://drive.google.com/open?id=1yrIOYqjilECxQXXOdzdYuagIEDK6iIQN,
 BIO 361,Principles of Animal Physiology,"Richard W. Hill, Wyse, Anderson",3,https://drive.google.com/open?id=1LMcE7YYQ1HTHMdcMN6MaxKlBxdDE5fTv,
 BIO 363,Conservation Biology,Bradley Cardinale,1,https://drive.google.com/open?id=1ao3L-qBb-cLLWz7100gmZYHxLs7vpqfL,
-BIO 406,Neuroscience Exploring the Brain,"Mark Bear, Barry Connors, Michael Paradiso",4,https://drive.google.com/open?id=1OHrNxPvxuTjMRjDCNYdGALcH0V5fL6AH,
+BIO 406,Neuroscience Exploring the Brain,"Mark Bear, Barry Connors, Michael Paradiso",4,https://drive.google.com/open?id=1OHrNxPvxuTjMRjDCNYdGALcH0V5fL6AH,9781284211283
 BIO 407,Vertebrate Endocrinology,David O. Norris and James A. Carr,,https://drive.google.com/open?id=1SN_xJ1BnE0KAggHAkpY-eBV8fveXLCO_,
-BIO 408,Human Physiology: An Integrative Approach,Dee Unglaub Silverthorn,8,https://drive.google.com/open?id=1OYScDP0Dx2TyWCLNRzNvIi3zM0IrI_vq,
-BIO 411,Grays anatomy for students,"Richard L. Drake, A. Wayne Vogl, Adam W. M. Mitchell",4,https://drive.google.com/open?id=1mP7aN6hCpzmujbWX-89gAysIhH983hfW,
+BIO 408,Human Physiology: An Integrative Approach,Dee Unglaub Silverthorn,8,https://drive.google.com/open?id=1OYScDP0Dx2TyWCLNRzNvIi3zM0IrI_vq,9780135212905
+BIO 411,Grays anatomy for students,"Richard L. Drake, A. Wayne Vogl, Adam W. M. Mitchell",4,https://drive.google.com/open?id=1mP7aN6hCpzmujbWX-89gAysIhH983hfW,9780323393041
 BIO 414,Evolution,Douglas Futuyma and Mark Kirkpatick,4th,https://ipfs.io/ipfs/bafykbzacedndfhukduhnphanzrji5v5xa6hj4rlo6zlog5blu4rerdvqn2yam?filename=Douglas%20J.%20Futuyma%20and%20Mark%20Kirkpatrick%20-%20Evolution-Sinauer%20Associates%2C%20INC%20%282017%29.pdf,
 BIO 426,Kuby Immunology,"Stranford, Owen, Punt, & Jones,",8th,"file:///C:/Users/Unstable%20Unicorn/Downloads/[E%C4%9Fitim%20Tanr%C4%B1s%C4%B1]%20Jenni%20Punt,%20Sharon%20Stranford,%20Patricia%20Jones,%20Judith%20A%20Owen%20-%20Kuby%20Immunology%20(2018,%20W.%20H.%20Freeman)%20-%20libgen.li.pdf",
 bio 426 - immunology,Kuby Immunology,"Owen, Punt and Stranford",8,https://drive.google.com/open?id=17HmUM5-grCXxRBiDghqgK-IVA_gqRk5o,
-Bio 428,Essential Haematology,"Hoffbrand, AV and PAH Moss",8,https://drive.google.com/open?id=1NJlK6q0PUsTKTNyAFhMe9OWMTdvOLCMw,
+Bio 428,Essential Haematology,"Hoffbrand, AV and PAH Moss",8,https://drive.google.com/open?id=1NJlK6q0PUsTKTNyAFhMe9OWMTdvOLCMw,9781119495901
 BIO 442,Animal Behavior: An Evolutionary Approach,John Alcock,10,https://drive.google.com/open?id=1AnwjmxOmMnBfmkFddHymT3k0ZcmpuYj_,
 BIO 452,Molecular Cell Biology,Lodish et al.,8,https://www.academia.edu/31490803/Molecular_Cell_Biology_8th_ed_Lodish_et.al,
 bio 452,Molecular Cell Biology,Lodish et al.,8,https://drive.google.com/open?id=1eUcahVlhtDN1-DbofN1FegrMLpk_-mS7,
@@ -121,8 +121,8 @@ BMED 410,Introductory Biomechanics,Ethier and Simmons,1st,https://enggbiochem.fi
 BMED 410,Solns Introductory Biomechanics,,,https://drive.google.com/file/d/1nx_jEkMGlCJz8AlTmbTH02dnqx5vlLzb/view?usp=sharing,
 BMED 425,Basic Transport Phenomena In Biomedical Engineering,Ronald L. Fournier,3,https://drive.google.com/open?id=18YYyuqDfplQIkbX93WWBo4kK_4ywMRup,
 BMED 434,,,,https://drive.google.com/file/d/1zfSzkD4XKi19eW4SR-vDJ4YYF3bmKHmH/view?usp=sharing,
-BMED 525,Skeletal Tissue Mechanics,"Bruce Martin, David B. Burr, Neil A. Sharkey, and David P. Fyhrie.",2,https://drive.google.com/open?id=1HWl0vB-zMjBar1tEleEaoExWzalxk7eB,
-BMED 530,Biomaterials The Intersection of Biology and Materials Science,J. S. Temenoff,1st,https://1lib.us/book/5440019/3e580c,
+BMED 525,Skeletal Tissue Mechanics,"Bruce Martin, David B. Burr, Neil A. Sharkey, and David P. Fyhrie.",2,https://drive.google.com/open?id=1HWl0vB-zMjBar1tEleEaoExWzalxk7eB,9781493930012
+BMED 530,Biomaterials The Intersection of Biology and Materials Science,J. S. Temenoff,1st,https://1lib.us/book/5440019/3e580c,9780130097101
 BMED/CE/ME 404,The Finite Element Method: Linear Static and Dynamic Finite Element Analysis,Thomas J. R. Hughes,,https://drive.google.com/open?id=16lruNUo8vinNEwJHmtTY4RbtFqyYuo-8,
 BOT 121,Botany: An Introduction to Plant Biology,James D. Mauseth,6th,https://b-ok.cc/dl/3413440/acf463,
 BOT 121,Botany: An Introduction to Plant Biology,James D. Mauseth,6th,https://b-ok.cc/book/5424628/5d4a4a,
@@ -131,11 +131,11 @@ BOT 121,Plant Biology Lab Manual,"Matt Ritter, Ph.D.",2,https://drive.google.com
 BOT 121-01,Botany: An Introduction to Plant Biology,"James D. Mauseth, Jones and Bartlett Learning",6th Edition,http://www.mediafire.com/file/ia4o9j8jbm6bwjs/,
 BRAE 121,Agricultural Mechanics Fundamentals and Applications 7th Edition,Ray V. Herren,7,https://drive.google.com/open?id=1TguTE_OMYiHk9ioDWfCBGktjziZqNRAT,
 BRAE 239,survey principles and applications,Barry Kavangh and Tom Mastin,9,https://drive.google.com/open?id=1CfWhWOm2PNWebKRlA5IaLSnaOM_HRmWd,
-BRAE 348,Energy It's Use and the Environment,Hinrichs Klienbach,5th,https://drive.google.com/file/d/1krGKH4Duo4JYfFflcSH6xvS5Kn0kh70i/view?usp=sharing,
-BRAE-345,Remote Sensing and Image Interpretation,"Lillesand, Kiefer, Chipman",7th,https://www.geokniga.org/bookfiles/geokniga-remote-sensing-and-image-interpretation.pdf,
-Bus 207,Dynamic Business Law: The Essentials,"Nancy Kubasek,M. Neil Browne,Daniel Herron,Lucien Dhooge,Linda Barkacs,Andrea Giampetro-Meyer",6,https://drive.google.com/open?id=1h7jenQ6lhX53jmSCQpQ4UBHki87h3ZXA,
-BUS 207,The Legal Environment of Business,Frank Cross,10,https://drive.google.com/open?id=1XiJTKvd3aM4dGH9OX2-3QfXmnLWa54HP,
-BUS 207,The Legal Environment of Business,"Cross, Miller",10,https://drive.google.com/file/d/1b-PQrkHNmZXa33Z75n5nw62KkJ4TEIQJ/view?usp=sharing,#N/A
+BRAE 348,Energy It's Use and the Environment,Hinrichs Klienbach,5th,https://drive.google.com/file/d/1krGKH4Duo4JYfFflcSH6xvS5Kn0kh70i/view?usp=sharing,9781111990831
+BRAE-345,Remote Sensing and Image Interpretation,"Lillesand, Kiefer, Chipman",7th,https://www.geokniga.org/bookfiles/geokniga-remote-sensing-and-image-interpretation.pdf,9781119128465
+Bus 207,Dynamic Business Law: The Essentials,"Nancy Kubasek,M. Neil Browne,Daniel Herron,Lucien Dhooge,Linda Barkacs,Andrea Giampetro-Meyer",6,https://drive.google.com/open?id=1h7jenQ6lhX53jmSCQpQ4UBHki87h3ZXA,9781265599379
+BUS 207,The Legal Environment of Business,Frank Cross,10,https://drive.google.com/open?id=1XiJTKvd3aM4dGH9OX2-3QfXmnLWa54HP,9781305967304
+BUS 207,The Legal Environment of Business,"Cross, Miller",10,https://drive.google.com/file/d/1b-PQrkHNmZXa33Z75n5nw62KkJ4TEIQJ/view?usp=sharing,9781305967304
 BUS 214,Financial Accounting,"Harrison, Horngren, Thomas, Tietz",11,https://drive.google.com/open?id=1kBU3xv_NH9iCR3SZ1A38KyZZakAhS0FI,
 BUS 214,Financial Accounting SOLUTION MANUAL,"Harrison, Horngren, Thomas, Tietz",11,https://drive.google.com/file/d/1y_qryUPQmz2-q5Ky-gRYpFB2H-9UODYV/view?usp=sharing,
 BUS 215,Managerial Accounting,"Garrison, Noreen, Brewer",16,https://drive.google.com/file/d/11Nq7KJC0RNxq5Ivc6XDia0l3TmuJLyzi/view,
@@ -150,62 +150,62 @@ BUS 387,"Essentials of Organizational Behavior, 15th Edition",Stephen P. Robbins
 BUS 387,"Organizational Behavior: Bridging Science and Practice, 4th Ed, 2021. (Flatworld).","Tayla Bauer and Berrin Erdogan,",Version 4.0,https://studylib.net/doc/26023854/organizational-behavior,
 BUS 387,Organizational Behavior: Bridging Science and Practice,Talya Bauer and Berrin Erdogan,4,https://drive.google.com/open?id=1u8dPUuuCqYLM4C-y8WZLvWNwUfuHJR5W,
 BUS 387,Organizational Behavior: Bridging Science and Practice,Talya Bauer and Berrin Erdogan,4,https://drive.google.com/open?id=19RERIr_YYaT811t1jaO6eIO9LRYBeTKP,
-BUS 387,Reframing Organizations,Bolman & Deal,6,https://drive.google.com/open?id=1mmvTEeZ5QG7bdw04hUELMZ2wgO9UAoDc,
+BUS 387,Reframing Organizations,Bolman & Deal,6,https://drive.google.com/open?id=1mmvTEeZ5QG7bdw04hUELMZ2wgO9UAoDc,9781119281825
 BUS 387,Organizational Behavior,Talya Bauer & Berrin Erdogan,2nd,https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/37376/book.bauer.complete.optimized.pdf,
-BUS 392,Swift Programming: The Big Nerd Ranch Guide,Matthew Mathias & John Gallagher,2nd,https://drive.google.com/open?id=1cdjU5mM4qR4lop1kmf-R2ExHTfgnIkdG,
-BUS 393,Modern Database Management,"Jeffrey Hoffer, V Ramesh, Heikki Topi",13,https://drive.google.com/open?id=1hy8il0nNjQ-MoDifGdqFrXPprraQSWaT,
+BUS 392,Swift Programming: The Big Nerd Ranch Guide,Matthew Mathias & John Gallagher,2nd,https://drive.google.com/open?id=1cdjU5mM4qR4lop1kmf-R2ExHTfgnIkdG,9780134610610
+BUS 393,Modern Database Management,"Jeffrey Hoffer, V Ramesh, Heikki Topi",13,https://drive.google.com/open?id=1hy8il0nNjQ-MoDifGdqFrXPprraQSWaT,9780134773650
 BUS 393,Modern Database Management,"Hoffer, Ramish, Topi",11,https://drive.google.com/open?id=1IxNC8AP5OOrh38RncKjxAFOdIuEZiATe,
 BUS 394,System Analysis and Design,Dennis,6th,https://drive.google.com/open?id=15Ge7k7hn8KNrsv6px4cZuAi2f5M60Mrr,
-BUS 395,Information Technology Project Management,Kathy Schwalbe,9th,https://3lib.net/book/5828465/3d28dd,
+BUS 395,Information Technology Project Management,Kathy Schwalbe,9th,https://3lib.net/book/5828465/3d28dd,9781337101356
 BUS 395,Information Technology Project Management,Kathy Schwalbe,7th,https://drive.google.com/file/d/1_qtg1XewT-OCQxjlFQiOu9j1pkdM6LyQ/view?usp=sharing,
-BUS 396,"Consumer Behavior, Buying, Having, and Being","Solomon, Pearson",13,https://drive.google.com/open?id=1K6HnrUvylR06XXK56rbcXTOi0If4S18K,
+BUS 396,"Consumer Behavior, Buying, Having, and Being","Solomon, Pearson",13,https://drive.google.com/open?id=1K6HnrUvylR06XXK56rbcXTOi0If4S18K,9780135225691
 BUS 401,Strategic Management,Frank Rothaermel,5th,https://3lib.net/book/16735119/b9b4bc,
 bus 401,Strategic Management,Frank Rothaermel,6th,https://drive.google.com/file/d/1COlyol-zSM1zyk-iPlRn74cr7EjYiwar/view?usp=drive_link,
 BUS 401,Strategic Management,Frank Rothaermel,3rd,https://studydaddy.com/attachment/81773/jg4hbd76f2.pdf,
 BUS 401,Playing to Win How Strategy Really Works,A.G Lafley and Roger Martin,,https://drive.google.com/open?id=131-m_vsURmIphwI9hpYtqc55fkgQU_TO,
-BUS 401,Strategic Management Concepts and Cases,"Jeffrey Dyer, Paul Godfrey, Robert Jensen, David Bryce",3,https://drive.google.com/open?id=1Tm_WFwyNyQpQ_UboiUe-kdrqwus7liEj,
-BUS 404,Business Law and the Regulation of Business,Richard A. Mann and Barry S. Roberts,13th,https://drive.google.com/file/d/1QSyzVDySqF4Qf1oE0PsrXMEoHVmNwKpD/view?usp=drive_link,
+BUS 401,Strategic Management Concepts and Cases,"Jeffrey Dyer, Paul Godfrey, Robert Jensen, David Bryce",3,https://drive.google.com/open?id=1Tm_WFwyNyQpQ_UboiUe-kdrqwus7liEj,9781119563136
+BUS 404,Business Law and the Regulation of Business,Richard A. Mann and Barry S. Roberts,13th,https://drive.google.com/file/d/1QSyzVDySqF4Qf1oE0PsrXMEoHVmNwKpD/view?usp=drive_link,9780357042625
 BUS 404,"Law, Business, and Society","McAdams, Dosanjh Zucker, Neslund",11,https://drive.google.com/open?id=0B0wG7bEUigUDaTdlZnhBbmxNbG5yOU5nT0ZnYko4V01fckpB,
 BUS 431,Investments,"Bodie, Kane, Marcus",10th,https://drive.google.com/file/d/1_NLM8wIioUN2WQGf9bsabgBDiiPQ4WHa/view?usp=sharing,
-BUS 441,"Financial Modeling, 5th Edition","Simon Benninga, Tal Mofkadi",5,https://drive.google.com/open?id=1mOldcFGki6t2GN9x0XH9nUdBwxkld5iR,
-BUS 499 Data Communications and Networking,Business Data Networks & Security (2018),"Panko, R.R. and Panko, J.L.",11th,https://drive.google.com/file/d/104x2CT8PklshclwmFFGZ-HLhZzJ2Kbwg/view?usp=sharing,
-BUS442,"Options, Futures, and Other Derivatives",John C. Hull,11,https://drive.google.com/open?id=1N2kiriOngAaNWTBbqklM2frqyYBSpAGp,
+BUS 441,"Financial Modeling, 5th Edition","Simon Benninga, Tal Mofkadi",5,https://drive.google.com/open?id=1mOldcFGki6t2GN9x0XH9nUdBwxkld5iR,9780262046428
+BUS 499 Data Communications and Networking,Business Data Networks & Security (2018),"Panko, R.R. and Panko, J.L.",11th,https://drive.google.com/file/d/104x2CT8PklshclwmFFGZ-HLhZzJ2Kbwg/view?usp=sharing,9780134817125
+BUS442,"Options, Futures, and Other Derivatives",John C. Hull,11,https://drive.google.com/open?id=1N2kiriOngAaNWTBbqklM2frqyYBSpAGp,9780136939917
 CD 304,Children,John Santrock,14,https://drive.google.com/open?id=16Hx2GQt0N-KjY-nSSAaeKjl7C4NhHr4n,
 CD 306,Adolescence and Emerging Adulthood,Jeffrey J. Arnett,6,https://drive.google.com/open?id=1YkEBFP83fx7ux9z2ymdcEIDWTw-cF83P,
 CD 356,Disorders in Childhood: Development and Psychopathology,Parritz and Troy,1,https://ipfs.io/ipfs/bafykbzacebttyiwy54ip5vgyzj6ibr3xtku3uu3h5omjyq53xakmqhplsb7zq?filename=Robin%20Hornik%20Parritz%2C%20Michael%20F.%20Troy%20-%20Disorders%20of%20Childhood_%20Development%20and%20Psychopathology-Cengage%20Learning%20%282010%29.pdf,
-CD 356,Disorders of Childhood Development and Psychopathology,Robin Hornik Parritz and Michael F. Troy,3,https://drive.google.com/open?id=1rRkiY3lsZ_VnuIx1UobiXCsDnRBSO-eJ,
-CD 424,The Cultural Nature of Human Development,Barbara Rogoff,2003 oxford press,https://edisciplinas.usp.br/pluginfile.php/5062545/mod_resource/content/1/Rogoff-The%20Cultural%20Nature%20of%20Human%20Development-Oxford%20University%20Press%2C%20USA%20%282003%29.pdf,
-CD 460,UNDERSTANDING CHILD ABUSE AND NEGLECT,CYNTHIA CROSSON-TOWER,10,https://drive.google.com/open?id=17t8FY6Ut2Vv8Ln-kksdnqEcGPgw-JVPF,
+CD 356,Disorders of Childhood Development and Psychopathology,Robin Hornik Parritz and Michael F. Troy,3,https://drive.google.com/open?id=1rRkiY3lsZ_VnuIx1UobiXCsDnRBSO-eJ,9781337098113
+CD 424,The Cultural Nature of Human Development,Barbara Rogoff,2003 oxford press,https://edisciplinas.usp.br/pluginfile.php/5062545/mod_resource/content/1/Rogoff-The%20Cultural%20Nature%20of%20Human%20Development-Oxford%20University%20Press%2C%20USA%20%282003%29.pdf,9780195131338
+CD 460,UNDERSTANDING CHILD ABUSE AND NEGLECT,CYNTHIA CROSSON-TOWER,10,https://drive.google.com/open?id=17t8FY6Ut2Vv8Ln-kksdnqEcGPgw-JVPF,9780135168066
 CE 111,Designing Your Life,Bill Burnett and Dave Evans,unknown,https://archive.org/details/designing-your-life-how-to-build-a-well-lived-joyful-life-by-bill-burnett-dave-evans-z-lib.org.epub/page/n3/mode/2up,
-CE 204,Mechanics of Materials,"Beer, Johnston, DeWolf, Mazurek",8,https://drive.google.com/open?id=1u_PYpsecMIetpt-7fE3KwyBE9rBLG9V0,
+CE 204,Mechanics of Materials,"Beer, Johnston, DeWolf, Mazurek",8,https://drive.google.com/open?id=1u_PYpsecMIetpt-7fE3KwyBE9rBLG9V0,9781260113273
 CE 204/207,Mechanics of Materials,"Ferdinand Beer, Jr., E. Russell Johnston, John DeWolf, David Mazurek",7th,https://drive.google.com/file/d/1eFmlyhCTwSVzZbFq3385yI4C58VdQ0Rr/view?usp=sharing,
 CE 204/207,Mechanics of Materials,"Ferdinand P. Beer, E. Russell Johnston, Jr., John T. DeWolf, David F. Mazurek",7,https://drive.google.com/open?id=166uOYYR4kK_na-gkhXo6eHG69gnQbYJR,
 CE 204/207,Mechanics of Materials,"Ferdinand Beer, Jr., E. Russell Johnston, John DeWolf, David Mazurek",7th,https://drive.google.com/open?id=1XD-H4ICDbD5qRXEeHUE8ULb6VH3X4YtZ,
 CE 207,Mechanics of Materials,"Beer, Johnston, DeWolf, and Mazurek",7th,https://drive.google.com/file/d/1FiduRLC6gwbJbOrQd2GTrsQt7a031MLG/view?usp=sharing,
-CE 208,Mechanics of Materials,"Ferdinand Beer, Jr., E. Russell Johnston, John DeWolf, David Mazurek",6th,http://site.iugaza.edu.ps/ajubeh/files/2012/05/B00k-Mechanics-of-Materials-Mcgraw-2012-Ed6-978-0-07-338028-5.pdf,
+CE 208,Mechanics of Materials,"Ferdinand Beer, Jr., E. Russell Johnston, John DeWolf, David Mazurek",6th,http://site.iugaza.edu.ps/ajubeh/files/2012/05/B00k-Mechanics-of-Materials-Mcgraw-2012-Ed6-978-0-07-338028-5.pdf,9780073380285
 CE 251,Engineering with Excel,Ronald W. Larsen,4,https://drive.google.com/open?id=1Xi7Yhe5WJkuh0q2Yr7Bdsrbw9hH2WKNd,
-CE 251,Introduction to VBA for Excel,Steven C. Chapra,2,https://drive.google.com/open?id=1dVowcreDXckNqz5vGl017kSZ7rtrOR8a,
+CE 251,Introduction to VBA for Excel,Steven C. Chapra,2,https://drive.google.com/open?id=1dVowcreDXckNqz5vGl017kSZ7rtrOR8a,9780132396677
 CE 259,Design and Control of Concrete Mixtures,"Kosmatka, S.H., and M.L. Wilson",15,https://drive.google.com/open?id=1owErhu3TBQ6FHnD5v7aMJuLtxN0wcBv7,
 CE 321,Fundamentals of Transportation Engineering; A Multimodal Systems Approach,"Fricker, J. and R. Whitford",2nd,https://drive.google.com/file/d/1-OBs5qyQ1WebXeNjH_Dj6J8iQ89kq1qh/view?usp=sharing,
-CE 336,Water Resources Engineering,Larry W Mays,2,https://drive.google.com/open?id=1r88p6FqGu498j-FD-6yJUAwSfQSQ1AYG,
+CE 336,Water Resources Engineering,Larry W Mays,2,https://drive.google.com/open?id=1r88p6FqGu498j-FD-6yJUAwSfQSQ1AYG,9780470460641
 CE 355,Design of Reinforced Concrete Structures,McGraw-Hill,16th,https://drive.google.com/file/d/1RgqYoiNj3Hcls21pifQCXMNJcY25OGG_/view?usp=sharing,
 CE 355,Design of Concrete Structures,"Darwin, Dolan, and Nilson",15,https://drive.google.com/open?id=1goYQ4NsMgEu0JUCus3_Sxqfz0eKmPSkW,
 CE 356,Steel Design,William T. Segui,4,https://drive.google.com/open?id=11GqmkQ9x0aVO3RfUunr56x3fbl2zEG1b,
 CE 381,"An Introduction to Geotechnical Engineering Second Edition by Robert D. Holtz, William D. Kovacs, and Thomas C. Sheahan, Prentice Hall, 2010.","Robert D. Holtz, William D. Kovacs, and Thomas C. Sheahan",Second Edition,https://drive.google.com/file/d/1qmgd8cO7097lPFIFRxjih5Deim4lD3H9/view?usp=sharing,
-CE 455,Design of Wood Structures - ASD/LRFD,Donald E. Breyer,6,https://drive.google.com/open?id=1GitxK37nrvFbXM9ZrDWGeF3STaSH3eke,
+CE 455,Design of Wood Structures - ASD/LRFD,Donald E. Breyer,6,https://drive.google.com/open?id=1GitxK37nrvFbXM9ZrDWGeF3STaSH3eke,9780071455398
 CE 481,The Engineering of Foundations,Rodrigo Salgado,,https://drive.google.com/open?id=1XTuaABsJCKnDWnGRarJcx-9q6SJhEhKR,
 CE207,Mechanics of Materials Ch. 9 Solutions,"Beer, Johnston, DeWolf, and Mazurek",7,https://drive.google.com/open?id=15F94yTP8tJG2enKotH8Ygi2sAoyhbO68,
 CE207,Mechanics of Materials Ch.7 Solutions,"Beer, Johnston, DeWolf, and Mazurek",7,https://drive.google.com/open?id=15UOZUfIZPHL5W_z1PijmT8EHbFo05QVP,
 Chem 124,Chemistry: Atoms First,"Neth, Flowers, Theopold, Langley, Robinson",unknown,https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/ChemistryAtomsFirst-OP_1D7uBNB.pdf,
 "CHEM 124, 125, 126",Chemistry,"Flowers, Theopold, Langley",,https://openstax.org/details/chemistry,
-CHEM 125,Chemistry: Atoms First 2e,"Neth, Flowers, Theopold, Langley, Robinson",2,https://assets.openstax.org/oscms-prodcms/media/documents/ChemistryAtomsFirst2e-WEB.pdf,
+CHEM 125,Chemistry: Atoms First 2e,"Neth, Flowers, Theopold, Langley, Robinson",2,https://assets.openstax.org/oscms-prodcms/media/documents/ChemistryAtomsFirst2e-WEB.pdf,9781990641701
 CHEM 216,Making the Connections: A How-To Guide for Organic Chemistry Lab Techniques,Anne Padias,2,https://cloudflare-ipfs.com/ipfs/bafykbzaceaovkmkq74pu32m3sz7rul4drgsexwn5kuuqvh5yksmejyq6q3ycy?filename=Anne%20B%20Padias%20-%20Making%20the%20connections%20_%20a%20how%20to%20guide%20for%20organic%20chemistry%20lab%20techniques-Hayden%20McNeil%20%20%282007%29.pdf,
 CHEM 216,Making the Connections: A How-To Guide for Organic Chemistry Lab Techniques,Anne B. Padias,2,https://drive.google.com/open?id=16UhloA-3H6DBlFhm8vDcbRiMnIwL76px,
 CHEM 216,Making the Connections: A How-To Guide For Organic Chemistry Lab Techniques,Anne Padías,2,https://drive.google.com/open?id=1acW40bvmi4oq474yZdtreDEBw1vGQdFc,
 CHEM 216,Solutions Manual for Organic Chemistry,Jan William Simek,8,https://drive.google.com/open?id=1B8RGOsuyR9ctxTcSP8L-6l9VNMzLtndk,
-"CHEM 216, 217, 218",Organic Chemistry,L.G. Wade,9e,https://drive.google.com/file/d/1nQSLK-TYJSu0iHuOtWkaW3cwD-fFUx4k/view,
+"CHEM 216, 217, 218",Organic Chemistry,L.G. Wade,9e,https://drive.google.com/file/d/1nQSLK-TYJSu0iHuOtWkaW3cwD-fFUx4k/view,9780321971371
 "CHEM 216, 217, 218",Solutions Manual for Organic Chemistry,Jan William Simek,9th,https://drive.google.com/open?id=1UUH_8OthMc-Al4JwxS8W5l3bB2r4CM6S,
-"CHEM 216, 217, 218",Organic Chemistry,L.G. Wade,9,https://drive.google.com/file/d/0Bxk9Se_250iNZ21SUUZQNzNyYkU/view,
+"CHEM 216, 217, 218",Organic Chemistry,L.G. Wade,9,https://drive.google.com/file/d/0Bxk9Se_250iNZ21SUUZQNzNyYkU/view,9780321971371
 CHEM 313,Biochemistry: A Short Course,"Tymoczko, Berg, Stryer",3rd,https://drive.google.com/open?id=1tmyvKOp_SQl7FXI2V2jPXInWXLda-kqj,
 CHEM 313,BIOCHEMISTRY A Short Course,John L. Tymoczko,4,https://drive.google.com/open?id=1Sizjo_6oMzqGIgGFGSp64m3zLQamm3qD,
 Chem 351,Atkins' Physical Chemistry Instructors Solutions Manual (10th Ed.),Peter Atkins; Julio de Paula,10,https://drive.google.com/open?id=17fy0-5BVJxjam48FfvRyP4qLELmEmRyQ,
@@ -217,7 +217,7 @@ CHEM 371,Principles of Biochemistry,Lehninger,7,https://drive.google.com/open?id
 CHEM 371,Lehninger Principles of Biochemistry,"David L. Nelson, Michael M. Cox",6,https://drive.google.com/open?id=1epfheUtCeQhf0f1VTj9Bzs6x0HuxojeM,
 CHEM 377,An Introduction to Medicinal Chemistry,Graham L. Patrick,5th,https://www.academia.edu/36903466/An_Introduction_to_Medicinal_Chemistry_Fifth_Edition-_Graham_L._Patrick,
 CHEM 377,An Introduction to Medicinal Chemistry,Graham L Patrick,5th,"https://uogqueensmcf.com/wp-content/uploads/2020/BA%20Modules//Pharmacy/Year%20II%20(semester%202)/Medicinal%20Chemistry%20I/Reference%20books/An%20Introduction%20to%20Medicinal%20Chemistry%205th%20ed%20-%20Graham%20L.%20Patrick%20(OUP,%202013).pdf",
-CHEM 414,Advanced Organic Chemistry Part A: Structure and Mechanisms,Carey & Sundberg,5th,https://link-springer-com.ezproxy.lib.calpoly.edu/book/10.1007%2F978-0-387-44899-2,
+CHEM 414,Advanced Organic Chemistry Part A: Structure and Mechanisms,Carey & Sundberg,5th,https://link-springer-com.ezproxy.lib.calpoly.edu/book/10.1007%2F978-0-387-44899-2,9780387448992
 CHEM 484,Inorganic Chemistry,Gary Miessler,3,https://drive.google.com/open?id=1XFumG4A8XyZJGwdrVbJKLKYB6CWdv5DC,
 CHIN 101 / 102,Chinese Link 1: Character Exercises Part 1,"Sue-mei Wu, Yueming Yu",2,https://drive.google.com/open?id=11X9O_vnvPyctzpuyeW9QKUJ5TNz9ztAP,
 CHIN 101 / 102,Chinese Link 1: Student Activity Manual Part 1,"Sue-mei Wu, Yueming Yu",2,https://drive.google.com/open?id=1vnKX9nnH_KOg9eDdz3BQXx5z1ZGdQCLm,
@@ -236,31 +236,31 @@ CM113,Building Construction: Principles Materials and Systems,Mehta,,https://dri
 COMP 316,Beyond Culture,Edward T. Hall,,https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf,
 Coms 101,A Concise Public Speaking Handbook,"Steven A. Beebe, Susan J. Beebe",5th,https://drive.google.com/file/d/1RKi0Lx0D0tBBzIRuuXWjGzq2KZkER1fZ/view?usp=sharing,
 COMS 101,COMS 101: Joy of Public Speaking,Hudson,,https://www.dropbox.com/s/upym4h5b9dv2jfe/Coms%20101.pdf?dl=0,
-COMS 101,Practically Speaking,Rothwell,4,https://online.fliphtml5.com/zypme/iewb/,
-COMS 101,Principles of Public Speaking,German,19,https://drive.google.com/file/d/1lBmsS6tm2z7N3dnEpTCQdQ5FZRyGA9Y4/view?usp=sharing,
-COMS 101,Principles of Public Speaking,Kathleen M. German,19th,https://drive.google.com/file/d/1ZQqYsYTrZhVMOy6mbFv4DIP4_2GNCYWP/view,
-COMS 101,Principles of Public Speaking,Kathleen M. German,19th,http://library.lol/main/1571706A4FD1153C248267280E42C621,
-COMS 101,Public Speaking and Civic Engagement,J. Michael Hogan,Third edition,https://u1lib.org/book/5894802/854f2f,
+COMS 101,Practically Speaking,Rothwell,4,https://online.fliphtml5.com/zypme/iewb/,9780197648414
+COMS 101,Principles of Public Speaking,German,19,https://drive.google.com/file/d/1lBmsS6tm2z7N3dnEpTCQdQ5FZRyGA9Y4/view?usp=sharing,9781138233898
+COMS 101,Principles of Public Speaking,Kathleen M. German,19th,https://drive.google.com/file/d/1ZQqYsYTrZhVMOy6mbFv4DIP4_2GNCYWP/view,9781138233898
+COMS 101,Principles of Public Speaking,Kathleen M. German,19th,http://library.lol/main/1571706A4FD1153C248267280E42C621,9781138233898
+COMS 101,Public Speaking and Civic Engagement,J. Michael Hogan,Third edition,https://u1lib.org/book/5894802/854f2f,9780205946174
 COMS 101,The Art of Public Speaking,Stephen E. Lucas,13th,https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:f3e1ec1f-77c8-44c3-a102-f619ad10171b,
 COMS 101,A Concise Public Speaking Handbook,Steven A Beebe,4,https://drive.google.com/open?id=153EAQ4SzEzsjMl5pUfKCuDSPlPHgX2qA,
-COMS 101,Communication: Principles for a Lifetime,"Beebe, Beebe, Ivy",6,https://drive.google.com/open?id=1QrIjgEr06kec3TrRyBOkE9_j23da2lKH,
+COMS 101,Communication: Principles for a Lifetime,"Beebe, Beebe, Ivy",6,https://drive.google.com/open?id=1QrIjgEr06kec3TrRyBOkE9_j23da2lKH,9780133882551
 COMS 101,Empowering Public Speaking,Deanna Fassett,1,https://drive.google.com/open?id=157XP3SE6rsm9UNn9_b4ymqffHFvboOIK,
 COMS 101,MLA Handbook for Writers of Research Papers,Joseph Gibaldi,7,https://drive.google.com/open?id=1UBO_oCeOBFfzNb257scDFEEvK33SZmvX,
-COMS 101,Principles of Public Speaking,Kathleen German,19,https://drive.google.com/open?id=1I5S41k2hzMISS3fwaYchEk-dJuOK2-YI,
-COMS 101,Public Speaking and Civic Engagement,"Hogan, J. Michael",3,https://drive.google.com/open?id=18x6XpsKbUuJBuJaZIw6egAo6Km8Qbo0T,
-COMS 101,Public Speaking: The Evolving Art,"Stephanie J. Coopman, James Lull",4,https://drive.google.com/open?id=1tbUfhjLmwLd6T0DxLW17fZV8A3ekIy0X,
-COMS 101,Speak Up: An Illustrated Guide to Public Speaking,"Douglas M. Fraleigh, Joseph S. Tuman",3,https://drive.google.com/open?id=1ckNXNRy7HajLeMX8O6lBOzr3-_rMSEVh,
+COMS 101,Principles of Public Speaking,Kathleen German,19,https://drive.google.com/open?id=1I5S41k2hzMISS3fwaYchEk-dJuOK2-YI,9781138233898
+COMS 101,Public Speaking and Civic Engagement,"Hogan, J. Michael",3,https://drive.google.com/open?id=18x6XpsKbUuJBuJaZIw6egAo6Km8Qbo0T,9780205946174
+COMS 101,Public Speaking: The Evolving Art,"Stephanie J. Coopman, James Lull",4,https://drive.google.com/open?id=1tbUfhjLmwLd6T0DxLW17fZV8A3ekIy0X,9781337107563
+COMS 101,Speak Up: An Illustrated Guide to Public Speaking,"Douglas M. Fraleigh, Joseph S. Tuman",3,https://drive.google.com/open?id=1ckNXNRy7HajLeMX8O6lBOzr3-_rMSEVh,9781457623943
 COMS 101,Speak Up: An Illustrated Guide to Public Speaking (Full Version),"Douglas Fraleigh, Joseph Tuman",3,https://drive.google.com/open?id=195fahycTBOxz8xMPzaAdg7ImWo5fum7Y,
-COMS 101,Speak Up!,Fraleigh & Tuman,3,https://drive.google.com/open?id=11ZZIgWIk8vuploCs8NIeiKhrhoSKtie7,
-COMS 101,Speak Up!,Fraleigh & Tuman,3,https://drive.google.com/open?id=17o08kaeehmSBy0Y39qsMFENtR-ofdMQa,
-COMS 101,Speak Up!: An Illustrated Guide to Public Speaking (3rd Edition) (2014),Douglas M. Fraleigh/Joseph S. Tuman,3,https://drive.google.com/open?id=1Zx6UKL8OHKZWT6hRbc33AjVXR_bfeI6d,
-Coms 101,Speech Craft,Joshua Gunn,1,https://drive.google.com/open?id=1VretU2MDEOto-lu0XKTS0sD_FaPMbyXn,
+COMS 101,Speak Up!,Fraleigh & Tuman,3,https://drive.google.com/open?id=11ZZIgWIk8vuploCs8NIeiKhrhoSKtie7,9781457623943
+COMS 101,Speak Up!,Fraleigh & Tuman,3,https://drive.google.com/open?id=17o08kaeehmSBy0Y39qsMFENtR-ofdMQa,9781457623943
+COMS 101,Speak Up!: An Illustrated Guide to Public Speaking (3rd Edition) (2014),Douglas M. Fraleigh/Joseph S. Tuman,3,https://drive.google.com/open?id=1Zx6UKL8OHKZWT6hRbc33AjVXR_bfeI6d,9781457623943
+Coms 101,Speech Craft,Joshua Gunn,1,https://drive.google.com/open?id=1VretU2MDEOto-lu0XKTS0sD_FaPMbyXn,9780312644888
 coms 101,the art of public speaking -- the current link gives a 404,stephen e. lucas,13,https://drive.google.com/open?id=1cVPArjzvd_96WWMZnvrNdFhpL13ojSM_,
-COMS 101,Speak Up,Douglas M. Fraleigh,3,https://drive.google.com/open?id=13t9oMY49Xgat0RS3xJqIEYMQuVCJOdn_,
-COMS 101,The Art of Public Speaking,Stephen Lucas,12,https://drive.google.com/open?id=1V9HYsXLGV1OqkPlamcpM7h2f18DHE9JQ,
+COMS 101,Speak Up,Douglas M. Fraleigh,3,https://drive.google.com/open?id=13t9oMY49Xgat0RS3xJqIEYMQuVCJOdn_,9781457623943
+COMS 101,The Art of Public Speaking,Stephen Lucas,12,https://drive.google.com/open?id=1V9HYsXLGV1OqkPlamcpM7h2f18DHE9JQ,9780073523910
 COMS 101 (Mehl),Principles of Communication: Public Speaking,"Beebe, Beebe, Ivy, Mehl",1,https://drive.google.com/open?id=1FboQeGVJOW1Ti_yTzp218FAeWRvS4cbE,
-COMS 101 / HNRS 101,public speaking and civic engagement,J. Michael Hogan,3,https://drive.google.com/open?id=1Ifh5JerVim9qW_YMGxCN_xsMKMEQbXCl,
-COMS 102,Principles of Public Speaking,Kathleen German,19 (2017),https://drive.google.com/file/d/1XJTVFvyE_dLuVQZmFJVckWoICmQc1pUg/view?usp=drivesdk,
+COMS 101 / HNRS 101,public speaking and civic engagement,J. Michael Hogan,3,https://drive.google.com/open?id=1Ifh5JerVim9qW_YMGxCN_xsMKMEQbXCl,9780205946174
+COMS 102,Principles of Public Speaking,Kathleen German,19 (2017),https://drive.google.com/file/d/1XJTVFvyE_dLuVQZmFJVckWoICmQc1pUg/view?usp=drivesdk,9781138233898
 COMS 102,How To Give A Speech,Gary Genard,2,https://drive.google.com/open?id=1JUOHqwuTtr5rPqCpaGs0BBGDSEy7MNlG,
 COMS 102,Talk Like Ted,Carmine Gallo,,https://drive.google.com/open?id=1EAu-1Xw2C5RRFvL2vn2SDDydUXOo99PG,
 COMS 102,The Art of Public Speaking,Stephen Lucas,13,https://drive.google.com/open?id=161BTXTXjnuYSLJCqbVHSNCMGPlN8Ii8R,
@@ -275,101 +275,101 @@ COMS 145,Walk In The Light and 23 Tales,Leo Tolstoy,Not sure but it's from 2007,
 COMS 145,ARGUMENTATION : Critical Thinking in Action,David Lapakko,4,https://drive.google.com/open?id=1784YntLvuSiUhDfRUclCgL-Y9GNQSXaj,
 COMS 145,Logic and Contemporary Rhetoric: The Use of Reason in Everyday Life,Howard Kahane,11th,https://epdf.tips/logic-and-contemporary-rhetoric-the-use-of-reason-in-everyday-life.html,
 COMS 206,A First Look at Communication Theory,"Em Griffin, Andrew Ledbetter, Glenn Sparks",10,https://drive.google.com/open?id=1KoJTzC_ETg69yXt3XhuBTel3vge5kLcQ,
-COMS 208,Oral Interpretation,"Timothy Gura, Benjamin Powell, Charlotte I. Lee",13,https://drive.google.com/open?id=1Sbd4Sl3VuY-Vq1oW0bQ4_vAh84n5Nzma,
-COMS 213,Organizational Communication: Approaches and Processes,Katherine Miller; Joshua Barbour,7,https://drive.google.com/open?id=1SuOJhwTD-YdT5PiIJHB7V_FF52ZJ0X8i,
+COMS 208,Oral Interpretation,"Timothy Gura, Benjamin Powell, Charlotte I. Lee",13,https://drive.google.com/open?id=1Sbd4Sl3VuY-Vq1oW0bQ4_vAh84n5Nzma,9781138082205
+COMS 213,Organizational Communication: Approaches and Processes,Katherine Miller; Joshua Barbour,7,https://drive.google.com/open?id=1SuOJhwTD-YdT5PiIJHB7V_FF52ZJ0X8i,9781285164205
 COMS 316,Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone,Brené Brown,,https://libgen.lc/ads.php?md5=1F1E60314D5801960D7576B170FD59B0,
 COMS 316,Intercultural Communication in Contexts,"Judith N. Martin, Thomas K. Nakayama",7th,"http://libgen.gs/ads.php?md5=d839b47cd83b9e7ff4c0e1c4a7067cc9 only click the top ""Get"" Link",
 coms 316,Intercultural Communication in Contexts,"Martin, J. N., & Nakayama, T. K.",7th,https://drive.google.com/file/d/1aTpkFNLR65hCoyVyi9kU47eotl8F7mdM/view?usp=sharing realized you wanted a gdrive link,
 COMS 316,Intercultural Communication in Contexts,"Martin, J.N., & Nakayama, T.K.",7th,https://vdoc.pub/download/intercultural-communication-in-contexts-6o76q7pm1rk0,
 Coms 316,Braving the Wilderness,Brene Brown,,https://drive.google.com/open?id=1soHEqTov4wL8Rq1vwv5buV0KZ4EJW0tH,
-COMS 322,Influence: Science and Practice,"Cialdini, R.B.",5,https://drive.google.com/open?id=1LPOSq_kTqgL7RRdxOhDTYBgUjCV7Q9SZ,
+COMS 322,Influence: Science and Practice,"Cialdini, R.B.",5,https://drive.google.com/open?id=1LPOSq_kTqgL7RRdxOhDTYBgUjCV7Q9SZ,9780205609994
 COMS 322,Persuasion In Society,Jones & Simons,3,https://drive.google.com/open?id=1vlDxKJALrowQy9B7N4-02S2-hpXQ399l,
 COMS 330,Aristotle on Rhetoric,"Aristotle, trans. George Kennedy",2,https://drive.google.com/open?id=1HM1PN5AR2Vq3GVAZAjWgXCa4AAlY1vE5,
 COMS 330,"De Orator, bks. I-II","Cicero, trans. E.W. Sutton & H. Rackham",,https://drive.google.com/open?id=10WHwlmikOC4VBNwl9SldO47W_qFZ22Ro,
 COMS 330,Selected Political Speeches of Cicero,"Cicero, trans. Michael Grant",,https://drive.google.com/open?id=1d9QGt0WWbuoCdJ5bf1GcuMAycMsZ66qT,
 COMS 384 Media Effects,Media Effects,Potter,2017,https://drive.google.com/open?id=1Z-STnOXwpdKhVBqtFrw69n0wsnRLa8XK,
 COMS 386,Mass Media & American Politics,Graber; Sarrell M. West; Johanna Dunaway,10,https://drive.google.com/open?id=16YZm6OfromPiNbRCRJMtwrjf8hHMlM98,
-COMS 418,Communicating about health: Current issues and perspectives.,du Pre & Overton,6,https://bibliu.com/app/#/view/books/9780197548769/epub/OEBPS/coverImage.html#page_Cover (Bibliu.com),
-COMS 420,Nonverbal Communication in Everyday Life,"Remland, Martin S.",4,https://drive.google.com/open?id=1nfRRkLsWJJIBz-gAhr9r-9MZ-pTwKdqG,
-COMS 421,Gendered Lives,Fixmer-Oraiz,13,https://drive.google.com/open?id=1L8oXpibM_8vp-e6Eoih2ui9GZW1FNTnL,
-CPE 100,Studying Engineering: A Road Map to a Rewarding Career,Landis,4,https://drive.google.com/open?id=1Hcjfvfq_Ne48Csjv1x8QBq1o-kxeO9Vj,
+COMS 418,Communicating about health: Current issues and perspectives.,du Pre & Overton,6,https://bibliu.com/app/#/view/books/9780197548769/epub/OEBPS/coverImage.html#page_Cover (Bibliu.com),9780197548769
+COMS 420,Nonverbal Communication in Everyday Life,"Remland, Martin S.",4,https://drive.google.com/open?id=1nfRRkLsWJJIBz-gAhr9r-9MZ-pTwKdqG,9781483370255
+COMS 421,Gendered Lives,Fixmer-Oraiz,13,https://drive.google.com/open?id=1L8oXpibM_8vp-e6Eoih2ui9GZW1FNTnL,9781337555883
+CPE 100,Studying Engineering: A Road Map to a Rewarding Career,Landis,4,https://drive.google.com/open?id=1Hcjfvfq_Ne48Csjv1x8QBq1o-kxeO9Vj,9780979348747
 CPE 133,Digital Design Foundation Modeling,James Mealy,,https://drive.google.com/open?id=1oVbHlTSVQ2Lw3YH1NWwVvddYUy0zAc9m,
 CPE 133,FreeRange Digital Design Foundation Modeling Lab Activity Manual,James Mealy,,https://drive.google.com/open?id=1Ucu3kNWvi_COzdOv7Qh6uBw8INaSa9Co,
 CPE 133,FreeRange Digital Design Foundation Modeling Solutions Manual,James Mealy,,https://drive.google.com/open?id=1sTsd_0sKh6us3X08Gz5raW23fxSoR6xY,
 "CPE 133, EE 133",Digital McLogic Design,Bryan J. Mealy & James T. Mealy,2012,https://drive.google.com/open?id=1LcjK-MoYjo43EFucJuk6kcJS-AOcyFjy,
 CPE 202,Data Structures and Algorithms with Python,"Lee, Kent D., Hubbard, Steve",1,https://drive.google.com/open?id=16W5o4rTzXyHTxDUpkuGzR195Tz-eCeqG,
-CPE 203,Big Java Early Objects,Cay Horstmann,6th,https://psv4.userapi.com/c812737/u16929061/docs/0b08f736dfaa/Big_Java_Early_Objects-_6th_edition.pdf?extra=giIDIxnjeaT4cbrb5CD3jfdfL9mBL6lvIVIoHsV98JnZ8ILh-PtpHaYiAa9M_1t2h7hmJSzwiP_sTD2G2bYoLvuEpqD7nwct5ZORs5Cc_L64dyP79zuOzS64SMp-pgddjjCR8NuxR2FOfw,
+CPE 203,Big Java Early Objects,Cay Horstmann,6th,https://psv4.userapi.com/c812737/u16929061/docs/0b08f736dfaa/Big_Java_Early_Objects-_6th_edition.pdf?extra=giIDIxnjeaT4cbrb5CD3jfdfL9mBL6lvIVIoHsV98JnZ8ILh-PtpHaYiAa9M_1t2h7hmJSzwiP_sTD2G2bYoLvuEpqD7nwct5ZORs5Cc_L64dyP79zuOzS64SMp-pgddjjCR8NuxR2FOfw,9781119056447
 CPE 203,Core Java Volume I: Fundamentals,Cay S Hortsman,10,https://drive.google.com/open?id=1ueDSEA6SnIkUGtHEHQG_xZzN0Ic9bN8Y,
-CPE 315,Computer Organization and Design,"David A. Patterson, John L. Hennessy",5,http://library.lol/main/8BA6B1AF686927B583B41684A5EBF98A,
-CPE 315,Computer Organization and Design,Patterson Hennesey,4,https://drive.google.com/open?id=1rQwTx5folWzGzQiHNY7t1axNJIN-jMM0,
-CPE 315,Computer Organization and Design,David Patterson,5,https://drive.google.com/open?id=1FQCyEgWjmQ0ErP_QK9fsmPiV3Ob6zoUs,
-CPE 327,DSP First,"James H. McClellan, Ronald Schafer, Mark Yoder",2,http://library.lol/main/C3B02542D71909DCEFBF0D4906B45CBF,
-CPE 357,Advanced Programming in the UNIX Environment,"W. Richard Stevens, Stephen A. Rago",3,https://drive.google.com/open?id=1a6LdBsZkqvZZyY96246LHKvKYWWc86AM,
-CPE 453,Operating System Concepts,"Silberschatz, Galvin, and Gagne",10,https://drive.google.com/open?id=1YS_dFnaw6SHG9qX-WwoEhsWz2NUKWCeX,
-CPE 453,Operating Systems: Design and Implementation,Tanenbaum,3,https://drive.google.com/open?id=11uXEd3Lu3RKZEncsT5ZmEY3wbZpENh8u,
-CPE 453,Operating Systems: Three Easy Pieces,Arpaci-Dusseau,1,https://drive.google.com/open?id=1cjsipO78-MLvyrdUCjmFGXXjXygdVCFj,
-CPE/CSC 225,Introduction to Computing Systems: From Bits and Gates to C and Beyond,"Patt, Patel",2,https://drive.google.com/file/d/0B_y5VoosmiugNWpjM1VJTlM1RGM/view,
+CPE 315,Computer Organization and Design,"David A. Patterson, John L. Hennessy",5,http://library.lol/main/8BA6B1AF686927B583B41684A5EBF98A,9780124077263
+CPE 315,Computer Organization and Design,Patterson Hennesey,4,https://drive.google.com/open?id=1rQwTx5folWzGzQiHNY7t1axNJIN-jMM0,9780123747501
+CPE 315,Computer Organization and Design,David Patterson,5,https://drive.google.com/open?id=1FQCyEgWjmQ0ErP_QK9fsmPiV3Ob6zoUs,9780124077263
+CPE 327,DSP First,"James H. McClellan, Ronald Schafer, Mark Yoder",2,http://library.lol/main/C3B02542D71909DCEFBF0D4906B45CBF,9780136019251
+CPE 357,Advanced Programming in the UNIX Environment,"W. Richard Stevens, Stephen A. Rago",3,https://drive.google.com/open?id=1a6LdBsZkqvZZyY96246LHKvKYWWc86AM,9780321637734
+CPE 453,Operating System Concepts,"Silberschatz, Galvin, and Gagne",10,https://drive.google.com/open?id=1YS_dFnaw6SHG9qX-WwoEhsWz2NUKWCeX,9781119456339
+CPE 453,Operating Systems: Design and Implementation,Tanenbaum,3,https://drive.google.com/open?id=11uXEd3Lu3RKZEncsT5ZmEY3wbZpENh8u,9780131429383
+CPE 453,Operating Systems: Three Easy Pieces,Arpaci-Dusseau,1,https://drive.google.com/open?id=1cjsipO78-MLvyrdUCjmFGXXjXygdVCFj,9781985086593
+CPE/CSC 225,Introduction to Computing Systems: From Bits and Gates to C and Beyond,"Patt, Patel",2,https://drive.google.com/file/d/0B_y5VoosmiugNWpjM1VJTlM1RGM/view,9780071215039
 CRP 201,101 Things I Learned in Urban Design School,"Matthew Fredrick, Vikas Mehta",,https://drive.google.com/open?id=1Kd0TzKzNq4d5pPrNSeVTpXyIPxJPn3W-,
 CRP 211,History of Urban Form,A. E. J. Morris,3,https://drive.google.com/open?id=1_R7RD2EZakbf6QYs9Aoy-Qc6Omh_zymH,
 CRP 315,Guide to Local Government Finance in California,"Michael Multari, Michael Coleman, Ken Hampian and Bill Statler,",2,https://drive.google.com/open?id=1NwENZKprN7hnk88TLIJrhuSye-bcEgEJ,
 CRP 334,Thank You For Being Late: An Optimists Guide to Thriving in the Age of Accelerations,Thomas L. Friedman,1,https://drive.google.com/open?id=1KVTfwmUqKuKZplbMyQ0X6R2RQYMO5iyZ,
-CRP 440,"Climate Action Planning - A guide to creating low-carbon, resilient communities","Boswell, Greve, & Seale",,https://link-springer-com.ezproxy.lib.calpoly.edu/content/pdf/10.5822%2F978-1-61091-964-7.pdf,
+CRP 440,"Climate Action Planning - A guide to creating low-carbon, resilient communities","Boswell, Greve, & Seale",,https://link-springer-com.ezproxy.lib.calpoly.edu/content/pdf/10.5822%2F978-1-61091-964-7.pdf,9781610919647
 CRP 457,GIS Tutorial 1: Basic Workbook,Gorr and Kurland,,https://drive.google.com/open?id=1RqZgb2CgSa7HbMpcKbs-NN4sIfbMaMsf,
-CRP 501,Cities of Tomorrow,Peter Hall,4th,http://library1.ga/_ads/BFBDE15A281FF5F5A74B273E92FEA8F0,
+CRP 501,Cities of Tomorrow,Peter Hall,4th,http://library1.ga/_ads/BFBDE15A281FF5F5A74B273E92FEA8F0,9781118456477
 CRP 504,Planning for Sustainability,Stephen Wheeler,1st,http://library1.ga/_ads/42B682405D674C4E468F18EFAEEEA01A,
 CSC 231,Matlab an Introduction with applications,Amos Gilat,,https://drive.google.com/open?id=1hYjCddoRDOv4unab6htcLz0CipWj_9vx,
-CSC 231,MatLab: An Introduction with Applications,Amos Gilat,6,https://drive.google.com/open?id=1rxvYghqXbsAV-_mW0eoUg9xaP2piPdc5,
-CSC 231,MATLAB,AMOS GILAT,4,https://www.researchgate.net/profile/Hazim_Tahir/post/How_can_I_find_the_coefficient_for_fitting_a_curve_in_MATLAB/attachment/59d61dd179197b807797a400/AS%3A273591222898691%401442240638234/download/MATLAB_+An+Introduction+with+Ap+-+Amos+Gilat.pdf,
-CSC 231,MATLAB,AMOS GILAT,5,http://shannon.ir/Bookme/MATLAB:%20An%20Introduction%20with%20Applications.pdf,
-CSC 248,Discrete Mathematics and its Applications,K. H. Rosen.,8,https://drive.google.com/open?id=1-jfOHcJNNUDHw1CLv-2vg5tKZgdZp03V,
+CSC 231,MatLab: An Introduction with Applications,Amos Gilat,6,https://drive.google.com/open?id=1rxvYghqXbsAV-_mW0eoUg9xaP2piPdc5,9781119256830
+CSC 231,MATLAB,AMOS GILAT,4,https://www.researchgate.net/profile/Hazim_Tahir/post/How_can_I_find_the_coefficient_for_fitting_a_curve_in_MATLAB/attachment/59d61dd179197b807797a400/AS%3A273591222898691%401442240638234/download/MATLAB_+An+Introduction+with+Ap+-+Amos+Gilat.pdf,9781118136621
+CSC 231,MATLAB,AMOS GILAT,5,http://shannon.ir/Bookme/MATLAB:%20An%20Introduction%20with%20Applications.pdf,9781118801802
+CSC 248,Discrete Mathematics and its Applications,K. H. Rosen.,8,https://drive.google.com/open?id=1-jfOHcJNNUDHw1CLv-2vg5tKZgdZp03V,9781259676512
 CSC 305,Design Patterns Elements of Reusable Object-Oriented Software,"Gamma, Helm, Johnson, Vlissides",,https://drive.google.com/open?id=1TImjKtKqUFau2ln_8fOGq_QeVUOGYaWL,
-CSC 305,Effective Java,Bloch,3,https://drive.google.com/open?id=1BMXJSm8HdCeB6vz-lgqWiMgLc-K0Oq1-,
-CSC 348,Discrete Mathematics and its Applications,K. H. Rosen,8,https://drive.google.com/open?id=1ic51hwSKHsg47Mg_x9L9IqgsFhLCFZXl,
-CSC 348,Discrete Mathematics and Its Applications,K. H. Rosen,8,https://drive.google.com/open?id=1rK17bimGr58oE_fpX16Sn3nLG3fq6Ttn,
-CSC 348,Discrete mathematics and Its applications,Kenneth H. Rosen,7,https://drive.google.com/file/d/18xdRTGLZ2dm6Chn4JGB0WNxojuOFOiE5/view?usp=sharing,
+CSC 305,Effective Java,Bloch,3,https://drive.google.com/open?id=1BMXJSm8HdCeB6vz-lgqWiMgLc-K0Oq1-,9780134685991
+CSC 348,Discrete Mathematics and its Applications,K. H. Rosen,8,https://drive.google.com/open?id=1ic51hwSKHsg47Mg_x9L9IqgsFhLCFZXl,9781259676512
+CSC 348,Discrete Mathematics and Its Applications,K. H. Rosen,8,https://drive.google.com/open?id=1rK17bimGr58oE_fpX16Sn3nLG3fq6Ttn,9781259676512
+CSC 348,Discrete mathematics and Its applications,Kenneth H. Rosen,7,https://drive.google.com/file/d/18xdRTGLZ2dm6Chn4JGB0WNxojuOFOiE5/view?usp=sharing,9780073383095
 CSC 349,Algorithms,"Dasgupta, Papadimitriou, and Vazirani",1st,https://b-ok.cc/dl/3332172/d53d90,
 CSC 349,Algorithms Illuminated Part 3: Greedy Algorithms and Dynamic Programming,Time Roughgraden,1,http://www.algorithmsilluminated.org/won3sample.pdf,
 CSC 349,,,,http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf,
 CSC 349,Algorithms Illuminated Part 2 (Complete),Tim Roughgarden,1,https://drive.google.com/open?id=1kL9_DdGO0D1-YZNsGdOG2cqAgAK26U5d,
 CSC 349,Algorithms Illuminated Part 3,Tim Roughgarden,1,https://drive.google.com/open?id=1-wncSbxyfalp70Jt0DgCh9o3V4wlGzAS,
-CSC 349,Introductions to Algorithms,"Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",3,https://drive.google.com/open?id=1CtcmZcu-czzcBtq8NOgv-v7qyoXO0lbG,
+CSC 349,Introductions to Algorithms,"Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",3,https://drive.google.com/open?id=1CtcmZcu-czzcBtq8NOgv-v7qyoXO0lbG,9780262033848
 CSC 349,Algorithms,Dasgupta Sanjoy,1,https://drive.google.com/open?id=1saC9baOIBytuKBDaRXghWa5BoNK-s_iG,
-CSC 357,Advanced Programming in the Unix Environment,"W. Richard Stevens, Stephan A. Rago",3,https://drive.google.com/open?id=1QjVPxBiYGDrYhvm_eCx4jXDlqy4VNrIP,
-CSC 357,The C Programming Language,"Brian W. Kernighan, Dennis M. Ritchie",2,https://drive.google.com/open?id=1YXWwhkHqLJyo3qFKNXXpU-hiT1cqJTc_,
-CSC 365,Database Systems,"Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom",2,https://drive.google.com/file/d/1ws2hgmN1yXpGxpsMY5djZJRjeaRm1NWU/view,
-CSC 365,Database Systems,"Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom",2,https://drive.google.com/file/d/1ws2hgmN1yXpGxpsMY5djZJRjeaRm1NWU/view,
-CSC 406,Working Effectively with Legacy Code,Michael C. Feathers,1,https://drive.google.com/open?id=141vmcR96VeZm71rgv0eC7RbjToFWXyCo,
-CSC 445,Introduction to the Theory of Computation,Michael Sipser,3rd Edition,https://github.com/phoenixsense/CS500/blob/master/Introduction%20to%20the%20theory%20of%20computation_third%20edition%20-%20Michael%20Sipser.pdf,
+CSC 357,Advanced Programming in the Unix Environment,"W. Richard Stevens, Stephan A. Rago",3,https://drive.google.com/open?id=1QjVPxBiYGDrYhvm_eCx4jXDlqy4VNrIP,9780321637734
+CSC 357,The C Programming Language,"Brian W. Kernighan, Dennis M. Ritchie",2,https://drive.google.com/open?id=1YXWwhkHqLJyo3qFKNXXpU-hiT1cqJTc_,9780131103627
+CSC 365,Database Systems,"Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom",2,https://drive.google.com/file/d/1ws2hgmN1yXpGxpsMY5djZJRjeaRm1NWU/view,9780131873254
+CSC 365,Database Systems,"Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom",2,https://drive.google.com/file/d/1ws2hgmN1yXpGxpsMY5djZJRjeaRm1NWU/view,9780131873254
+CSC 406,Working Effectively with Legacy Code,Michael C. Feathers,1,https://drive.google.com/open?id=141vmcR96VeZm71rgv0eC7RbjToFWXyCo,9780131177055
+CSC 445,Introduction to the Theory of Computation,Michael Sipser,3rd Edition,https://github.com/phoenixsense/CS500/blob/master/Introduction%20to%20the%20theory%20of%20computation_third%20edition%20-%20Michael%20Sipser.pdf,9781133187790
 CSC 445,Languages and Machines: An Introduction to the Theory of Computer Science,Thomas A. Sudkamp,,https://drive.google.com/open?id=1NFsSkNBVKUr0_X0rk7-7I0ZBFcr4_hNq,
 CSC 466,"Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data,",Bing Liu,"2nd (Springer, 2011)",http://sirius.cs.put.poznan.pl/~inf89721/Seminarium/Web_Data_Mining__2nd_Edition__Exploring_Hyperlinks__Contents__and_Usage_Data.pdf,
-CSC 480,Artificial Intelligence: A Modern Approach,Stuart Russell and Peter Norvig,4,https://drive.google.com/open?id=1x_JBOF-55lapj8d7R_feQ1oTg2cIv2yv,
+CSC 480,Artificial Intelligence: A Modern Approach,Stuart Russell and Peter Norvig,4,https://drive.google.com/open?id=1x_JBOF-55lapj8d7R_feQ1oTg2cIv2yv,9780134610993
 CSC 480,Introduction to Artificial Intelligence (2nd Edition),Wolfgang Ertel,2,https://drive.google.com/open?id=1VA1wgJ6468IKSjrwoqKIU50GHDQgHzVz,
 CSC 481,Knowledge Representation and Reasoning,"Ronald J. Brachman, Hector J. Levesque",,https://drive.google.com/open?id=1o9vlYq649lKLfzyW7GgKb09myQfOLLs-,
-CSC 487,Deep Learning with Python,François Chollet,1,https://drive.google.com/open?id=1vbHvCj27xRVS-FXuYVFweKNeStsYtbQP,
-CSC 487,"Deep Learning with Python, 2nd Edition",Francois Chollet,2,https://drive.google.com/open?id=1RCzLAewOvpEx0vPv884hazjO98m2vrdW,
+CSC 487,Deep Learning with Python,François Chollet,1,https://drive.google.com/open?id=1vbHvCj27xRVS-FXuYVFweKNeStsYtbQP,9781617294433
+CSC 487,"Deep Learning with Python, 2nd Edition",Francois Chollet,2,https://drive.google.com/open?id=1RCzLAewOvpEx0vPv884hazjO98m2vrdW,9781617296864
 ECON 201,Principles of Exonomics,N. Gregory Mankiw,5th,https://www.udg.edu.me/download/122/preuzimanje,
-ECON 201,Principles of Economics,N. Gregory Mankiw,9,https://drive.google.com/open?id=1U10GFAHwiONW6BOCPkXFtpG3l-XrOBo3,
+ECON 201,Principles of Economics,N. Gregory Mankiw,9,https://drive.google.com/open?id=1U10GFAHwiONW6BOCPkXFtpG3l-XrOBo3,9780357038314
 ECON 201,Principles of Economics,"Greenlaw, Shapiro, Taylor",2,https://openstax.org/details/books/principles-economics-2e,
-ECON 201,Principles of Economics,Gregory Mankiw,7,https://drive.google.com/open?id=1IOAuqun-_hjKSv-hU_KAXNl3xYTxLDZW,
-ECON 201,Principles of Economics,N. Gregory Mankiw,8,https://drive.google.com/open?id=1Zdf6H8q5qDYA5_TFPPk80EcTxpjVyQCm,
-ECON 221,Principles of Microeconomics,N. Gregory Mankiw,10,https://drive.google.com/open?id=1U6XO4JQvXMPjRiS5wYjq-E3P13oyjb0Z,
-ECON 221,Principles of Microeconomics,N. Gregory Mankiw,7,https://drive.google.com/open?id=1XQE_FUdUMsFVKmivsdfEoLS45zvgHrTU,
+ECON 201,Principles of Economics,Gregory Mankiw,7,https://drive.google.com/open?id=1IOAuqun-_hjKSv-hU_KAXNl3xYTxLDZW,9781305156043
+ECON 201,Principles of Economics,N. Gregory Mankiw,8,https://drive.google.com/open?id=1Zdf6H8q5qDYA5_TFPPk80EcTxpjVyQCm,9781305585126
+ECON 221,Principles of Microeconomics,N. Gregory Mankiw,10,https://drive.google.com/open?id=1U6XO4JQvXMPjRiS5wYjq-E3P13oyjb0Z,9780357722862
+ECON 221,Principles of Microeconomics,N. Gregory Mankiw,7,https://drive.google.com/open?id=1XQE_FUdUMsFVKmivsdfEoLS45zvgHrTU,9781285165905
 ECON 221,Modern Principles of Microeconomics,"Tyler Cowen, Alex Tabarrok",3,https://drive.google.com/open?id=1Wwf0u560Zqhesdzq6i9W8rsCACp0lVYh,
-ECON 221,Principles of Microeconomics,N. Gregory Mankiw,7,https://drive.google.com/file/d/1Wpkc8bIJLy4Rb5vupdRqr1-EPnOEBYhd/view?usp=sharing,
-ECON 222,Macroeconomics,"Acemoglu, Laibson, List",2,https://drive.google.com/file/d/1NLjSb8qO18l5KlyPrxVU8usr9zY9sbjd/view?usp=sharing,
+ECON 221,Principles of Microeconomics,N. Gregory Mankiw,7,https://drive.google.com/file/d/1Wpkc8bIJLy4Rb5vupdRqr1-EPnOEBYhd/view?usp=sharing,9781285165905
+ECON 222,Macroeconomics,"Acemoglu, Laibson, List",2,https://drive.google.com/file/d/1NLjSb8qO18l5KlyPrxVU8usr9zY9sbjd/view?usp=sharing,9780134461854
 ECON 222,Macroeconomic Principles and Policy,Alan S. Blinder; John L. Solow; William J. Baumol,14,https://drive.google.com/open?id=1h7CYUXwHFGG-XcXOoK9jANx03D98Yy4O,
-ECON 222,Macroeconomics,"Acemoglu, Laibson, List",2,https://drive.google.com/open?id=1wIE7kKB1fm-rchcdhBCJJVMAyzdYBgBo,
-Econ 222,Macroeconomics Principles & Policy,William Baumol and Alan Blinder,13,https://drive.google.com/open?id=1PLMMan4vnXbBFGpdp4Cjq7h6YQg6I4mr,
+ECON 222,Macroeconomics,"Acemoglu, Laibson, List",2,https://drive.google.com/open?id=1wIE7kKB1fm-rchcdhBCJJVMAyzdYBgBo,9780134461854
+Econ 222,Macroeconomics Principles & Policy,William Baumol and Alan Blinder,13,https://drive.google.com/open?id=1PLMMan4vnXbBFGpdp4Cjq7h6YQg6I4mr,9781305280601
 ECON 222,Modern Principles: Macroeconomics,Cowen and Tabarrok,2,https://drive.google.com/open?id=1_4o1V7JTa7KB8CUSUyLSqMQDFfG2g6t9,
 Econ 303,Nickel and Dimed,Barbara Ehrenreich,,https://drive.google.com/open?id=1kfVw316K5pGRKhx_71R73ZMofRRilILp,
 ECON 303,Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty,Abhijit V. Banerjee,,https://drive.google.com/open?id=1KixH-QrEu7Hyu5r_dz6c3vrNfmePF0wI,
 ECON 303,The New Jim Crow: Mass Incarceration in the Age of Colorblindness,Michelle Alexander,10,https://drive.google.com/open?id=1Gz7NfY-o46ox6iJdDZi-M5IQu4OG_Zn0,
 ECON 311,Intermediate Microeconomics,Hal R. Varian,9th,https://docs.google.com/document/d/1UdeALsWKz9dARvKSJQ6-qlqjB0jnnhhRC2XbE9_YZac/edit?usp=sharing,
 ECON 311,Intermediate Microeconomics,Hal R. Varian,9th,https://drive.google.com/file/d/1xhLapDJcc5BzMoeh4jnrKXeHF8LobFd5/view?usp=share_link,
-ECON 313,Macroeconomics Policy and Practice,Frederic S. Mishkin,2,https://drive.google.com/open?id=1vi7Ug0-y9WpUeQ7oF_PSf__Ts_GU7Ckb,
-ECON 313,Macroeconomics: Policy and Practice,Mishkin,2nd,https://drive.google.com/file/d/1Yfah5P7BdNhxH7m4R--t9whkJBNmvvSi/view,
+ECON 313,Macroeconomics Policy and Practice,Frederic S. Mishkin,2,https://drive.google.com/open?id=1vi7Ug0-y9WpUeQ7oF_PSf__Ts_GU7Ckb,9780133424317
+ECON 313,Macroeconomics: Policy and Practice,Mishkin,2nd,https://drive.google.com/file/d/1Yfah5P7BdNhxH7m4R--t9whkJBNmvvSi/view,9780133424317
 ECON 337,"The Economics of Money, Banking, and Financial Markets",Mishkin,11th,https://www.academia.edu/35632126/The_Economics_of_Money_Banking_and_Financial_Markets-11th_Edition,
-ECON 339,Introductory Econometrics: A Modern Aproach,Wooldridge,5,https://drive.google.com/file/d/1A9OXMgIU3HT5-56vRSHm3psW9zYnCg_Q/view?usp=sharing,
+ECON 339,Introductory Econometrics: A Modern Aproach,Wooldridge,5,https://drive.google.com/file/d/1A9OXMgIU3HT5-56vRSHm3psW9zYnCg_Q/view?usp=sharing,9781111531041
 ECON 395,Elements of Statistical Learning,-,-,The link in the drive is broken.,
 ECON 395,Python Data Science Handbook,Jake Vanderplas,,https://jakevdp.github.io/PythonDataScienceHandbook/,
 ECON 395,A Course in Machine Learning,Hal Daume III,,https://drive.google.com/file/d/1TsegMDCw9xjM5XHy-5RNkyCPC1vDf_kh/view?usp=sharing,
@@ -397,8 +397,8 @@ EDUC 424,180 Days: Two teachers and the quest to engage and empower adolescents.
 EDUC 424,Literacy is liberation: Working toward justice through culturally relevant teaching,"Parker, K.N.",2022,https://drive.google.com/open?id=1EGgbO65wF0lrtlzc1T6kkqHuoZNS5QwQ,
 EDUC 428,Teaching Reading Sourcebook,"Bill Honig, Linda Diamond, Linda Gutlohn",3,https://drive.google.com/open?id=120kc664dPR5Ir3f9luJJokC4_ZeEM3LL,
 EE 111,Studying Engineering,Raymond Landis,,https://drive.google.com/open?id=1xBICsz1ghpFVI1Q1jWBFNQXYztqRkfvr,
-EE 111,Studying Engineering,Raymond Landis,5,https://drive.google.com/open?id=1CmYLeZ3aNbDIJSGzE5C5fvBBoa0C0SQT,
-EE 111,Studying Engineering,Raymond Landis,4,https://drive.google.com/file/d/0ByS63Kq0K6Tib0F6V3pybEJjT0U/view,
+EE 111,Studying Engineering,Raymond Landis,5,https://drive.google.com/open?id=1CmYLeZ3aNbDIJSGzE5C5fvBBoa0C0SQT,9780979348723
+EE 111,Studying Engineering,Raymond Landis,4,https://drive.google.com/file/d/0ByS63Kq0K6Tib0F6V3pybEJjT0U/view,9780979348747
 EE 112,Eletric Circuits,"James Nilsson, Susan Riedel",10,https://drive.google.com/file/d/19HalAZCUrFsGgZW8ETq1CVn3fAsUbx_1/view?usp=sharing,
 EE 113,Electric Circuits,"James W. Nilsson, Susan A. Riedel",11,http://93.174.95.29/main/427C7698951D1602D02934669C6AF2FE,
 EE 201,Electrical Engineering: Principles and Applications Solution Manual,Hambley,"3,4,5,6,7",https://media.pearsoncmg.com/bc/abp/engineering-resources/products/series.html#series=Hambley,
@@ -448,13 +448,13 @@ EE 375,EE 375 Signal Transmission Lab Manual [BOOKMARKS INCLUDED],"Arakaki, EE D
 EE 406,Power System Analysis and Design,"J. Duncan, Thomas J. Overbye, Mulukuta S. Sarma",6,https://drive.google.com/open?id=1_DzakRI3Spp5tgQX8DmpPYC5SGeLqedn,
 EE 409,Design With Operational Amplifiers And Analog Integrated Circuits,Sergio Franco,4,https://drive.google.com/open?id=1GemHnYfWuQwrz_M9cAzYGwlYLtufVwK5,
 EE 416,Modern Digital and Analog Communication System,"B. P. Lathi, Zhi Ding",5,https://drive.google.com/open?id=1ceHvZ8CuqhvxElRX7SO3gYFyrf0kwdtF,
-EE 418,Diode Lasers and Photonic Integrated Circuits,Coldren,2nd,https://drive.google.com/file/d/1kx8hmN8c-TbUoiFQ0p3Tuifmm5zNNygu/view?usp=sharing,
+EE 418,Diode Lasers and Photonic Integrated Circuits,Coldren,2nd,https://drive.google.com/file/d/1kx8hmN8c-TbUoiFQ0p3Tuifmm5zNNygu/view?usp=sharing,9780470484128
 EE 418,Fundamentals of Photonics [SOLUTION MANUAL],Bahaa E. A. Saleh & Malvin Carl Teich,3,https://drive.google.com/open?id=18TxGTapBwtHXOnGbidPRXcBMjVYhSUHo,
 EE 418,"Fundamentals of Photonics, 2 Volume Set",Bahaa E. A. Saleh & Malvin Carl Teich,3,https://drive.google.com/open?id=1hAX_www19s6pJsaNaFNOEZlj6ym1D456,
-EE 431,CMOS VLSI Design: A Circuits and Systems Perspective (2015),Neil Weste & David Harris,4,https://drive.google.com/open?id=1-Ty8sbql3IRLxyjFKllAlS_EB04uh7tx,
-EE 432,Digital Control System,PhilipsNagle,3,https://drive.google.com/open?id=1iQlSKjQyKhIoLOIR_rYT6oyeRzq0iwlB,
+EE 431,CMOS VLSI Design: A Circuits and Systems Perspective (2015),Neil Weste & David Harris,4,https://drive.google.com/open?id=1-Ty8sbql3IRLxyjFKllAlS_EB04uh7tx,9780321547743
+EE 432,Digital Control System,PhilipsNagle,3,https://drive.google.com/open?id=1iQlSKjQyKhIoLOIR_rYT6oyeRzq0iwlB,9780133098327
 EE 516,Pattern Classification,"Richard O. Duda, Peter E. Hart, David G. Stork",2,https://drive.google.com/open?id=1ZYLe6ZKzWiiyBSeoLkOBFwD3pnXx5hq3,
-EE111,Studying Engineering - A Road Map to a Rewarding Career,Raymond Landis,5,https://drive.google.com/file/d/1rxJNueFDPFj-wWjEDrpxmcRcEN-5Gb-6/view?usp=sharing,
+EE111,Studying Engineering - A Road Map to a Rewarding Career,Raymond Landis,5,https://drive.google.com/file/d/1rxJNueFDPFj-wWjEDrpxmcRcEN-5Gb-6/view?usp=sharing,9780979348723
 EE307,(able to search text) INTRODUCTION TO DIGITAL MICROELECTRONIC CIRCUITS,K. “Gopal” Gopalan,1,https://drive.google.com/open?id=1r9_BeuUdiPxtAljCT7b8PvExnm0NBmKD,
 EE307,Introduction to Digital Microelectronic Circuits,"K. ""Gopal"" Goplan",,https://drive.google.com/open?id=1m4IT7PKF9Ocu0UcEEGdW7U4YjNtI99Bk,
 EE347,EE347 Lab Manual,E.E. Department,2015,https://drive.google.com/open?id=1eOY02j1GGMWOxzQBVSQMza-SfbTwFvki,
@@ -466,16 +466,16 @@ ENG 145,Wildland: The Making of America's Fury,Evan Osnos,,https://drive.google.
 ENG 149,Strategies for Technical Communication in the Workplace,"Laura J. Gurak, John M. Lannon",3rd,http://libgen.lc/ads.php?md5=4ADD0432CEA8F00E846884A75D861881,
 ENG145,Last Best Hope: America in Crisis and Renewal,George Packer,,https://drive.google.com/open?id=1BpjKufwHnwb0YCzsKssJVZoXcXD3eeyh,
 ENGL,Norton Anthology to English Literature,James Simpson and Alfred David,8,https://drive.google.com/open?id=1ftmwK3eoCcQMd17tGOTzlLMtD6o2E77Q,
-ENGL 133,Everyone's An Author With Readings,Andrea Lunsford,3,https://drive.google.com/open?id=1gt2-Ov4M1pUHq9uJBiN6Eec5_CbiB37H,
-ENGL 133,Everyone's An Author With Readings,Andrea Lunsford,2nd,http://library1.ga/_ads/888012F758825511CFE697B4CB5F8628,
-ENGL 134,Everyone's an Author with Readings,Andrea Lunsford,2,https://drive.google.com/open?id=18zEJamSmmYmF6yNdT1WMv05uwolGYXvF,
-ENGL 134,The Little Seagull,"Richard Bullock, Michal Brody",3rd,https://archive.org/details/RichardBullockMichalBrodyTheLittleSeagullHadbook3ed/page/n7,
-ENGL 134,The Little Seagull,"Richard Bullock, Michal Brody",3rd,https://archive.org/stream/RichardBullockMichalBrodyTheLittleSeagullHadbook3ed/Richard%20Bullock%2C%20Michal%20Brody%2C%20The%20Little%20Seagull%20Hadbook%20%283ed%29_djvu.txt,
+ENGL 133,Everyone's An Author With Readings,Andrea Lunsford,3,https://drive.google.com/open?id=1gt2-Ov4M1pUHq9uJBiN6Eec5_CbiB37H,9780393420838
+ENGL 133,Everyone's An Author With Readings,Andrea Lunsford,2nd,http://library1.ga/_ads/888012F758825511CFE697B4CB5F8628,9780393265293
+ENGL 134,Everyone's an Author with Readings,Andrea Lunsford,2,https://drive.google.com/open?id=18zEJamSmmYmF6yNdT1WMv05uwolGYXvF,9780393265293
+ENGL 134,The Little Seagull,"Richard Bullock, Michal Brody",3rd,https://archive.org/details/RichardBullockMichalBrodyTheLittleSeagullHadbook3ed/page/n7,9780393602630
+ENGL 134,The Little Seagull,"Richard Bullock, Michal Brody",3rd,https://archive.org/stream/RichardBullockMichalBrodyTheLittleSeagullHadbook3ed/Richard%20Bullock%2C%20Michal%20Brody%2C%20The%20Little%20Seagull%20Hadbook%20%283ed%29_djvu.txt,9780393602630
 ENGL 134,Fresh Voices: Composition at Cal Poly,Cal Poly English Department,,https://drive.google.com/open?id=1ncd7VW57CE4VWhJv4LIkcc35yG7VELUd,
 ENGL 134,Fresh Voices: Compositions at Cal Poly,Cal Poly Students,,https://drive.google.com/open?id=1wOVwlJB18lOq4i--kg5vsXe6prjq371Y,
 ENGL 134,Norton Field Guide To Writing,Richard Bullock,5,https://drive.google.com/open?id=1VVxwDqT6iCrfqcX_4Pmi2G3YgoGJlfTC,
 ENGL 134,The little Norton reader : 50 essays from the first 50 years,Melissa A. Goldthwaite,,https://drive.google.com/open?id=1MRgy3ZMwyKXDwwBg9xKetUUO3jjnkCxU,
-ENGL 134,The Norton Field Guide to Writing with Readings and Handbook,Bullock,5,https://drive.google.com/open?id=1eLSLEon13FrkHKW7u5WyxMimoT4RrE-j,
+ENGL 134,The Norton Field Guide to Writing with Readings and Handbook,Bullock,5,https://drive.google.com/open?id=1eLSLEon13FrkHKW7u5WyxMimoT4RrE-j,9780393655803
 ENGL 134,Unveiling Self - A Collection of Student Memoirs,Leslie St. John,,https://drive.google.com/open?id=1_YanurkWPCq3c1-6i20B7hV1EVi4Id7A,
 ENGL 134,The Norton Field Guide to Writing with Readings and Handbook,"Richard Bullock, Maureen Daly Goggin, Francine Weinberg",4,https://drive.google.com/open?id=1oE_ymyi_Ybq-iFxr7rWtziqSz80yvOIt,
 ENGL 134,They Say / I Say,"Gerald Graff, Cathy Birkenstein",3,https://drive.google.com/open?id=1WW3mOeZL56RtKDFl1DuVwzRsqRMdMsgN,
@@ -487,18 +487,18 @@ ENGL 145,The Best American Essays 2023,Robert Atmanand Vivian Gornick,2023,https
 ENGL 145,They Say/I Say 5th Edition,Graff,5,"file:///Users/emelinerobbins/Downloads/They%20Say%20%20I%20Say%20(Gerald%20Graff,%20Cathy%20Birkenstein)%20(z-lib.org).pdf",
 ENGL 145,Best American Essays,Wesley Morris,2024,https://drive.google.com/open?id=1TUKNdDyICEaNPB1cUjVWDWDBS44MA0uS,
 ENGL 145,Elements of Argument,"Annette T. Rottenberg, Donna Haisty Winchell",12,https://drive.google.com/open?id=1BIUoV0ueVii_Y5UoNSQoGAZn4ABHHE9H,
-ENGL 145,Everything's an Argument with Readings,Andrea A. Lunsford; John J. Ruszkiewicz; Keith Walters,8,https://drive.google.com/open?id=1RQvVqGWvlOCsVCnNfBn3OJQlMNC-5ktK,
-ENGL 145,Everything's an Argument with Readings,"Andrea A. Lunsford, John J. Ruszkiewicz",9,https://drive.google.com/open?id=1wT1M4OiyBPN5i-EEd2XIRZka_2fuZUTR,
+ENGL 145,Everything's an Argument with Readings,Andrea A. Lunsford; John J. Ruszkiewicz; Keith Walters,8,https://drive.google.com/open?id=1RQvVqGWvlOCsVCnNfBn3OJQlMNC-5ktK,9781319105181
+ENGL 145,Everything's an Argument with Readings,"Andrea A. Lunsford, John J. Ruszkiewicz",9,https://drive.google.com/open?id=1wT1M4OiyBPN5i-EEd2XIRZka_2fuZUTR,9781319244477
 ENGL 145,So What? The Writer's Argument,"Kurt Schick, Laura Schubert",2,https://drive.google.com/open?id=13wzwvrGnmMmzxsR9s4Yuu_KIFSdn-8pf,
 ENGL 145,They Say / I Say,"Gerald Graff, Cathy Birkenstein",5,https://drive.google.com/open?id=1vihUgnbk6LiBep6KR4LUyTRNRzbYFhKS,
-ENGL 145,Who Says? The Writer's Research,"Deborah Holdstein, Danielle Aquilline",2,https://drive.google.com/open?id=1CexGdQyunnHY9RA2bRnmS_JcS1sFx4b6,
-ENGL 145,Writing Arguments: A Rhetoric with Readings,"Ramage, Bean, and Johnson",11,https://drive.google.com/open?id=18meEYCTYD9BZszIdlHwM4DE_3-aLkmiX,
-ENGL 145,"Writing Arguments: A Rhetoric with Readings, 11th edition. Pearson, 2019.","Ramage, Bean, and Johnson",11,https://drive.google.com/open?id=1HjDM6GmkSLE0otW3DnK8vzpTDFtTiYKt,
+ENGL 145,Who Says? The Writer's Research,"Deborah Holdstein, Danielle Aquilline",2,https://drive.google.com/open?id=1CexGdQyunnHY9RA2bRnmS_JcS1sFx4b6,9780190633479
+ENGL 145,Writing Arguments: A Rhetoric with Readings,"Ramage, Bean, and Johnson",11,https://drive.google.com/open?id=18meEYCTYD9BZszIdlHwM4DE_3-aLkmiX,9780134760964
+ENGL 145,"Writing Arguments: A Rhetoric with Readings, 11th edition. Pearson, 2019.","Ramage, Bean, and Johnson",11,https://drive.google.com/open?id=1HjDM6GmkSLE0otW3DnK8vzpTDFtTiYKt,9780134760964
 ENGL 145,Being Logical: A Guide to To Good Thinking,D. Q. McInerny,Reprint,https://epdf.tips/being-logical-a-guide-to-good-thinking.html,
 ENGL 145,Elements of Argument,Annette Rottenberg,10th,https://drive.google.com/file/d/1rrc3ksbaqzQIh6oX22C6Jj7ChrjTXGvk/view?usp=sharing,
-ENGL 145,Writing Arguments,"Ramage, Bean, Johnson",10,https://drive.google.com/open?id=1Vnkm2H2AuQ17bXItvDL0XgwMkwh1ikB1,
+ENGL 145,Writing Arguments,"Ramage, Bean, Johnson",10,https://drive.google.com/open?id=1Vnkm2H2AuQ17bXItvDL0XgwMkwh1ikB1,9780133881356
 ENGL 147,Writing Arguments in STEM,Jason Peters et al,1,https://drive.google.com/open?id=1OWJM1ryiS8il8MQn29XpHOWo039kQRoH,
-ENGL 149,Technical Communication,"Lannon, John M., and Laura J. Gurak.",13,https://drive.google.com/open?id=1_woVCd9zBwvCaCgnJ07OOr0M4IfkVstO,
+ENGL 149,Technical Communication,"Lannon, John M., and Laura J. Gurak.",13,https://drive.google.com/open?id=1_woVCd9zBwvCaCgnJ07OOr0M4IfkVstO,9780321909251
 ENGL 149,Technical Communication,Mike Markel,11,https://drive.google.com/open?id=12wBbkRy7m4HqgJSCo8D5PviUkDHc8XQP,
 ENGL 149,Technical Communication,John M. Lannon and Laura J. Gurak,14,https://drive.google.com/open?id=11lNBJMVVQJk5JWE4IfXP-kiPA3IW0soh,
 ENGL 149,Strategies for Technical Communication in the Workplace,Gurak and Lannon,3,https://drive.google.com/file/d/1_g4fyLS-IhMmDEzhhEMl50NceQyIGL5g/view?usp=sharing,
@@ -535,18 +535,18 @@ ENGL 498,Teaching by Principles: An Interactive Approach to Language Pedagogy,"H
 ENGL 502,Critical Theory Since Plato,Hazard Adams,3,https://drive.google.com/open?id=1tXLibOHcoe0fJcDZO0B9kv28IlZtvk4n,
 ENGL-251,"Literature of the Western World, Vol. 1",Wilkie and Hurt,5,https://drive.google.com/open?id=1knU8SW71xigmkZ-i4D6j-LPLRRf23Iur,
 ENGLE 145,Everything’s An Argument,"Andrea Lunsford, John Ruszkiewicz and Keith Walters",9,https://drive.google.com/open?id=1lvn4IH4294b5hIASlYg5dMeh4wK-WJyq,
-ENGLISH,Cambridge Lower Secondary English Workbook 9 with Digital Access (1 Year),9781108746694,August 2021,https://www.cambridge.org/us/education/subject/english/first-language-english/cambridge-primary-and-lower-secondary-english-2nd-edition/cambridge-lower-secondary-english-2nd-edition-workbook-9-digital-access-1-year?isbn=9781108746694,
+ENGLISH,Cambridge Lower Secondary English Workbook 9 with Digital Access (1 Year),9.78111E+12,Aug-21,https://www.cambridge.org/us/education/subject/english/first-language-english/cambridge-primary-and-lower-secondary-english-2nd-edition/cambridge-lower-secondary-english-2nd-edition-workbook-9-digital-access-1-year?isbn=9781108746694,9781108746694
 English,Everyones an Authord 3rd edition,,3,https://drive.google.com/open?id=1wQVHvr2b8cEeAYlqgsIMnL2TTxDLjJzp,
 English 253,Songs of Innocence and of Experience,William Blake,N/A,https://www.gutenberg.org/files/1934/1934-h/1934-h.htm#song06,
 ENVE 264,Fluid Mechanics Fundamentals and Applications,"Cengel, Cimbala",4th,https://drive.google.com/file/d/183xGxEESc1CuviAwsAKmyvTcU5UJvs7j/view?usp=sharing,
 ENVE 304,Fundamentals of Chemical Engineering Thermodynamics,"Themis Matsoukas, Prentice Hall",,https://drive.google.com/file/d/1XzTyimOYR6qcPAdAhQ5j6JAxxDEHGy1d/view?usp=sharing,
 ENVE 331,Principles of Environmental Engineering and Science,Davis and Masten,3,https://drive.google.com/open?id=1MHJyQymgr1sD50aq1i5bxWHPYJP8998U,
 ENVE 421,Mass-Transfer Operations,Robert Terybal,3,https://docs.google.com/file/d/0BzCmwoVStdgOYzZkMlVIZUlCckE/edit?pli=1&resourcekey=0-hFJCvNcHOzQYfv-hbN7aqQ,
-ENVE 434,Chemistry for Environmental Engineering and Science,"Clair Sawyer, Perry McCarty and Gene Parkin. McGraw Hill",5th,"file:///Users/Alicecao%201/Downloads/Clair%20Sawyer,%20Perry%20McCarty,%20Gene%20Parkin%20-%20Chemistry%20for%20Environmental%20Engineering%20and%20Science%20(2002).pdf",
-ENVE 434,Standard Methods for the Examination of Water and Wastewater,"Rodger B. Baird, Eugene W. Rice, and Steven Posavec",23rd,"file:///Users/Alicecao%201/Downloads/(Standard%20Methods%20for%20the%20Examination%20of%20Water%20and%20Wastewater)%20Rodger%20B.%20Baird,%20Eugene%20W.%20Rice,%20and%20Steven%20Posavec%20-%20Standard%20Methods%20For%20The%20Examination%20Of%20Water%20And%20Wastewater%2023th-Amer%20Public%20Healt.pdf",
+ENVE 434,Chemistry for Environmental Engineering and Science,"Clair Sawyer, Perry McCarty and Gene Parkin. McGraw Hill",5th,"file:///Users/Alicecao%201/Downloads/Clair%20Sawyer,%20Perry%20McCarty,%20Gene%20Parkin%20-%20Chemistry%20for%20Environmental%20Engineering%20and%20Science%20(2002).pdf",9780072480665
+ENVE 434,Standard Methods for the Examination of Water and Wastewater,"Rodger B. Baird, Eugene W. Rice, and Steven Posavec",23rd,"file:///Users/Alicecao%201/Downloads/(Standard%20Methods%20for%20the%20Examination%20of%20Water%20and%20Wastewater)%20Rodger%20B.%20Baird,%20Eugene%20W.%20Rice,%20and%20Steven%20Posavec%20-%20Standard%20Methods%20For%20The%20Examination%20Of%20Water%20And%20Wastewater%2023th-Amer%20Public%20Healt.pdf",9781625762405
 ENVE 438,Water and Wastewater Engineering: Design Principles and Practice,Mackenzie L. Davis,,https://drive.google.com/open?id=1orPLI2S0nsHroSzuk9o8cNQoew9136fa,
 ES 112,"Race, Class, and Gender in the United States",Rothberg,10th,https://4.files.edl.io/a774/05/10/19/053156-125d68d9-cdf2-4efb-94a8-412482541061.pdf,
-ES 112,"Race, Class, and Gender in the United States","Paula S. Rothenberg, Christina Hsu Accomando",11,https://drive.google.com/open?id=17-hdpmXYXCnwyoGKEVN3mqLb4bbJ7THV,
+ES 112,"Race, Class, and Gender in the United States","Paula S. Rothenberg, Christina Hsu Accomando",11,https://drive.google.com/open?id=17-hdpmXYXCnwyoGKEVN3mqLb4bbJ7THV,9781319258184
 ES 112,"Race, class, and gender in the United States",Rothenberg,10th,https://drive.google.com/file/d/1aFJHWHEFBhdTTW16JtJvL3QF4XFB64C_/view?usp=sharing,
 ES 252,"A Different Mirror: A History of Multicultural America, Revised Edition",Ronald Takaki,2008,https://drive.google.com/open?id=1H-ZuOnI4RS643iEv_nHnCU_Ovd8zV8QY,
 ES 253,An Indigenous Peoples' History of the United States,Roxanne Dunbar-Ortiz,,http://www.sackett.net/An-Indigenous-Peoples-History-of-the-United-States-Ortiz.pdf,
@@ -560,16 +560,16 @@ ES 255,The Tattooed Soldier,Hector Tobar,,https://drive.google.com/open?id=11-6V
 ES 350,"Seizing the Means of Reproduction: Entanglements of Feminism, Health, and Technoscience",Michelle Murphy,,https://drive.google.com/open?id=1OsFz2xFA2aUi0Bzn0NrhShWy5GL1TkQC,
 ES 350,The Borderlands of Education: Latinas in Engineering,Michelle Madsen Camacho and Susan M. Lord,,https://drive.google.com/open?id=1uxLAGCvSekrwPGKD5llYEXgc85FkR4ce,
 ES 350,"Trans Bodies, Trans Selves",Erickson-Schroth,,https://drive.google.com/open?id=13VgeIuo_vqpwPOHGGYK1QJeivDzuMRaJ,
-ES 380,Critical Race Theory: The Cutting Edge,"Richard Delgado, Jean Stefancic",3,http://download1.libgen.io/ads.php?md5=7109232106E81EB0879EDEB85D315543,
+ES 380,Critical Race Theory: The Cutting Edge,"Richard Delgado, Jean Stefancic",3,http://download1.libgen.io/ads.php?md5=7109232106E81EB0879EDEB85D315543,9781439910610
 ESCI 501,The Graduate Student’s Backpack: It’s what you need on the research path,Ronald D. Taskey,,https://drive.google.com/open?id=1K8LO6bey38R1NK3CAdJeEpBPHpdG3Yqx,
 Ethnic Studies 225,Harvest of Empire: A History of Latinos in America,Juan Gonzales,2,https://drive.google.com/open?id=1s2SheRsDgEPI9VSsahEjTbb8Uj14g6k3,
-"FR 101, 102, 103, 201, 202, 203",Interaction : Langue et culture,"Susan St. Onge, Ronald St. Onge, Scott Powers",9,https://drive.google.com/open?id=12b9_eMwzHlMZ02G1loSYmpPt_GTANsNk,
+"FR 101, 102, 103, 201, 202, 203",Interaction : Langue et culture,"Susan St. Onge, Ronald St. Onge, Scott Powers",9,https://drive.google.com/open?id=12b9_eMwzHlMZ02G1loSYmpPt_GTANsNk,9781133311249
 FR 233,Autour de la littérature,"Peter Schofer, Donald B. Rice",6,https://drive.google.com/open?id=1OHDaYzCs9fc1RFVTAfk1ho9HLmfcIV0M,
-FSN 250,Food and Culture,"Pamela Goyan Kittler, Kathryn P. Sucher and Marcia Nahikian-Nelms",7,https://drive.google.com/open?id=1HPW71-AEhK55edM_u4IxMJOH1rF4zKUa,
+FSN 250,Food and Culture,"Pamela Goyan Kittler, Kathryn P. Sucher and Marcia Nahikian-Nelms",7,https://drive.google.com/open?id=1HPW71-AEhK55edM_u4IxMJOH1rF4zKUa,9781305628052
 FSN 319,What Einstein Told His Cook,Robert L. Wolke,1,https://drive.google.com/open?id=1lmqGsSDtrwuhENmhyT05GfMK2x42Hl5N,
-FSN 331,Advanced Nutrition and Human Metabolism,"S.S. Gropper, J.L. Smith, & T.P Carr",8,https://drive.google.com/open?id=1A5TmF5PWRtNhBw0k7BLoKtJx8jWEooya,
-"FSN 343, 344","Foodservice organizations, a managerial and systems approach",Gregorie,9,https://drive.google.com/file/d/1Oa-7qggcJbbOEXYQ_65aRSCQW8axWADj/view?usp=sharing,
-FSN 374,Guide to US Food Laws and Regulation,Patricia Curtis,2,https://drive.google.com/open?id=1somWdnPtJAD0BzAgTiaT1AXCmbCCiuZk,
+FSN 331,Advanced Nutrition and Human Metabolism,"S.S. Gropper, J.L. Smith, & T.P Carr",8,https://drive.google.com/open?id=1A5TmF5PWRtNhBw0k7BLoKtJx8jWEooya,9780357449813
+"FSN 343, 344","Foodservice organizations, a managerial and systems approach",Gregorie,9,https://drive.google.com/file/d/1Oa-7qggcJbbOEXYQ_65aRSCQW8axWADj/view?usp=sharing,9780134038940
+FSN 374,Guide to US Food Laws and Regulation,Patricia Curtis,2,https://drive.google.com/open?id=1somWdnPtJAD0BzAgTiaT1AXCmbCCiuZk,9781118227787
 GEOG - 250,Geosystems: An Introduction to Physical Geography,Christopherson and Birkeland,10th,https://vk.com/doc26152157_504983435?hash=VtXxVtvIZtSqbTByhmImdbn6Vn6Q0oz1GCV3Rb2Jk5c,
 GEOG 150,White Fragility: Why It's So Hard for White People to Talk About Racism,Robin DiAngelo,,https://drive.google.com/file/d/1z15Mp7NQIDT8vPwq5knnT3tZVj13MH5a/view?usp=sharing,
 GEOG 150,How the World is Passed,Clint Smith,,https://drive.google.com/open?id=1URclzYLmfiOEOv0aUFE2C76-0eL3j0nq,
@@ -617,7 +617,7 @@ HIST 306,The Witch-Hunt in Early Modern Europe,Brian Levack,3,https://drive.goog
 HIST 338,Born in Blood and Fire,John Charles Chasteen,4,https://drive.google.com/open?id=1eWes3c40ySxN5OTCKYJYU1dD7lrD27RH,
 History 201,The Unfinished Nation Volume 1,Alan Brinkley,8,https://drive.google.com/open?id=1CcHMW1FATfDBMLoXiBB47mgGTfGLyzzx,
 History 202,A Consumers' Republic,Lizabeth Cohen,,https://drive.google.com/file/d/1pRP4074FQR-gwAoqGr09nRgNlq_TM563/view?usp=drivesdk,
-HLTH 250,Health: The Basics,Rebecca J. Donatelle,13,https://drive.google.com/open?id=1ggVgjOwovIMIZywhnkPIFxZ6v2URRoVc,
+HLTH 250,Health: The Basics,Rebecca J. Donatelle,13,https://drive.google.com/open?id=1ggVgjOwovIMIZywhnkPIFxZ6v2URRoVc,9780134709680
 HLTH 250,Health: The Basics,Rebecca J. Donatelle,14,https://drive.google.com/open?id=1N1VAqGodcAbJk8nZgV2qgKUsKgjI34uG,
 HLTH 255,Multicultural Health,Lois A. Ritter & Donald H. Graham,Second,https://drive.google.com/file/d/110mdaw9RVesxcLt9iMBOjZ2Rxi74AeEM/view,
 HLTH 255,"Essentials of Health, Culture, Health and Diversity: Understanding People, Reducing Disparities",Mark Edberg,2,https://drive.google.com/open?id=131x5nUZyQ-Y0nK0XWV9llQNoMxHaJ41V,
@@ -639,16 +639,16 @@ IME 301,Manegerial Decision Modeling with Spreadsheets,"Balakrishan, Render, Sta
 IME 314,Engineering Economic Analysis,Donald G Newnan,13th,https://drive.google.com/file/d/11zMEXgfBPbhNNnq3_S-MXJScMuFs2e1N/view,
 IME 326,Statistics for Engineers and Scientists,William Navidi,5,https://drive.google.com/open?id=1qqhjjl9V7kLDdKkox93OhonrazYczFwf,
 IME 330,Fundamentals of Modern Manufacturing,Mikell P. Groover,4,https://drive.google.com/open?id=1GonQNfe2psgXXU2FcLZpj1nH2TNOruZp,
-IME 372,Data Mining for Business Analytics,"Shmueli, Bruce, Gedeck, Patel",1,https://drive.google.com/open?id=14axLw2DUid0SUpjYrWpVZ60FWZhl8ot5,
+IME 372,Data Mining for Business Analytics,"Shmueli, Bruce, Gedeck, Patel",1,https://drive.google.com/open?id=14axLw2DUid0SUpjYrWpVZ60FWZhl8ot5,9781119549840
 IME 4030,Engineering Economic Analysis,Don Newnan; Ted Eschenbach; Jerome Lavelle; Neal Lewis,,https://drive.google.com/open?id=1f1uZ161PN54Fr5B6OX8qa9GBuL7vQE4d,
-IME 409,Principles of Corporate Finance,"Richard A. Brealey, Stewart C. Myers, Franklin Allen",13,https://drive.google.com/open?id=1GFzSwsbSrx3vn7ZVjHo_O7D4TwCdT_bG,
-IME 410,Introduction to Materials Management,"Chapman, Gatewood, Arnold, Clive",8,https://drive.google.com/open?id=1L_Wj7TiQlNHFjqcyr1YV6gEv3rFpkqpq,
+IME 409,Principles of Corporate Finance,"Richard A. Brealey, Stewart C. Myers, Franklin Allen",13,https://drive.google.com/open?id=1GFzSwsbSrx3vn7ZVjHo_O7D4TwCdT_bG,9781260013900
+IME 410,Introduction to Materials Management,"Chapman, Gatewood, Arnold, Clive",8,https://drive.google.com/open?id=1L_Wj7TiQlNHFjqcyr1YV6gEv3rFpkqpq,9780134156323
 IME 420,The Goal: A Process of Ongoing Improvement,Goldratt and Cox,3,https://drive.google.com/open?id=1RDrcHLhb8Y32rIS8KulYn8PqcPgx1JnQ,
-IME 430,Introduction to Materials Management,Stephen N. Chapman JR Tony Arnold Anny K Gatewood Lloyd M Clive,8,https://drive.google.com/open?id=1H3t0OwQYJV1UDzHit3b035E1MnXnd6v4,
-IME 430,Introduction to Quality Control 8th Edition,Douglas C. Montgomery,8,https://drive.google.com/open?id=132ym0OGxDAc3oGW9TJ4S1guuqUWUz3fr,
+IME 430,Introduction to Materials Management,Stephen N. Chapman JR Tony Arnold Anny K Gatewood Lloyd M Clive,8,https://drive.google.com/open?id=1H3t0OwQYJV1UDzHit3b035E1MnXnd6v4,9780134156323
+IME 430,Introduction to Quality Control 8th Edition,Douglas C. Montgomery,8,https://drive.google.com/open?id=132ym0OGxDAc3oGW9TJ4S1guuqUWUz3fr,9781119723097
 IME 430,Introduction to Statistical Quality Control,DOUGLAS C. MONTGOMERY,7,https://drive.google.com/open?id=1_W1UNGUWRyqn5Dda0Vp_GIIBflxW9hg0,
 IME 450,Fundamental of Modern Manufacturirng,Mikell P. Groover,7,https://drive.google.com/open?id=1XeYCYmV0jKR6uJdUWZY1s0Gfx_nHVdv3,
-ISLA 201,Introduction to Interdisciplinary Studies,"Allen F. Repko, Rick Szostak, Michelle Phillips Buchberger",2,https://drive.google.com/open?id=1G9ozDX2jMPwLJ6FGDOb3CyLU6x1jM9O3,
+ISLA 201,Introduction to Interdisciplinary Studies,"Allen F. Repko, Rick Szostak, Michelle Phillips Buchberger",2,https://drive.google.com/open?id=1G9ozDX2jMPwLJ6FGDOb3CyLU6x1jM9O3,9781506346892
 ISLA 320,Hollywood Cartoons,Michael Barrier,,https://drive.google.com/open?id=14b6CBNDj6LIuYpU6Poyihz0jxYnLaazb,
 ISLA 320,Introduction to Game Analysis,Clara Fernández-Vara,2,https://drive.google.com/open?id=11MwEWDWfQOH8UNokLxQFXrAob0Zmq3a-,
 ITP 371,Operations Management Processes and Supply Chains,"LeeJ.Krajewski, ManojK.Malhotra, LarryP.Ritzman",11,https://drive.google.com/open?id=1pdvbK_Ji-QVQMW6wS5rEyB9YSNfbN6C6,
@@ -660,10 +660,10 @@ JOUR 219,Cross-Cultural Journalism: Communicating Strategically About Diversity,
 JOUR 219,"Racism, Sexism, and the Media","Clint C. Wilson II, Felix Gutierrez & Lena M. Chao",,https://drive.google.com/open?id=1jgRsal412arpc4kW2eIOqoyolV2wOxxA,
 Jour 228,Media & Culture: Mass Communication in a Digital Age,"Campbell, Martin, Fabos, Becker",13,https://drive.google.com/open?id=1dRl5Nb4P0w6pEsr7WE9q3KeF--DM48eZ,
 JOUR 285,The Associated Press Stylebook,Associated Press,55th,https://drive.google.com/file/d/1TVB979f6wo59IEiQ8ouJiX02lufTybYe/view?usp=sharing,
-JOUR 302,The Law of Journalism and Mass Communication,Robert Trager,6th,https://drive.google.com/file/d/1e-dVYTvCV056FvzAs_tlcPW8EETjwNtm/view?usp=sharing,
+JOUR 302,The Law of Journalism and Mass Communication,Robert Trager,6th,https://drive.google.com/file/d/1e-dVYTvCV056FvzAs_tlcPW8EETjwNtm/view?usp=sharing,9781506363226
 JOUR 302,Major Principles of Media Law,Belmas & Overbeck,2023,https://drive.google.com/open?id=1FU8HXO-hEAYyBlqG4plFvX2CVO73L9EG,
-JOUR 312,Public Relations,Tom Kelleher,2,https://drive.google.com/open?id=1ry8JINSFJw4DHOuSIdJDZ6BXgqG5V2di,
-JOUR 333,"Broadcast News Handbook: Writing, Reporting & Producing in a Converging Media World","C.A. Tuggle, Forrest Carr, Suzanne Huffman",4,https://drive.google.com/open?id=1-uElPjPv993_bBeS4cYK2iN503c0ZpOG,
+JOUR 312,Public Relations,Tom Kelleher,2,https://drive.google.com/open?id=1ry8JINSFJw4DHOuSIdJDZ6BXgqG5V2di,9780190925093
+JOUR 333,"Broadcast News Handbook: Writing, Reporting & Producing in a Converging Media World","C.A. Tuggle, Forrest Carr, Suzanne Huffman",4,https://drive.google.com/open?id=1-uElPjPv993_bBeS4cYK2iN503c0ZpOG,9780073511962
 JOUR 342,"Strategic Writing Multimedia Writing for PR, Advertising and More","Charles Marsh, David W. Guth, Bonnie Poovey Short",4th Edition,https://drive.google.com/file/d/1a4ql_bN4M3ahhtlRv7rHj37R3vYeAbbU/view?usp=sharing,
 JOUR 345,Social Media for Strategic Communication,Karen Freberg,,https://drive.google.com/open?id=1tJPQ0d1OkMghY-uHVtq-CE_FzbpnPtGN,
 JOUR 402,The Ethical Journalist: Making Responsible Decisions in the Digital Age,Gene Foreman,2,https://drive.google.com/open?id=13PyHgRe5np9qNgsGSsdrkYlNnebuqpN7,
@@ -677,12 +677,12 @@ KINE 181,Responding to Emergencies: Comprehensive First Aid/CPR/AED 2017,America
 KINE 255,The Spirit Catches You and You Fall Down,"Marchant, J",,https://drive.google.com/open?id=1iDEGc7H1Y9lT21Qk9hOC06J6CsYS0AwE,
 KINE 266,Foundations of Sport and Exercise Phycology,Robert S. Weinburg,6th,file:///C:/Users/annag/OneDrive/Desktop/KINE%20266/Foundations%20of%20Sport%20and%20Exercise%20Psychology%206th%20Edition%20with%20Web%20Study%20Guide%20by%20Robert%20Weinberg%20Daniel%20Gould%20(z-lib.org).pdf,
 KINE 301,Stiff: The Curious Lives of Human Cadavers,Mary Roach,,https://goodmaisha.files.wordpress.com/2017/04/mary-roach-stiff-the-curious-lives-of-human-cadavers.pdf,
-KINE 308,Human Motor Development: A Lifespan Approach,"V. Gregory Payne, Larry D. Isaacs",9th,https://www.taylorfrancis.com/books/human-motor-development-gregory-payne-larry-isaacs/10.4324/9781315213040,
+KINE 308,Human Motor Development: A Lifespan Approach,"V. Gregory Payne, Larry D. Isaacs",9th,https://www.taylorfrancis.com/books/human-motor-development-gregory-payne-larry-isaacs/10.4324/9781315213040,9781315213040
 KINE 310,Children Moving,George Graham,10th,https://drive.google.com/file/d/1hmQKXgpORBf27j7f9R5Gd-gXqSpDmtsj/view?usp=sharing,
 KINE 312,Motor Learning and Control - Concepts and Applications,"Richard Magill, David Anderson",11th,https://cloudflare-ipfs.com/ipfs/bafykbzacebmuutjznpwoqgvdp6tur4mdisqankqldmalsdegiqfevkzskghnq?filename=Richard%20A.%20Magill%2C%20David%20Anderson%20-%20Motor%20Learning%20and%20Control_%20Concepts%20and%20Applications-McGraw-Hill%20Education%20%282016%29.pdf,
 KINE 312,Motor Learning and Control: Concepts and Applications Edition: 11th,Richard A. Magill,11,https://drive.google.com/open?id=1K9mUvwoti2zRoUCF6ZtGezL00yqvrdGZ,
 KINE 402,Motor Learning and Control: Concepts and Applications,Richard Magill and David Anderson,10,https://drive.google.com/file/d/0B5L-wUPJ-YyaUTN4N25OUnJzM1U/view?usp=sharing,
-KINE 443,Health: The Basics,Rebecca J Donatelle,13th,https://libgen.lc/search.php?&req=9780134709680&phrase=1&view=simple&column=def&sort=extension&sortmode=DESC,
+KINE 443,Health: The Basics,Rebecca J Donatelle,13th,https://libgen.lc/search.php?&req=9780134709680&phrase=1&view=simple&column=def&sort=extension&sortmode=DESC,9780134709680
 KINE/HLTH 250,Health: The Basics,Rebecca J. Donatelle,"MH Edition, same as 12? I think?",https://drive.google.com/file/d/1I4j75rwG7cIMZJZIIWHSrlpzcIq9CL0d/view?usp=sharing,
 LA 101,Landscape Architecture: An Introduction,Robert Holden and Jamie Liversedge,,http://bit.ly/1w7v4wn,
 LA 212,Landscape Design: A Cultural and Architectural History,Elizabeth Barlow Rogers,,https://drive.google.com/file/d/1aODDVS0_7_eDfZWFVa3Ap10XoiF4_4CO/view?usp=sharing,
@@ -695,170 +695,170 @@ LS 255,Children’s Books in Children’s Hands,"Charles Temple, Miriam Martinez
 LS 255,Esperanza Rising,Pam Munoz Ryan,,https://drive.google.com/open?id=1gW26R4LhgIqdIqCpmJ0f1YiwISKbEMf5,
 LS 255,Pashmina,Nidhi Chanani,,https://drive.google.com/open?id=1wDzZ4pvRdKMuqWuv1UAh_oEQT_x8pzH4,
 LS 310,Story Factor,Annette Simmons,,https://drive.google.com/open?id=196BETlVi2xz7iNqfeaTNULB5TAUXDWNG,
-MATE 210,"Material Science and Engineering, an Introduction",Callister,7,https://drive.google.com/open?id=1OuuJ_z6ctnPyA3d2vQXrG8_Xh-ENeRO-,
-MATE 210,"Materials Science and Engineering, and Introduction","William D. Callister, Jr. David G. Rethwisch",9,https://drive.google.com/open?id=1a-5sKlL3LWolw10YbL-Zg0mb4PrIWWZM,
-MATE 210,Materials Science and Engineering: An Introduction,Callister,8,https://drive.google.com/file/d/1JVdJFFXvqt7Ij_cVpr93N-MUzN3r99EI/view,
+MATE 210,"Material Science and Engineering, an Introduction",Callister,7,https://drive.google.com/open?id=1OuuJ_z6ctnPyA3d2vQXrG8_Xh-ENeRO-,9780471736967
+MATE 210,"Materials Science and Engineering, and Introduction","William D. Callister, Jr. David G. Rethwisch",9,https://drive.google.com/open?id=1a-5sKlL3LWolw10YbL-Zg0mb4PrIWWZM,9781118324578
+MATE 210,Materials Science and Engineering: An Introduction,Callister,8,https://drive.google.com/file/d/1JVdJFFXvqt7Ij_cVpr93N-MUzN3r99EI/view,9780470419977
 MATE 225,Materials Characterization,Yang Leng,1,https://drive.google.com/open?id=1TxsexznyKfx9Molfm79wSeLCBqxWury7,
-MATE 232,Materials Chemistry,Bradley D. Fahlman,2nd,https://link-springer-com.ezproxy.lib.calpoly.edu/book/10.1007%2F978-94-007-0693-4,
-MATE 232,Understanding Materials Science,Rolf E. Hummel,2nd,https://link-springer-com.ezproxy.lib.calpoly.edu/book/10.1007%2Fb137957,
-Mate 280,Introduction to the Thermodynamics of Materials,David R. Gasket,4th edition,https://www.eng.uc.edu/~beaucag/Classes/AdvancedMaterialsThermodynamics/Gaskell%204th%20Edition.pdf,
-MATE 280,Introduction to the Thermodynamics of Materials,David R. Gaskell,6,https://drive.google.com/open?id=1lYiyX2g3j6JCKcTzzxnxYEbunJ0BkV_U,
-MATH,Applied Partial Differential Equations,Logan,3,https://drive.google.com/file/d/1s1hCl_k4bZfm9bIC0TP4u2-atU1Fzqxq/view?usp=sharing,
-Math 116,"Precalculus: Functions and Graphs, Custom Edition for Cal Poly",Mark Dugopolski,4th,https://www.vitalsource.com/products/precalculus-mark-dugopolski-v9780321849120?duration=180&gclid=Cj0KCQiAvebhBRD5ARIsAIQUmnlrysW4ODFwZsm26Dx48llIlKj_BgZMajdp663CQbAHicawfu_bU5waAnafEALw_wcB,
+MATE 232,Materials Chemistry,Bradley D. Fahlman,2nd,https://link-springer-com.ezproxy.lib.calpoly.edu/book/10.1007%2F978-94-007-0693-4,9789400706934
+MATE 232,Understanding Materials Science,Rolf E. Hummel,2nd,https://link-springer-com.ezproxy.lib.calpoly.edu/book/10.1007%2Fb137957,9780387209395
+Mate 280,Introduction to the Thermodynamics of Materials,David R. Gasket,4th edition,https://www.eng.uc.edu/~beaucag/Classes/AdvancedMaterialsThermodynamics/Gaskell%204th%20Edition.pdf,9781560329923
+MATE 280,Introduction to the Thermodynamics of Materials,David R. Gaskell,6,https://drive.google.com/open?id=1lYiyX2g3j6JCKcTzzxnxYEbunJ0BkV_U,9781498757003
+MATH,Applied Partial Differential Equations,Logan,3,https://drive.google.com/file/d/1s1hCl_k4bZfm9bIC0TP4u2-atU1Fzqxq/view?usp=sharing,9783319124926
+Math 116,"Precalculus: Functions and Graphs, Custom Edition for Cal Poly",Mark Dugopolski,4th,https://www.vitalsource.com/products/precalculus-mark-dugopolski-v9780321849120?duration=180&gclid=Cj0KCQiAvebhBRD5ARIsAIQUmnlrysW4ODFwZsm26Dx48llIlKj_BgZMajdp663CQbAHicawfu_bU5waAnafEALw_wcB,9780321849120
 Math 118,,,,https://goo.gl/YMgHGR,
 Math 118,,,,https://goo.gl/YMgHGR,
-MATH 118,"Precalculus, Mathematics for Calculus","James Stewart, Lothar Redlin, Saleem Watson",7,https://drive.google.com/open?id=1RxPrS4biGD8wgQZFmbfYZrwpzlkp3gpe,
-MATH 118,Precalculus,Cohen,7,https://drive.google.com/open?id=1FS6eOSRraEJzfnZ4uHg4nVvT7Xk9C8oH,
-Math 141,calculus,james stewart,8th edition,https://vk.com/doc399904795_491120607?hash=b7e8fd777fbf2b5222,
-MATH 141,Calculus,James Stewart,7th,https://drive.google.com/file/d/1eVfJnCKRWxoBvk0VuAeH9iIi9RiJjYwU/view?usp=sharing,
-Math 141,Calculus,James Stewart,7th,https://drive.google.com/file/d/1lBxRiRdsLRH31u17kgc9ph8mlR4-NIZB/view?usp=sharing,
-MATH 141,Calculus 8th Edition,James Stewart,8,https://drive.google.com/open?id=1R9gKYJ-DGNRKisZTYQn02v2djyuYkWqR,
-MATH 141,Single Variable Calculus,Stewart,8,https://drive.google.com/open?id=1H7wjA-GSqrjWgMec-9VEEOC4U7ylGFB6,
-Math 141,Calculus 8th edition,James Stewart,8th,https://drive.google.com/file/d/1qK1IekcmcFOznu6AHoQcuro_lfAT0q8y/view?usp=sharing,
-Math 141 (the current link isn't working anymore),Calculus 8th Edition,James Stewart,8,https://drive.google.com/open?id=1swFWbOOo9sLB6OS0LZektOEzRX1Yppi6,
-"MATH 141, 142, 143, 241",Thomas Calculus,Thomas,12,https://drive.google.com/file/d/1-fm6lXlRvLeMWKAL219r9u0iYoySWQ-6/view?usp=sharing,
+MATH 118,"Precalculus, Mathematics for Calculus","James Stewart, Lothar Redlin, Saleem Watson",7,https://drive.google.com/open?id=1RxPrS4biGD8wgQZFmbfYZrwpzlkp3gpe,9781305071759
+MATH 118,Precalculus,Cohen,7,https://drive.google.com/open?id=1FS6eOSRraEJzfnZ4uHg4nVvT7Xk9C8oH,9780840069429
+Math 141,calculus,james stewart,8th edition,https://vk.com/doc399904795_491120607?hash=b7e8fd777fbf2b5222,9781285740621
+MATH 141,Calculus,James Stewart,7th,https://drive.google.com/file/d/1eVfJnCKRWxoBvk0VuAeH9iIi9RiJjYwU/view?usp=sharing,9780538497817
+Math 141,Calculus,James Stewart,7th,https://drive.google.com/file/d/1lBxRiRdsLRH31u17kgc9ph8mlR4-NIZB/view?usp=sharing,9780538497817
+MATH 141,Calculus 8th Edition,James Stewart,8,https://drive.google.com/open?id=1R9gKYJ-DGNRKisZTYQn02v2djyuYkWqR,9781285740621
+MATH 141,Single Variable Calculus,Stewart,8,https://drive.google.com/open?id=1H7wjA-GSqrjWgMec-9VEEOC4U7ylGFB6,9781305266636
+Math 141,Calculus 8th edition,James Stewart,8th,https://drive.google.com/file/d/1qK1IekcmcFOznu6AHoQcuro_lfAT0q8y/view?usp=sharing,9781285740621
+Math 141 (the current link isn't working anymore),Calculus 8th Edition,James Stewart,8,https://drive.google.com/open?id=1swFWbOOo9sLB6OS0LZektOEzRX1Yppi6,9781285740621
+"MATH 141, 142, 143, 241",Thomas Calculus,Thomas,12,https://drive.google.com/file/d/1-fm6lXlRvLeMWKAL219r9u0iYoySWQ-6/view?usp=sharing,9780321587992
 "MATH 141, 142, 143, 241",Thomas Calculus SOLUTION MANUAL,Thomas,12,https://drive.google.com/file/d/1o9KEKDN-Gl7T1_Xyv6THQe5DrrhcNF1a/view?usp=sharing,
-MATH 142,Calculus 8th edition,James Stewart,8th,https://drive.google.com/file/d/1cxD3bzLme9fGRHUfsK5jVbSzg45synOX/view?usp=sharing,
-MATH 143,Calculus 8th Edition,James Stewart,8th,"Pls update, Row 359 is labeled as just for MATH 142, also applies to 143",
+MATH 142,Calculus 8th edition,James Stewart,8th,https://drive.google.com/file/d/1cxD3bzLme9fGRHUfsK5jVbSzg45synOX/view?usp=sharing,9781285740621
+MATH 143,Calculus 8th Edition,James Stewart,8th,"Pls update, Row 359 is labeled as just for MATH 142, also applies to 143",9781285740621
 MATH 143,Full Solutions Calculus 8th Edition,James Stewart,8,https://drive.google.com/open?id=1M2HeE_yhKS90rzM3c2wHVpErtV-tsoGz,
 MATH 143,Solutions c1-c11 Calculus 8th,"Stewart, James",8,https://drive.google.com/open?id=1aV7zkjtvL9RNIhm4F2VrjxboxpuEVa_B,
 MATH 143,Solutions c10-c17 Calculus 8th,"Stewart, James",8,https://drive.google.com/open?id=1GQz4kcvxZO1fzA3eEkbzPlSk4GW1msT-,
-MATH 143,"Stewart, Calculus, 8th edition, Cengage.",James Stewart,8,https://drive.google.com/open?id=1eVfJnCKRWxoBvk0VuAeH9iIi9RiJjYwU,
-"MATH 161, 162",Biocalculus: Calculus of the Life Sciences,Stwart and Day,1,https://drive.google.com/file/d/1eKs7OPgzlSnB7v8m7xSqLsBQVBMLGUhF/view,
+MATH 143,"Stewart, Calculus, 8th edition, Cengage.",James Stewart,8,https://drive.google.com/open?id=1eVfJnCKRWxoBvk0VuAeH9iIi9RiJjYwU,9781285740621
+"MATH 161, 162",Biocalculus: Calculus of the Life Sciences,Stwart and Day,1,https://drive.google.com/file/d/1eKs7OPgzlSnB7v8m7xSqLsBQVBMLGUhF/view,9781285842523
 "MATH 161, 162",Biocalculus: Calculus of the Life Sciences SOLUTION MANULAL,Stwart and Day,1,https://drive.google.com/open?id=0B_gnHApww7jAMFYxMzJLMTRaWHgxTTYtVTVxZnNaTEZvbXR3,
-MATH 162,Biocalculus: Calculus for the Life Sciences,"Stewart, James and Day, Troy",1,https://drive.google.com/open?id=16NLRdyw1xMDY7m3T788xRGx7sGn1EhN-,
-MATH 206,Elementary Linear Algebra,H. Anton and A. Kaul,12,https://drive.google.com/open?id=18cAGmpc18G6v5yczI7YQKazOIYysrNqx,
-MATH 206,Linear Algebra and Its Applications,Lay,6,https://drive.google.com/open?id=1UsbQ_bKcR2VN13hVJI8wOYXgOIRoyopq,
-MATH 206,Linear Algebra with Applications,Otto Bretscher,5,https://drive.google.com/open?id=1yAQ4qSpqOdqaWKCeYKUrzTexYpandPah,
+MATH 162,Biocalculus: Calculus for the Life Sciences,"Stewart, James and Day, Troy",1,https://drive.google.com/open?id=16NLRdyw1xMDY7m3T788xRGx7sGn1EhN-,9781285842523
+MATH 206,Elementary Linear Algebra,H. Anton and A. Kaul,12,https://drive.google.com/open?id=18cAGmpc18G6v5yczI7YQKazOIYysrNqx,9781119268048
+MATH 206,Linear Algebra and Its Applications,Lay,6,https://drive.google.com/open?id=1UsbQ_bKcR2VN13hVJI8wOYXgOIRoyopq,9780135851258
+MATH 206,Linear Algebra with Applications,Otto Bretscher,5,https://drive.google.com/open?id=1yAQ4qSpqOdqaWKCeYKUrzTexYpandPah,9780321796974
 MATH 206,Linear Algebra with Applications SOLUTION MANUAL,Bretscher,5,https://drive.google.com/open?id=1dGR0s3ByDv8jEze35eyQ7bn0u08k0WnI,
-MATH 206,Linear Algebra and it’s Applications,Lay,5,https://drive.google.com/open?id=1fq9G2lHyQUUiYy132gcRl305UWZGIwHM,
+MATH 206,Linear Algebra and it’s Applications,Lay,5,https://drive.google.com/open?id=1fq9G2lHyQUUiYy132gcRl305UWZGIwHM,9780321982384
 MATH 206,Linear Algebra and it’s Applications SOLUTION MANUAL,Lay,5,https://drive.google.com/file/d/1Qyh4T3KMASEbWBv8J5xtY06tTXRzT9fZ/view?usp=sharing,
-MATH 206,Linear Algebra with Applications,Otto Bretscher,5,http://gen.lib.rus.ec/book/index.php?md5=B695F15487801F071E46FC80E4355135,
-MATH 221,"Applied Calculus for the Managerial, Life and Social Sciences",Soo T. Tan,8,https://drive.google.com/open?id=1YTIXs7XP21vmOawVam3f05FPlGyEq_Y7,
-MATH 221,"Applied Calculus for the Managerial, Life, and Social Sciences",Soo T. Tan,10,https://drive.google.com/open?id=19QrPSFIMcclRj5eCm-oiJHQw7GQic9zg,
-MATH 221,"Tan, Applied Calculus For the Managerial, Life, and Social Sciences, (9th ed) 2012",Soo T. Tan,9,https://drive.google.com/open?id=1iRybagRuseaaXFttuIUhBVErkc0TRv6a,
+MATH 206,Linear Algebra with Applications,Otto Bretscher,5,http://gen.lib.rus.ec/book/index.php?md5=B695F15487801F071E46FC80E4355135,9780321796974
+MATH 221,"Applied Calculus for the Managerial, Life and Social Sciences",Soo T. Tan,8,https://drive.google.com/open?id=1YTIXs7XP21vmOawVam3f05FPlGyEq_Y7,9780495559696
+MATH 221,"Applied Calculus for the Managerial, Life, and Social Sciences",Soo T. Tan,10,https://drive.google.com/open?id=19QrPSFIMcclRj5eCm-oiJHQw7GQic9zg,9781285464640
+MATH 221,"Tan, Applied Calculus For the Managerial, Life, and Social Sciences, (9th ed) 2012",Soo T. Tan,9,https://drive.google.com/open?id=1iRybagRuseaaXFttuIUhBVErkc0TRv6a,9781133607717
 "MATH 227, MATH 328, MATH 329, & MATH 330",Reconceptualizing Mathematics For Elementary School Teachers,"Judith Sowder, Larry Sowder, Susan Nickerson, & Ian Whitacre",4,https://drive.google.com/open?id=1eyoivQDZ6cwUGDZonPz32fPRPBj5QlWI,
-MATH 241,Calculus,James Stewart,8e,https://drive.google.com/file/d/1eVfJnCKRWxoBvk0VuAeH9iIi9RiJjYwU/view,
-MATH 242,Elementary Differential Equations and Boundary Value Problems,"William E. Boyce, Richard C. DiPrima, Douglas B. Meade",11th,http://31.42.184.140/main/2103000/c07aae2722d277cd3acdf0da2eb3c942/William%20E.%20Boyce%2C%20Richard%20C.%20DiPrima%2C%20Douglas%20B.%20%20Meade%20-%20Elementary%20Differential%20Equations%20and%20Boundary%20Value%20Problems-Wiley%20%282017%29.pdf,
+MATH 241,Calculus,James Stewart,8e,https://drive.google.com/file/d/1eVfJnCKRWxoBvk0VuAeH9iIi9RiJjYwU/view,9781285740621
+MATH 242,Elementary Differential Equations and Boundary Value Problems,"William E. Boyce, Richard C. DiPrima, Douglas B. Meade",11th,http://31.42.184.140/main/2103000/c07aae2722d277cd3acdf0da2eb3c942/William%20E.%20Boyce%2C%20Richard%20C.%20DiPrima%2C%20Douglas%20B.%20%20Meade%20-%20Elementary%20Differential%20Equations%20and%20Boundary%20Value%20Problems-Wiley%20%282017%29.pdf,9781119443766
 MATH 242,Differential Equations with Boundary-Value Problems,John Polking,2,https://drive.google.com/open?id=1glUFW706vpD3FsKZMCiRHxWGnZjJ2Ahv,
-MATH 242,Elementary Differential Equations & Boundary Value Problems,"Boyce, DiPrima, Meade",12,https://drive.google.com/open?id=174vBLk0cv8OWepyARN2-lNt5QB05Ldvm,
-Math 242,Elementary Differential Equations and Boundary value problems,"Boyce, DiPrima and Meade",12,https://drive.google.com/open?id=1QKMghnIZeoUwM4ZtGerdpIZ9js-SJ7lf,
-MATH 242,Elementary Differnetial Equations and Boundary Value Problems,"Boyce, Diprima",10,https://drive.google.com/file/d/1j9aRuLXf8ojRkmdrLL_HMvweQ36kJo34/view?usp=sharing,
-Math 244,Differential Equations and Linear Algebra,"Goode S.W., Annin S.A.",4th Edition,"http://213.230.96.51:8090/files/ebooks/matematika/Goode%20S.W.,%20Annin%20S.A.%20Differential%20equations%20and%20linear%20algebra%20(4ed.,%20Pearson,%202017)(ISBN%209780321964670)(O)(871s)%20MCde%20.pdf",
-MATH 244,Differential Equations & Linear Algebra (w/ bookmarks!),"Stephen W. Goode, Scott A. Annin",4,https://drive.google.com/open?id=1X0NdEQ5bg2tWE_Md2DSHI_TDiGbqTa5s,
-MATH 244,Differential Equations and Linear Algebra,"Stephen W. Goode, Scott A. Annin",4,https://drive.google.com/open?id=1XApOs1VGKzuuWhFvIjXLetRQvhIjIcwl,
+MATH 242,Elementary Differential Equations & Boundary Value Problems,"Boyce, DiPrima, Meade",12,https://drive.google.com/open?id=174vBLk0cv8OWepyARN2-lNt5QB05Ldvm,9781119802686
+Math 242,Elementary Differential Equations and Boundary value problems,"Boyce, DiPrima and Meade",12,https://drive.google.com/open?id=1QKMghnIZeoUwM4ZtGerdpIZ9js-SJ7lf,9781119802686
+MATH 242,Elementary Differnetial Equations and Boundary Value Problems,"Boyce, Diprima",10,https://drive.google.com/file/d/1j9aRuLXf8ojRkmdrLL_HMvweQ36kJo34/view?usp=sharing,9780470458310
+Math 244,Differential Equations and Linear Algebra,"Goode S.W., Annin S.A.",4th Edition,"http://213.230.96.51:8090/files/ebooks/matematika/Goode%20S.W.,%20Annin%20S.A.%20Differential%20equations%20and%20linear%20algebra%20(4ed.,%20Pearson,%202017)(ISBN%209780321964670)(O)(871s)%20MCde%20.pdf",9780321964670
+MATH 244,Differential Equations & Linear Algebra (w/ bookmarks!),"Stephen W. Goode, Scott A. Annin",4,https://drive.google.com/open?id=1X0NdEQ5bg2tWE_Md2DSHI_TDiGbqTa5s,9780321964670
+MATH 244,Differential Equations and Linear Algebra,"Stephen W. Goode, Scott A. Annin",4,https://drive.google.com/open?id=1XApOs1VGKzuuWhFvIjXLetRQvhIjIcwl,9780321964670
 MATH 244,Differential Equations and Linear Algebra Solution Manual,Stephen W. Goode and Scott A. Annin,4,https://drive.google.com/open?id=1GpGownIp0pL5EtML9UMofOYMDYJomDrU,
-MATH 244,Differential Equations and Linear Algebra,"Goode, Annin",4,https://drive.google.com/open?id=0B5BwSUpZm2NXVmluQ1JuSmZWNkE,
+MATH 244,Differential Equations and Linear Algebra,"Goode, Annin",4,https://drive.google.com/open?id=0B5BwSUpZm2NXVmluQ1JuSmZWNkE,9780321964670
 MATH 244,Differential Equations and Linear Algebra SOLUTION MANUAL,Stephen W. Goode and Scott A. Annin,4,https://drive.google.com/open?id=10ZQKvRrHO2uaszwA4-UUhsuQnZITDRow,
-MATH 248,Book Of Proof,Richard Hammack,3,https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf,
-MATH 248,A TeXas-Style Introduction to Proof,Ron Taylor and Patrick X. Rault,,https://drive.google.com/open?id=1KFvu8fuYrOi0prVcwr0A4Is8YpiDYAX4,
-Math 248,Mathematics: A Discrete Introduction,Edward Scheinerman,3,https://drive.google.com/open?id=1YklfHpDJ-qd0V0rnkmpJlW10opM1v8Sj,
-MATH 248,An Introduction to Abstract Mathematics,"Robert Bond, William Keane",1,https://drive.google.com/file/d/1w6M6Gy6Q861RJNVOeW-QbsES-bKmjQ2Y/view?usp=sharing,
-MATH 248,"Reading, Writing, and Proving",Daepp,2,https://drive.google.com/open?id=1j0I8h_Zy4NrA8pFzLt8C7UqFPOpFyYbj,
-MATH 304,Vector Calculus,Marsden & Tromba,6,https://drive.google.com/open?id=1kWCZxInqVg91r9xICW6C77vsA-3ADM5t,
-MATH 304,Vector Calculus,"Jerrold E. Marsden, Anthony Tromba",6,https://drive.google.com/open?id=1SuxodnB15zJTYpJh7g4pitTJKsW55Kgt,
+MATH 248,Book Of Proof,Richard Hammack,3,https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf,9780989472128
+MATH 248,A TeXas-Style Introduction to Proof,Ron Taylor and Patrick X. Rault,,https://drive.google.com/open?id=1KFvu8fuYrOi0prVcwr0A4Is8YpiDYAX4,9781939512130
+Math 248,Mathematics: A Discrete Introduction,Edward Scheinerman,3,https://drive.google.com/open?id=1YklfHpDJ-qd0V0rnkmpJlW10opM1v8Sj,9780840049421
+MATH 248,An Introduction to Abstract Mathematics,"Robert Bond, William Keane",1,https://drive.google.com/file/d/1w6M6Gy6Q861RJNVOeW-QbsES-bKmjQ2Y/view?usp=sharing,9781577665397
+MATH 248,"Reading, Writing, and Proving",Daepp,2,https://drive.google.com/open?id=1j0I8h_Zy4NrA8pFzLt8C7UqFPOpFyYbj,9781461429159
+MATH 304,Vector Calculus,Marsden & Tromba,6,https://drive.google.com/open?id=1kWCZxInqVg91r9xICW6C77vsA-3ADM5t,9781429215084
+MATH 304,Vector Calculus,"Jerrold E. Marsden, Anthony Tromba",6,https://drive.google.com/open?id=1SuxodnB15zJTYpJh7g4pitTJKsW55Kgt,9781429215084
 Math 304,Colley Vector Calculus Fourth Edition Solutions,Susan Jane Colley,Fourth Edition (Solutions),https://mgmt027.files.wordpress.com/2016/01/colley-vector-calculus-4th-edition-solutions-math-10a.pdf,
-Math 304,Vector Calculus,Susan Jane Colley,Fourth Edition,https://www.u-cursos.cl/ciencias/2015/1/MC-330/1/material_docente/bajar?id_material=1082333,
-MATH 304,Vector Calculus,Marsden and Tromba,6th,https://drive.google.com/file/d/15IyZLvqal2SkgSqRvKZmDJfxCw_xJ42D/view,
-Math 306,Linear Algebra,Stephen H. Friedberg Arnold J. Insel Lawrence E. Spence,5,https://drive.google.com/open?id=1hcgSVm1J_StEcbR50ko7po56DHLec4RS,
-MATH 306,Linear Algebra Done Right,Sheldon Axler,3,https://drive.google.com/open?id=1tsMyTmIDjXNkBvNxy3dRyylch9pXKZoT,
+Math 304,Vector Calculus,Susan Jane Colley,Fourth Edition,https://www.u-cursos.cl/ciencias/2015/1/MC-330/1/material_docente/bajar?id_material=1082333,9780321780652
+MATH 304,Vector Calculus,Marsden and Tromba,6th,https://drive.google.com/file/d/15IyZLvqal2SkgSqRvKZmDJfxCw_xJ42D/view,9781429215084
+Math 306,Linear Algebra,Stephen H. Friedberg Arnold J. Insel Lawrence E. Spence,5,https://drive.google.com/open?id=1hcgSVm1J_StEcbR50ko7po56DHLec4RS,9780134860244
+MATH 306,Linear Algebra Done Right,Sheldon Axler,3,https://drive.google.com/open?id=1tsMyTmIDjXNkBvNxy3dRyylch9pXKZoT,9783319110790
 MATH 306,Linear Algebra Done Right SOLUTION MANUAL,Sheldon Axler,3,http://linearalgebras.com,
 MATH 334,"Combinatorics, A Guided Tour",David R. Mazur,1,https://ia802903.us.archive.org/5/items/X89SQUJ89SUJ89JX9Q8J/%5BDavid_R._Mazur%5D_Combinatorics_A_Guided_Tour%28BookZZ.org%29.pdf,
-Math 334,"Combinatorics, A Problem Oriented Approach",Daniel A. Marcus,1,https://drive.google.com/open?id=1Q8LpyXuTDupq78QUDuBANG7_4rEdC8My,
-Math 336,Combinatorics: A Problem-Oriented Approach,Daniel Marcus,,https://drive.google.com/open?id=1yrA1ZDAezRK7_nh9vcBqO5QXNlg36nDL,
+Math 334,"Combinatorics, A Problem Oriented Approach",Daniel A. Marcus,1,https://drive.google.com/open?id=1Q8LpyXuTDupq78QUDuBANG7_4rEdC8My,9780883857106
+Math 336,Combinatorics: A Problem-Oriented Approach,Daniel Marcus,,https://drive.google.com/open?id=1yrA1ZDAezRK7_nh9vcBqO5QXNlg36nDL,9780883857106
 MATH 336,Count on it,Tony Mendes,1,https://drive.google.com/open?id=149bLwjCsSnaTVg1GgF5i8ajt-EhVMZJt,
-MATH 341,Elementary Number Theory,Burton,7,https://drive.google.com/open?id=1AmhNqUloYh4LNyYLimfaCTQG9KLNWLH9,
-Math 344,Differential Equations and Linear Algebra,Stephen W. Goode Scott A. Annin,4th,https://cloudflare-ipfs.com/ipfs/bafykbzacea2iuhiuzdaxs5m7qfvty4pbifvqdkv2k5mf6mx5wbckfbybg35aw?filename=Stephen%20W.%20Goode%2C%20Scott%20A.%20Annin%20-%20Differential%20Equations%20and%20Linear%20Algebra-Pearson%20%282015%29.pdf,
+MATH 341,Elementary Number Theory,Burton,7,https://drive.google.com/open?id=1AmhNqUloYh4LNyYLimfaCTQG9KLNWLH9,9780073383149
+Math 344,Differential Equations and Linear Algebra,Stephen W. Goode Scott A. Annin,4th,https://cloudflare-ipfs.com/ipfs/bafykbzacea2iuhiuzdaxs5m7qfvty4pbifvqdkv2k5mf6mx5wbckfbybg35aw?filename=Stephen%20W.%20Goode%2C%20Scott%20A.%20Annin%20-%20Differential%20Equations%20and%20Linear%20Algebra-Pearson%20%282015%29.pdf,9780321964670
 Math 344,Differential Equations and Boundary Value Problems,Boyce and DiPrima,10,https://drive.google.com/open?id=1uWxqenTmrRjARX7UBKn0No87dloe6-2Z,
-MATH 408,Basic Complex Analysis,Jerrold E. Marsden and Michael J. Hoffman,3,https://drive.google.com/open?id=1GQJsZti6KxfgF4RZGvCRJw4JXYF0D8QG,
-MATH 412,Understanding Analysis,Abbott,2,https://drive.google.com/file/d/1gQyFghtT0eyF2yTgnfhwppuD-nG_sraL/view?usp=sharing,
+MATH 408,Basic Complex Analysis,Jerrold E. Marsden and Michael J. Hoffman,3,https://drive.google.com/open?id=1GQJsZti6KxfgF4RZGvCRJw4JXYF0D8QG,9780716728771
+MATH 412,Understanding Analysis,Abbott,2,https://drive.google.com/file/d/1gQyFghtT0eyF2yTgnfhwppuD-nG_sraL/view?usp=sharing,9781493927111
 Math 414,Volterra Adventures,Shapiro,,https://drive.google.com/open?id=1QluIj5K_6o24J4D_AT_YU7du-Fs0SSdy,
-MATH 416,An Introduction to Dynamical Systems: Continuous and Discrete,R. Clark Robinson,2,https://drive.google.com/open?id=1equY9Zvw7boaWwc5Yy5wOjGExsKmsUgp,
+MATH 416,An Introduction to Dynamical Systems: Continuous and Discrete,R. Clark Robinson,2,https://drive.google.com/open?id=1equY9Zvw7boaWwc5Yy5wOjGExsKmsUgp,9780821891353
 MATH 419,Journey through Genius,William Duhnam,,https://drive.google.com/open?id=1eKDHE-BWXZErgCa0rwWBgKRV9jSeIgn0,
 MATH 419,"Journey Through Genius, the Great Theorems of Mathematics",William Dunham,,https://drive.google.com/open?id=1j3m5-XDEtBt90cUIinfU1fYxhy_SC19y,
 MATH 419,Math Through the Ages (Chapter 1),William P. Berlinghoff,,https://drive.google.com/open?id=1arEXwkg1irZLrhpLK_rKUBWjZxYMfMq7,
 MATH 419,"Math Through the Ages, a Gentle History for Teachers and Others (Missing Part of Chapter 1)",William P. Berlinghoff,,https://drive.google.com/open?id=1k7kV5OUUXWCNtVM7apBUACb0trEVeoHm,
 MATH 437,Playing For Real,Ken Binmore,2,https://drive.google.com/open?id=1L1HQ1oAzNkQWaca8U8XLSrWqX-MT0nq-,
-Math 440,Topology,Munkres,2,https://drive.google.com/open?id=1mZrQ1bmQOF4JSRagd7TI6SHi3SXLxyvM,
-Math 451,Elementary Numerical Analysis,Kendal Atkinson & Weimin Han,Third,http://math.ecnu.edu.cn/~jypan/Teaching/NA/refs/Elementary%20Numerical%20Analysis%202003.pdf,
-MATH 451,Numerical Analysis,Timothy Sauer,3,https://drive.google.com/open?id=1PccHQ_wChWUx8Eh_X1IzYogKi27xzenO,
-MATH 481,A First Course in Abstract Algebra,John B. Fraleigh and Neal E. Brand,8,https://drive.google.com/open?id=178eXVPQ4C3oBYFzVAUoGg-ANT_EnojlH,
-MATH 481,Abstract Algebra,Dummit and Foote,3,https://drive.google.com/open?id=13twxD-42QcGszGs-1Ajc8dhBB-_rOCxr,
-MATH 481,Abstract Algebra,Dummit and Foote,3,https://drive.google.com/open?id=1jDyVdibIBaddz_ma18jzK8jiDStNkZ0J,
-Mcro 221,Foundations in Microbiology,Talaro & Chess,10,https://drive.google.com/open?id=1INI5YDqfsksRkfmOHR7OgFmBegncwYav,
-MCRO 221,Foundations in Microbiology,Talaro & Chess,10,https://drive.google.com/open?id=1A7iaKsspk2L--FlLMKwX3cpXm6MQMuLP,
-MCRO 224,Microbiology,Prescott,9th,https://drive.google.com/file/d/1F2lDyh6EpGyk4mkPR3bdIZdZDUveyfkd/view?usp=sharing,
-MCRO 224,Prescott's Microbiology,"Willey, Sherwood, Wolverton",9th,https://ia801203.us.archive.org/5/items/JoanneWilleyLindaSherwoodChristopherJ.WoolvertonPrescottsMicrobiology2/Joanne%20Willey%2C%20Linda%20Sherwood%2C%20Christopher%20J.%20Woolverton%20Prescott%E2%80%99s%20Microbiology_2.pdf,
-MCRO 402,Introduction to Modern Virology,"Dimmock, Easton, Leppard.",7th,https://www.academia.edu/39681587/Introduction_to_Modern_Virology_-_7th_Edition,
-MCRO 402,How Pathogenic Viruses Think,"Sompayrac, Lauren.",2nd,https://www.academia.edu/31295299/Lauren_Sompayrac_How_Pathogenic_Viruses_Think_Making_Sense_of_Virology.pdf,
-MCRO 423,Medical Microbiology,"Murray, Rosenthal and Pfaller",8th,https://b-ok.cc/book/2660858/dc1510,
-MCRO 433,Intro to Biotechnology,William J. Thieman,3,https://drive.google.com/open?id=1Af8lcjCOr8msRSntP3C_k2L9fupGw60c,
-MCRO 452,Molecular Cell Biology,"Harvey Lodish, Arnold Berk, Chris A. Kaiser, Monty Krieger, Anthony Bretscher, Hidde Ploegh, Angelika Amon, Kelsey C. Martin",8,https://drive.google.com/open?id=15526N0QHU9QHKnpU3JrQ2Wnm3Io_gpAb,
-ME 129,Technical Graphics Communication,Bertoline,4th,https://motenv.files.wordpress.com/2019/11/3_technical-graphics-communication-by-bertoline-wiebe-hartman-and-ross.pdf,
-ME 129,Technical Graphics Communication,Bertoline,3,https://drive.google.com/open?id=1JW39qHx_pHbIU-cRCJiVkj1-1FcqrX1N,
+Math 440,Topology,Munkres,2,https://drive.google.com/open?id=1mZrQ1bmQOF4JSRagd7TI6SHi3SXLxyvM,9780131816299
+Math 451,Elementary Numerical Analysis,Kendal Atkinson & Weimin Han,Third,http://math.ecnu.edu.cn/~jypan/Teaching/NA/refs/Elementary%20Numerical%20Analysis%202003.pdf,9780471433378
+MATH 451,Numerical Analysis,Timothy Sauer,3,https://drive.google.com/open?id=1PccHQ_wChWUx8Eh_X1IzYogKi27xzenO,9780134696454
+MATH 481,A First Course in Abstract Algebra,John B. Fraleigh and Neal E. Brand,8,https://drive.google.com/open?id=178eXVPQ4C3oBYFzVAUoGg-ANT_EnojlH,9780136731627
+MATH 481,Abstract Algebra,Dummit and Foote,3,https://drive.google.com/open?id=13twxD-42QcGszGs-1Ajc8dhBB-_rOCxr,9780471433347
+MATH 481,Abstract Algebra,Dummit and Foote,3,https://drive.google.com/open?id=1jDyVdibIBaddz_ma18jzK8jiDStNkZ0J,9780471433347
+Mcro 221,Foundations in Microbiology,Talaro & Chess,10,https://drive.google.com/open?id=1INI5YDqfsksRkfmOHR7OgFmBegncwYav,9781259705212
+MCRO 221,Foundations in Microbiology,Talaro & Chess,10,https://drive.google.com/open?id=1A7iaKsspk2L--FlLMKwX3cpXm6MQMuLP,9781259705212
+MCRO 224,Microbiology,Prescott,9th,https://drive.google.com/file/d/1F2lDyh6EpGyk4mkPR3bdIZdZDUveyfkd/view?usp=sharing,9780077510664
+MCRO 224,Prescott's Microbiology,"Willey, Sherwood, Wolverton",9th,https://ia801203.us.archive.org/5/items/JoanneWilleyLindaSherwoodChristopherJ.WoolvertonPrescottsMicrobiology2/Joanne%20Willey%2C%20Linda%20Sherwood%2C%20Christopher%20J.%20Woolverton%20Prescott%E2%80%99s%20Microbiology_2.pdf,9780077510664
+MCRO 402,Introduction to Modern Virology,"Dimmock, Easton, Leppard.",7th,https://www.academia.edu/39681587/Introduction_to_Modern_Virology_-_7th_Edition,9781119978107
+MCRO 402,How Pathogenic Viruses Think,"Sompayrac, Lauren.",2nd,https://www.academia.edu/31295299/Lauren_Sompayrac_How_Pathogenic_Viruses_Think_Making_Sense_of_Virology.pdf,9781449645793
+MCRO 423,Medical Microbiology,"Murray, Rosenthal and Pfaller",8th,https://b-ok.cc/book/2660858/dc1510,9780323299565
+MCRO 433,Intro to Biotechnology,William J. Thieman,3,https://drive.google.com/open?id=1Af8lcjCOr8msRSntP3C_k2L9fupGw60c,9780321766113
+MCRO 452,Molecular Cell Biology,"Harvey Lodish, Arnold Berk, Chris A. Kaiser, Monty Krieger, Anthony Bretscher, Hidde Ploegh, Angelika Amon, Kelsey C. Martin",8,https://drive.google.com/open?id=15526N0QHU9QHKnpU3JrQ2Wnm3Io_gpAb,9781464183393
+ME 129,Technical Graphics Communication,Bertoline,4th,https://motenv.files.wordpress.com/2019/11/3_technical-graphics-communication-by-bertoline-wiebe-hartman-and-ross.pdf,9780077221300
+ME 129,Technical Graphics Communication,Bertoline,3,https://drive.google.com/open?id=1JW39qHx_pHbIU-cRCJiVkj1-1FcqrX1N,9780073655987
 ME 129,Technical Graphics Communication,Bertoline,,https://drive.google.com/open?id=1aICMWTGNpgiKH7td4OHY6lRLBLzl5djQ,
-ME 129,Technical Graphics Communication,Bertoline,3,https://drive.google.com/open?id=1c4ZIMMz8YY-F5npa7ylGiF_VzVtbsTAK,
-ME 129,Technical Graphics Communication,Bertoline,3,https://drive.google.com/open?id=11Cm_TAsSwSc8BmdqNxAtTzCriGAntcfe,
-ME 129,Technical Graphics Communication,Bertoline,4,https://drive.google.com/open?id=1ZpwN8HJFQRjXUbxmuqbC2l2rANZ3PZEN,
+ME 129,Technical Graphics Communication,Bertoline,3,https://drive.google.com/open?id=1c4ZIMMz8YY-F5npa7ylGiF_VzVtbsTAK,9780073655987
+ME 129,Technical Graphics Communication,Bertoline,3,https://drive.google.com/open?id=11Cm_TAsSwSc8BmdqNxAtTzCriGAntcfe,9780073655987
+ME 129,Technical Graphics Communication,Bertoline,4,https://drive.google.com/open?id=1ZpwN8HJFQRjXUbxmuqbC2l2rANZ3PZEN,9780077221300
 ME 129/ 228,FUNDAMENTALS OF ENGINEERING DESIGN COMMUNICATION WORKBOOK,Larson,,https://drive.google.com/open?id=1SiwBxpHC1qUL66oa2JH7smpgtqHktIKL,
-ME 130,Technical Graphics Communication,Bertoline,4,https://drive.google.com/file/d/1UDSx8-yB-Ce6H0LcXa3PS4Xsl44HH_FQ/view?usp=sharing,
-ME 163,Studying Engineering: A Road Map to a Rewarding Career,"Landis, Mott and Peuker",5,https://drive.google.com/open?id=1ldnl34Nchm2BANbGkonwj4f37XStFnrO,
+ME 130,Technical Graphics Communication,Bertoline,4,https://drive.google.com/file/d/1UDSx8-yB-Ce6H0LcXa3PS4Xsl44HH_FQ/view?usp=sharing,9780077221300
+ME 163,Studying Engineering: A Road Map to a Rewarding Career,"Landis, Mott and Peuker",5,https://drive.google.com/open?id=1ldnl34Nchm2BANbGkonwj4f37XStFnrO,9780979348723
 ME 211,Statics Solutions - Vector Mechanics for Engineers 10th,"Beer, Johnston, Mazurek, Cornwell",10th -solutions,https://drive.google.com/file/d/1SXnqPR1j9zpDbAkILu_3urEmft6Vf9WZ/view?usp=sharing,
-ME 211,Vector Mechanics for Engineers,"Beer, Johnston, Mazurek, Cornwell",10th,https://drive.google.com/file/d/1-HnNjs74eoSGjToYjJguzyVAHi7fA-JR/view?usp=sharing,
-ME 211,Vector Mechanics for Engineers,Beer,12,Vector Mechanics for Engineers,
-ME 211,Vector Mechanics for Engineers,Beer,12,https://drive.google.com/open?id=1K4-aHblUTO5uNcZ8iURsilrASTFCK0X6,
-ME 211,Vector Mechanics for Engineers,"Beer, Johnston, Mazurek, Cornwell, Self",11,https://drive.google.com/open?id=1jGxCjTVdLW3UzwhDJ6o1Ct1FN_kuqqCB,
-ME 211,Vector Mechanics For Engineers,"Beer, Eisenberg, Mazurek, Johnston",9,https://drive.google.com/open?id=1UPSlrRrd29Ni_FkZ2PqY_tr6tG1m7i8E,
-ME 211,Vector Mechanics for Engineers,"Beer, Eisenberg, Mazurek & Johnston",9,https://drive.google.com/open?id=1PZFdkZUlJ-_vVi9UF5rX6RVcEDbd5vpP,
-ME 211,Vector Mechanics for Engineers,Beer,12,https://drive.google.com/open?id=1CVW4CFlom0qXXREu9zInt9dpcSc43VTc,
-ME 211,Vector Mechanics for Engineers,"Ferdinand P Beer, Johnston McGrawhill",11,https://drive.google.com/file/d/16MWh-RoTKuYXXEKM4yb5nn0KzlmIFXG-/view,
-ME 211/212,"Vector Mechanics for Engineers, Statics | Dynamics","Beer, Johnston, Mazurek, Cornwall, Self",12,https://drive.google.com/open?id=1_ubhV1z-d_tNzimR1ec0S0K1XK7b4D8a,
-ME 212,Vector Mechanics for Engineers Statics | Dynamics,Beer Johnston Mazurek Cornwell Self,12,https://drive.google.com/open?id=1coE_6eKMm47Y80wuDspgV6Hgo5lw2AQ-,
-ME 228,Technical Graphics Communication,"Bertoline, Wiebe...",4th,https://drive.google.com/file/d/0B-GcIjwEUtNjTUdBWFdqWVNuT3M/view?usp=sharing,
-ME 228,Technical Graphics Communication,"Bertoline, Wiebe, Hartman, Ross",4,https://drive.google.com/file/d/1zZp8I4JJyYVwbQmV30ZkYcyDfeZnWAB_/view?usp=sharing,
-ME 234,You Can Draw in 30 Days,Mark Kistler,,https://drive.google.com/open?id=1QxZjrf-hh9zEgItr7mksxpaMFCVbgIQJ,
-ME 234,You Can Draw In 30 Days,Mark Kistler,1,https://drive.google.com/open?id=1KxaOk0nfcWdb7gjPp1wD9JRQuC1g_MQq,
-ME 251,Technical Graphics Communication,Bertoline,4,https://drive.google.com/open?id=1VWsyKmQzWFBnanjatDNwIourKJaVq1Qc,
-ME 302,Fundamentals of Engineering Thermodynamics,"Moran, Shapiro",8th,https://www.academia.edu/21431299/FUNDAMENTALS_OF_ENGINEERING_THERMODYNAMICS_Eighth_Edition?auto=download,
-ME 302,Fundamentals of Engineering Thermodynamics,"Michael J. Moran, Howard N. Shapiro, Daisie D. Boettner, Margaret B. Bailey",8,https://drive.google.com/file/d/1Um26gf65TvvyKLvFS_XTwet_hpQckxWa/view?usp=sharing,
-ME 302,Fundamentals of Engineering Thermodynamics,"Moran, Shapiro",7,https://drive.google.com/open?id=1qBVusDuvXfwRB9geTqBA0gmlWBAY-HPU,
-ME 302,Fundamentals of Engineering Thermodynamics,"Moran, Shapiro",8,https://drive.google.com/open?id=1EWdr_BclbXxSF17F68P2dMtIDvAs1ToY,
-ME 302,Fundamentals of Engineering Thermodynamics,Michael J. Moran,7,https://drive.google.com/open?id=1ERbnaZs4WUiA1ShVzXsbEWKZS7pH3-KF,
-ME 318,Engineering Vibrations,Inman,4th,https://drive.google.com/file/d/1PqY2is5VlrsZbttyr95X0-r3aqZdWLUV/view?usp=sharing,
-ME 318,Engineering Vibrations,Inman,4th (not international like last one),https://drive.google.com/file/d/1ejjQG2rSCM-Z1v3TL68bVy68bj9wTUll/view?usp=sharing,
-ME 318,Mechanical Vibrations,Singiresu Rao,5,https://drive.google.com/open?id=1YM26IDHL0x0UkoL-HxgYaJGupzDRyBri,
-ME 322,System Dynamics: An Introduction,Derek Rowell,,https://drive.google.com/open?id=1V0XAjz2StiofNkrxNEZn5_30uda8-dpY,
-ME 326,Vector Mechanics for Engineers: Dynamics,"Beer, Johnson, Cornwell, Self.",12,https://drive.google.com/file/d/1t5HudcPixlIyy5NLrIR0m9A7kinHYLw5/view?pli=1,
-ME 326,Vector Mechanics for Engineers: Statics and Dynamics,Beer,12,https://es.b-ok.cc/book/3683069/c63604?dsource=recommend,
-ME 328,Shigley's Mechanical Engineering Design,"Richard G. Budynas, J. Keith Nisbett",10th,https://drive.google.com/file/d/1MbcSy70HwL3ZBsSETFqdFMhutgnDxQhR/view?usp=sharing,
-ME 328,Mechanical Engineering Design,"Budynas, Nisbett",9,https://drive.google.com/open?id=1TVAKwGNAUmfMJGxPASfCqDst2SadtpaW,
-ME 328,Shigley's Mechanical Design,"Richard Budynas, Keith Nisbett",11,https://drive.google.com/open?id=1ftQZlCfV6aSIoenQ0z_zvwT4sByot1DV,
-ME 328,Shigley's Mechanical Engineering Design 11e,Budynas & Nisbett,11,https://drive.google.com/open?id=19fFSMkwmyK6mbrFnjiGT7SHxRSyJ4R1F,
-ME 329,Machinery's Handbook 29th Edition,"Erik Oberg, Franklin D. Jones, Holbrook L. Horton, and Henry H. Ryffel",29th,http://dl.icdst.org/pdfs/files4/80364b03673ba30eb5ccf1e27e119ffc.pdf,
+ME 211,Vector Mechanics for Engineers,"Beer, Johnston, Mazurek, Cornwell",10th,https://drive.google.com/file/d/1-HnNjs74eoSGjToYjJguzyVAHi7fA-JR/view?usp=sharing,9780073398136
+ME 211,Vector Mechanics for Engineers,Beer,12,Vector Mechanics for Engineers,9781259638091
+ME 211,Vector Mechanics for Engineers,Beer,12,https://drive.google.com/open?id=1K4-aHblUTO5uNcZ8iURsilrASTFCK0X6,9781259638091
+ME 211,Vector Mechanics for Engineers,"Beer, Johnston, Mazurek, Cornwell, Self",11,https://drive.google.com/open?id=1jGxCjTVdLW3UzwhDJ6o1Ct1FN_kuqqCB,9780073398242
+ME 211,Vector Mechanics For Engineers,"Beer, Eisenberg, Mazurek, Johnston",9,https://drive.google.com/open?id=1UPSlrRrd29Ni_FkZ2PqY_tr6tG1m7i8E,9780073529400
+ME 211,Vector Mechanics for Engineers,"Beer, Eisenberg, Mazurek & Johnston",9,https://drive.google.com/open?id=1PZFdkZUlJ-_vVi9UF5rX6RVcEDbd5vpP,9780073529400
+ME 211,Vector Mechanics for Engineers,Beer,12,https://drive.google.com/open?id=1CVW4CFlom0qXXREu9zInt9dpcSc43VTc,9781259638091
+ME 211,Vector Mechanics for Engineers,"Ferdinand P Beer, Johnston McGrawhill",11,https://drive.google.com/file/d/16MWh-RoTKuYXXEKM4yb5nn0KzlmIFXG-/view,9780073398242
+ME 211/212,"Vector Mechanics for Engineers, Statics | Dynamics","Beer, Johnston, Mazurek, Cornwall, Self",12,https://drive.google.com/open?id=1_ubhV1z-d_tNzimR1ec0S0K1XK7b4D8a,9781259638091
+ME 212,Vector Mechanics for Engineers Statics | Dynamics,Beer Johnston Mazurek Cornwell Self,12,https://drive.google.com/open?id=1coE_6eKMm47Y80wuDspgV6Hgo5lw2AQ-,9781259638091
+ME 228,Technical Graphics Communication,"Bertoline, Wiebe...",4th,https://drive.google.com/file/d/0B-GcIjwEUtNjTUdBWFdqWVNuT3M/view?usp=sharing,9780077221300
+ME 228,Technical Graphics Communication,"Bertoline, Wiebe, Hartman, Ross",4,https://drive.google.com/file/d/1zZp8I4JJyYVwbQmV30ZkYcyDfeZnWAB_/view?usp=sharing,9780077221300
+ME 234,You Can Draw in 30 Days,Mark Kistler,,https://drive.google.com/open?id=1QxZjrf-hh9zEgItr7mksxpaMFCVbgIQJ,9780738212418
+ME 234,You Can Draw In 30 Days,Mark Kistler,1,https://drive.google.com/open?id=1KxaOk0nfcWdb7gjPp1wD9JRQuC1g_MQq,9780738212418
+ME 251,Technical Graphics Communication,Bertoline,4,https://drive.google.com/open?id=1VWsyKmQzWFBnanjatDNwIourKJaVq1Qc,9780077221300
+ME 302,Fundamentals of Engineering Thermodynamics,"Moran, Shapiro",8th,https://www.academia.edu/21431299/FUNDAMENTALS_OF_ENGINEERING_THERMODYNAMICS_Eighth_Edition?auto=download,9781118412930
+ME 302,Fundamentals of Engineering Thermodynamics,"Michael J. Moran, Howard N. Shapiro, Daisie D. Boettner, Margaret B. Bailey",8,https://drive.google.com/file/d/1Um26gf65TvvyKLvFS_XTwet_hpQckxWa/view?usp=sharing,9781118412930
+ME 302,Fundamentals of Engineering Thermodynamics,"Moran, Shapiro",7,https://drive.google.com/open?id=1qBVusDuvXfwRB9geTqBA0gmlWBAY-HPU,9781118050286
+ME 302,Fundamentals of Engineering Thermodynamics,"Moran, Shapiro",8,https://drive.google.com/open?id=1EWdr_BclbXxSF17F68P2dMtIDvAs1ToY,9781118412930
+ME 302,Fundamentals of Engineering Thermodynamics,Michael J. Moran,7,https://drive.google.com/open?id=1ERbnaZs4WUiA1ShVzXsbEWKZS7pH3-KF,9781118050286
+ME 318,Engineering Vibrations,Inman,4th,https://drive.google.com/file/d/1PqY2is5VlrsZbttyr95X0-r3aqZdWLUV/view?usp=sharing,9780132871693
+ME 318,Engineering Vibrations,Inman,4th (not international like last one),https://drive.google.com/file/d/1ejjQG2rSCM-Z1v3TL68bVy68bj9wTUll/view?usp=sharing,9780132871693
+ME 318,Mechanical Vibrations,Singiresu Rao,5,https://drive.google.com/open?id=1YM26IDHL0x0UkoL-HxgYaJGupzDRyBri,9780132128193
+ME 322,System Dynamics: An Introduction,Derek Rowell,,https://drive.google.com/open?id=1V0XAjz2StiofNkrxNEZn5_30uda8-dpY,9780132108089
+ME 326,Vector Mechanics for Engineers: Dynamics,"Beer, Johnson, Cornwell, Self.",12,https://drive.google.com/file/d/1t5HudcPixlIyy5NLrIR0m9A7kinHYLw5/view?pli=1,9781260092745
+ME 326,Vector Mechanics for Engineers: Statics and Dynamics,Beer,12,https://es.b-ok.cc/book/3683069/c63604?dsource=recommend,9781259638091
+ME 328,Shigley's Mechanical Engineering Design,"Richard G. Budynas, J. Keith Nisbett",10th,https://drive.google.com/file/d/1MbcSy70HwL3ZBsSETFqdFMhutgnDxQhR/view?usp=sharing,9780073398204
+ME 328,Mechanical Engineering Design,"Budynas, Nisbett",9,https://drive.google.com/open?id=1TVAKwGNAUmfMJGxPASfCqDst2SadtpaW,9780073529288
+ME 328,Shigley's Mechanical Design,"Richard Budynas, Keith Nisbett",11,https://drive.google.com/open?id=1ftQZlCfV6aSIoenQ0z_zvwT4sByot1DV,9780073398211
+ME 328,Shigley's Mechanical Engineering Design 11e,Budynas & Nisbett,11,https://drive.google.com/open?id=19fFSMkwmyK6mbrFnjiGT7SHxRSyJ4R1F,9780073398211
+ME 329,Machinery's Handbook 29th Edition,"Erik Oberg, Franklin D. Jones, Holbrook L. Horton, and Henry H. Ryffel",29th,http://dl.icdst.org/pdfs/files4/80364b03673ba30eb5ccf1e27e119ffc.pdf,9780831129002
 ME 341,Intro to Fluid Mechanics Solution Manual,Fox and McDonald,8th,https://usermanual.wiki/Document/Robert20W20Fox2C20Alan20T20McDonald2C20Philip20J20PritchardIntroduction20to20Fluid20Mechanics20Solution20Manual208th20ed202011.1694526391.pdf#pdfjs.action=download,
-ME 341,Introduction to Fluid Mechanics,Fox and McDonald,9,https://drive.google.com/open?id=1-oCqyAIGIC7auAxXY_VuiVRdrY1krdW9,
-ME 341,Introduction to Fluid Mechanics,P.J. Pritchard and J.W. Mitchell,8,https://drive.google.com/open?id=1BApaUYZAQ3NgKTGyrGUl8fcVdBc2V8_F,
-ME 343,Fundamentals of Heat & Mass Transfer,Bergman,8,https://drive.google.com/file/d/1EMD2kQTOySWrJSW8ohOArfJ-9weosdK1/view?usp=sharing,
+ME 341,Introduction to Fluid Mechanics,Fox and McDonald,9,https://drive.google.com/open?id=1-oCqyAIGIC7auAxXY_VuiVRdrY1krdW9,9781119034582
+ME 341,Introduction to Fluid Mechanics,P.J. Pritchard and J.W. Mitchell,8,https://drive.google.com/open?id=1BApaUYZAQ3NgKTGyrGUl8fcVdBc2V8_F,9780470547557
+ME 343,Fundamentals of Heat & Mass Transfer,Bergman,8,https://drive.google.com/file/d/1EMD2kQTOySWrJSW8ohOArfJ-9weosdK1/view?usp=sharing,9781118989173
 ME 343,Heat and Mass Transfer FULL SOLUTIONS,Bergman,8,https://drive.google.com/file/d/1rfPpQ-o11C_B_32GidghR7MlDKOSHBYu/view?usp=sharing,
-ME 350,Fundamentals of Heat and Mass Transfer,Bergman and Lavine,8th,"http://dl.biketab.ir/Daneshgahi/Mechanic/Heat%20And%20Mass%20Transfer/Fundamentals%20of%20Heat%20and%20Mass%20Transfer%20Bergman/8thTheodore%20L.%20Bergman,-%20Fundamentals%20of%20Heat%20and%20Mass%20Transfer-Wiley%20(2017).pdf",
-ME 350,Fundamentals of Heat and Mass Transfer,"Incropera, DeWitt, Bergman, Lavine,",6th,https://drive.google.com/file/d/1IMGRMYitL0sHtyIw_EyU7-_q6sA_lnoG/view?usp=sharing,
-ME 412,Analysis and Performance of Fiber Composites,Bhagwan Agarwal and Lawrence J. Broutman,3,https://drive.google.com/open?id=1lu-P41T1QEIHDqYW7YHwU7skbTXUoL6Q,
-ME 422,Control Systems Engineering,Norman S. Nise,7,https://drive.google.com/open?id=1VMuRGuJ7eIabkRA2wwfm-M83_W5KTqYA,
+ME 350,Fundamentals of Heat and Mass Transfer,Bergman and Lavine,8th,"http://dl.biketab.ir/Daneshgahi/Mechanic/Heat%20And%20Mass%20Transfer/Fundamentals%20of%20Heat%20and%20Mass%20Transfer%20Bergman/8thTheodore%20L.%20Bergman,-%20Fundamentals%20of%20Heat%20and%20Mass%20Transfer-Wiley%20(2017).pdf",9781118989173
+ME 350,Fundamentals of Heat and Mass Transfer,"Incropera, DeWitt, Bergman, Lavine,",6th,https://drive.google.com/file/d/1IMGRMYitL0sHtyIw_EyU7-_q6sA_lnoG/view?usp=sharing,9780471457282
+ME 412,Analysis and Performance of Fiber Composites,Bhagwan Agarwal and Lawrence J. Broutman,3,https://drive.google.com/open?id=1lu-P41T1QEIHDqYW7YHwU7skbTXUoL6Q,9780471268918
+ME 422,Control Systems Engineering,Norman S. Nise,7,https://drive.google.com/open?id=1VMuRGuJ7eIabkRA2wwfm-M83_W5KTqYA,9781118170519
 ME318,Engineering Vibration,Inman,5,https://drive.google.com/open?id=1hRhUpmxl6UgvIh6HDC6SCzK7L6YuoGxz,
-ME418,Control Systems Engineering,Nise,7th Edition,http://gen.lib.rus.ec/book/index.php?md5=D89FFD2789223FD1B3D1811615D1B3BA,
-ME420 Thermal System Design,Fundamentals of Heat and Mass Transfer,Bergman and Lavine,8,https://drive.google.com/open?id=1v9f2_1xpH1a3bRqjDR2LT23fUkKrnXa1,
+ME418,Control Systems Engineering,Nise,7th Edition,http://gen.lib.rus.ec/book/index.php?md5=D89FFD2789223FD1B3D1811615D1B3BA,9781118170519
+ME420 Thermal System Design,Fundamentals of Heat and Mass Transfer,Bergman and Lavine,8,https://drive.google.com/open?id=1v9f2_1xpH1a3bRqjDR2LT23fUkKrnXa1,9781118989173
 MU 101,Practical Theory Complete,Sandy Feldstein,,https://drive.google.com/open?id=1V6kGex4NqNwHFZ7YQvzgrcklVSBdtcku,
-MU 101,Elements of Music,Joseph Straus,3,https://drive.google.com/open?id=1Jd7RSCxJz9NtVwFlF6hc7oY3-03DOXuI,
+MU 101,Elements of Music,Joseph Straus,3,https://drive.google.com/open?id=1Jd7RSCxJz9NtVwFlF6hc7oY3-03DOXuI,9780205007097
 MU 221,Concise Guide to Jazz,Mark C. Gridley,7,https://drive.google.com/file/d/1VvfrIMxvJpzmdPcHB9Fss6VNGQMa_S12/view?usp=sharing,
 MU 229,,,,https://drive.google.com/file/d/1ntt3wSTVU5cTiJBNHIH_mayI1lS1bgdl/view?usp=sharing,
-MU 324,Musical Theater: An Appreciation,Alyson McLamore,2,https://drive.google.com/open?id=1TRoEK2Dw2YXx9cUuOCPL8j8uowDnOgeg,
-NR 142,Envrionment,"Peter H. Raven, David M. Hassenzahl, Mary Catherine Hager, Nancy Y. Gift, Linda R. Berg",9th,https://drive.google.com/file/d/1-SQXl9VtPEmg3JAv9fhOQBQ2YHVIvTw3/view?usp=sharing,
-NR 305,Forest Ecosystems,Perry et. al,2,https://drive.google.com/open?id=1-o0AajjuukMcsl2O8Z9FkUxjJIMstXh0,
-NR 307,Fire in California's Ecosystems,Jan W. van Wagtendonk,2,https://drive.google.com/open?id=1TeNqyhPwdv3LydQjs-xs8_27DpLbebM7,
+MU 324,Musical Theater: An Appreciation,Alyson McLamore,2,https://drive.google.com/open?id=1TRoEK2Dw2YXx9cUuOCPL8j8uowDnOgeg,9781138678682
+NR 142,Envrionment,"Peter H. Raven, David M. Hassenzahl, Mary Catherine Hager, Nancy Y. Gift, Linda R. Berg",9th,https://drive.google.com/file/d/1-SQXl9VtPEmg3JAv9fhOQBQ2YHVIvTw3/view?usp=sharing,9781118875827
+NR 305,Forest Ecosystems,Perry et. al,2,https://drive.google.com/open?id=1-o0AajjuukMcsl2O8Z9FkUxjJIMstXh0,9780801888403
+NR 307,Fire in California's Ecosystems,Jan W. van Wagtendonk,2,https://drive.google.com/open?id=1TeNqyhPwdv3LydQjs-xs8_27DpLbebM7,9780520286832
 NR 308,Fire: A Brief History,Stephen J Pyne,,https://ipfs.io/ipfs/bafykbzacebn5hftgtpl4htk3r5sdmu53gdwuhok23rnrzldzgiw2l3byulqly?filename=%28Cycle%20of%20Fire%20Weyerhaeuser%20Environmental%20Books%29%20Stephen%20J.%20Pyne%20-%20Fire_%20A%20Brief%20History%20%20-The%20University%20of%20Washington%20Press%20%282001%29.pdf,
 NR 308,Fire: A Brief History,Stephen J. Pyne,2,https://drive.google.com/open?id=1ThnuwAhiIEzKxvaXYNmStCH0-cgGqdRv,
 NR 328,Innovation in environmental leadership: Critical perspectives.,"Redekop, B. W., Gallagher, D. R., & Satterwhite, R. (Eds.). (2018)",,https://drive.google.com/open?id=1Lkm7PSOJCDw5gpdvStc1Gu64VBiPzFvL,
-NR 328 / RPTA 328,Leadership Theory and Practice,Northouse,8,https://drive.google.com/file/d/0B0vHlf6GbhjBNHhqc1djdmJNVGxNUWcteWg4NWM5d1RXY25z/view?usp=drivesdk,
+NR 328 / RPTA 328,Leadership Theory and Practice,Northouse,8,https://drive.google.com/file/d/0B0vHlf6GbhjBNHhqc1djdmJNVGxNUWcteWg4NWM5d1RXY25z/view?usp=drivesdk,9781506362311
 NR 363,"Designing your life: how to build a well-lived, joyful life",Bill Burnett and Dave Evans,,https://drive.google.com/open?id=1GWwLaplU97bDdvA0FZ1RDd4C1YM-KElt,
 NR 408,Cadillac Desert,MARC REISNER,Revised 1st,https://drive.google.com/file/d/1P1jzGpSOlXQjvpU7kWxYMo-znvUUSwBc/view?usp=sharing,
 PHI 231,An enquiry concerning the principles of morals,David Hume,,https://www.gutenberg.org/files/4320/4320-h/4320-h.htm,
@@ -868,28 +868,28 @@ PHIL 126,Power of Critical Thinking,Lewis Vaughn,6,Currently getting it just wan
 PHIL 126,The Power of Critical Thinking,Lewis Vaughn,6th,file:///C:/Users/08eri/Downloads/PHIL%20126/Power%20of%20Critical%20Thinking%20-%20Vaughn%20PDF.pdf,
 PHIL 126,The Truth Matters,Bruce Barlett,2017,https://drive.google.com/file/d/1rVoOt2qMFCQ3SXEvI5J3lDzKktfWpVi7/view?usp=sharing,
 PHIL 126,,,,"The link for Bruce Bartlett, The Truth Matters, Ten Speed Press is invalid. I was wondering if you could please try and update it. Thank you!",
-PHIL 126,Logic: An Emphasis on Formal Logic,Stan Baronett,4,https://drive.google.com/open?id=1FV174wIXXqZKfscl_RWNt4_npOQ1S_ER,
-PHIL 126,How to Think about Weird Things,"Theodore, Jr. Schick, Lewis Vaughn",7,https://drive.google.com/open?id=1-CKJL6dGGKqyBISilyL_tq5Re-p3SzYB,
-PHIL 126,How to Think Weird Things,Theodore Schick & Lewis Vaughn,8,https://drive.google.com/open?id=1y8YbaJjL5YMnvxbW46Vd7CgWmaPRNUrV,
+PHIL 126,Logic: An Emphasis on Formal Logic,Stan Baronett,4,https://drive.google.com/open?id=1FV174wIXXqZKfscl_RWNt4_npOQ1S_ER,9780190691851
+PHIL 126,How to Think about Weird Things,"Theodore, Jr. Schick, Lewis Vaughn",7,https://drive.google.com/open?id=1-CKJL6dGGKqyBISilyL_tq5Re-p3SzYB,9780077526313
+PHIL 126,How to Think Weird Things,Theodore Schick & Lewis Vaughn,8,https://drive.google.com/open?id=1y8YbaJjL5YMnvxbW46Vd7CgWmaPRNUrV,9781260548075
 PHIL 126,The Power of Critical Thinking,Lewis Vaughn,6,https://drive.google.com/open?id=1kk3rscN9r6bpw-aE4UhkXr-l6ccSUkbg,
 PHIL 126,The Power of Critical Thinking,Lewis Vaughn,,https://drive.google.com/open?id=1Q8ryPS0sROUNhLHsjJIbz_1cEZ0NDhit,
-Phil 126,Critical Thinking: A Users Manual,Jackson,2,https://drive.google.com/open?id=1DJDIdvAyPj_1rwYpi7E-RcpGR1_c0J19,
+Phil 126,Critical Thinking: A Users Manual,Jackson,2,https://drive.google.com/open?id=1DJDIdvAyPj_1rwYpi7E-RcpGR1_c0J19,9781285196848
 PHIL 126,Power of Critical Thinking,Vaugn,2,https://drive.google.com/file/d/1i3P1EX1McZIVPaxaE7Orc3nBJysmUIvs/view?usp=sharing,
-PHIL 230,A Dialogue on Personal Identity and Immortality,John Perry,1,https://rintintin.colorado.edu/~vancecd/phil201/Perry.pdf,
+PHIL 230,A Dialogue on Personal Identity and Immortality,John Perry,1,https://rintintin.colorado.edu/~vancecd/phil201/Perry.pdf,9780915144532
 PHIL 230,An Enquiry Concerning Human Understanding,David Hume,,https://drive.google.com/open?id=1pqoEbLgWGF18t3UbSxXpNspy2KtQlYe1,
-PHIL 230,Meditations on First Philosophy,Descartes,3,https://drive.google.com/open?id=1Re1auUSBDLOYVXrm5tbgblM7UIrQZsq7,
+PHIL 230,Meditations on First Philosophy,Descartes,3,https://drive.google.com/open?id=1Re1auUSBDLOYVXrm5tbgblM7UIrQZsq7,9780872201927
 Phil 230,Outlines of Scepticism,Sextus Empiricus,,https://drive.google.com/open?id=1Z7aX50SJUphmL8_znnm8baxWq_o2dP3c,
 PHIL 230,Phaedo,Plato,,https://drive.google.com/open?id=13r1QfGSYvCW22uKcy47KnjuPozKOyWRB,
 PHIL 230,Prolegomena to Any Future Metaphysics,Kant,,https://drive.google.com/open?id=1NVdlU10epfAoA86KiBbU2wOWh7sCuhxC,
-PHIL 230,Prolegomena to Any Future Metaphysics (Hackett),Immanuel Kant,2,https://drive.google.com/open?id=1lGT1l-uYibZoQ_1XnU52pAoa9NQd36sD,
+PHIL 230,Prolegomena to Any Future Metaphysics (Hackett),Immanuel Kant,2,https://drive.google.com/open?id=1lGT1l-uYibZoQ_1XnU52pAoa9NQd36sD,9780872205932
 PHIL 230,Seven Masterpieces of Philosophy,Steven M Cahn,1,https://drive.google.com/open?id=1wUtv17NP7vOIcnZUSa8ai6712YNf666l,
 PHIL 230,Three Dialogues between Hylas and Philonous,George Berkeley,,https://drive.google.com/open?id=1hoOxWHXeY8PlhJd7tqy4clUz-f3mZi94,
-PHIL 230,An Enquiry Concerning Human Understanding,"David Hume, E. Steinberg",2,https://drive.google.com/file/d/1aF36S_XfSQnxW6r19BUImhZEcsflqoCL/view?usp=sharing,
+PHIL 230,An Enquiry Concerning Human Understanding,"David Hume, E. Steinberg",2,https://drive.google.com/file/d/1aF36S_XfSQnxW6r19BUImhZEcsflqoCL/view?usp=sharing,9780872202290
 PHIL 230,Meditations on First Philosophy,Descartes,1,https://drive.google.com/open?id=1bfKPyY8KbBnZkQrxQH9C_EfbMXB63M1b,
-PHIL 230,Plato - Five Dialogues,Cooper,2,https://drive.google.com/open?id=1_H17Wq4wNs7dJPE-zrycR2bM5NkRsSxh,
+PHIL 230,Plato - Five Dialogues,Cooper,2,https://drive.google.com/open?id=1_H17Wq4wNs7dJPE-zrycR2bM5NkRsSxh,9780872206335
 PHIL 230,The Modes of Scepticism,Annas J Barnes,1,https://drive.google.com/open?id=19Mt3FkDdR87tUMG_sv7GbL61Qy0e1tJR,
 PHIL 231,Grounding for the Metaphysics of Morals,Immanuel Kant (translated by Ellington),,https://drive.google.com/open?id=1GCBs8prQa3yD5lywMcBhrpHdxa3RcUac,
-PHIL 231,On Liberty (Hackett edition),J. S. Mills,1,https://drive.google.com/open?id=1tl28KTK6XAZRrVTYamScyylSUg-3QGab,
+PHIL 231,On Liberty (Hackett edition),J. S. Mills,1,https://drive.google.com/open?id=1tl28KTK6XAZRrVTYamScyylSUg-3QGab,9780915144433
 PHIL 231,"Plato, Republic (Hackett edition)",G.M.A. Grube & C.D.C Reeve,2,https://drive.google.com/open?id=1Fqb9sGMQXRXMEJdtWKBKMk07b2H1tv2p,
 PHIL 231,Utilitarianism,John Stuart Mill,,https://drive.google.com/open?id=1ZuliRaFtZ1UkCpk5CWqfnwHkcmzOnIi8,
 PHIL 231,Marx: Selected Writings,Lawrence H. Simon,,https://drive.google.com/open?id=1eRdP8gMWkE9f3jnlqhUDCJ7qvTe93TMe,
@@ -903,46 +903,46 @@ PHIL 339,"Bioethics: Principles, Issues, and Cases",Lewis Vaughn,4,https://drive
 PHIL 342,Philosophy of Religion: An Introduction,William L. Rowe,4,https://drive.google.com/open?id=1FHYzFjk_T5nMyEafCpebAtlZXgYFMdYh,
 PHIL 412,Introduction to Philosophy: Epistemology,Brian Barnett,,https://drive.google.com/open?id=1oDopM8czdWXSd5Q0jjsLrCA6o2LgYnfz,
 PHIL230,Prolegomena to Any Future Metaphysics (Hatfield translation),Kant,,https://drive.google.com/open?id=1rPh-FVlNHWULDD9XlYCpQmm6Mxk-I4dc,
-PHYS 104,Conceptual Physics,Hewitt,12,https://drive.google.com/file/d/0B13KlEk6W4oySWM0V29fN2FTSG8/view?usp=sharing_eil&ts=5a55cdba,
+PHYS 104,Conceptual Physics,Hewitt,12,https://drive.google.com/file/d/0B13KlEk6W4oySWM0V29fN2FTSG8/view?usp=sharing_eil&ts=5a55cdba,9780321909107
 PHYS 111,The Elegant Universe,Brian Greene,,https://drive.google.com/open?id=1doaYD7SDNhgm48SKPXiTsI5nS7kctGtC,
-PHYS 121,“College Physics: a strategic approach”,"Knight, Jones and Field",4th,https://libgen.rocks/ads.php?md5=f915b075ca4bcf5674e7076e29383201,
-PHYS 121,College Physics A Strategic Approach 4e,Randall D. Knight,4,https://drive.google.com/file/d/17jVXpskXf7vNUOmXVgrS1I3nwH9noGxe/view?usp=sharing,
+PHYS 121,“College Physics: a strategic approach”,"Knight, Jones and Field",4th,https://libgen.rocks/ads.php?md5=f915b075ca4bcf5674e7076e29383201,9780134609034
+PHYS 121,College Physics A Strategic Approach 4e,Randall D. Knight,4,https://drive.google.com/file/d/17jVXpskXf7vNUOmXVgrS1I3nwH9noGxe/view?usp=sharing,9780134609034
 "PHYS 121, 122, 123",College Physics,"Knight, Jones, Field",3,https://drive.google.com/file/d/1OrGv5s3yFjiU-HxrPWjJnfN60VoIGWYQ/view,
 PHYS 133,Tutorials in Introductory Physics and Homework (Used primarily in studio classes),"L.C. McDermott, et al.",,https://drive.google.com/open?id=1LDvK2QYxTcEyOP19XV6HRXoL-7xhUBDb,
 PHYS 141,College Physics: A Strategic Approach,Randall D. Knight,3rd,https://drive.google.com/file/d/1ImIkZqFqxYHw06QXrZgecxxGYlzKZPUd/view?usp=sharing,
-PHYS 141,"Online Solutions Physics for Scientists and Engineers: A Strategic Approach, Vol. 1 (Chs 1-21) (4th Edition)",Randall D. Knight (Professor Emeritus),4th,https://www.bartleby.com/textbooks/physics-for-scientists-and-engineers-a-strategic-approach-vol-1-chs-1-21-4th-edition-4th-edition/9780134110684/solutions,
-PHYS 141,Physics for Scientists and Engineers; a strategic approach,Randal D Knight,5,https://drive.google.com/open?id=1oi8GToX3QE22scPxiXmLtnmM92txewAS,
+PHYS 141,"Online Solutions Physics for Scientists and Engineers: A Strategic Approach, Vol. 1 (Chs 1-21) (4th Edition)",Randall D. Knight (Professor Emeritus),4th,https://www.bartleby.com/textbooks/physics-for-scientists-and-engineers-a-strategic-approach-vol-1-chs-1-21-4th-edition-4th-edition/9780134110684/solutions,9780134110684
+PHYS 141,Physics for Scientists and Engineers; a strategic approach,Randal D Knight,5,https://drive.google.com/open?id=1oi8GToX3QE22scPxiXmLtnmM92txewAS,9780137344871
 PHYS 141,Student Workbook – Physics for Scientists and Engineers (corrected version),Randall D. Knight,4,https://drive.google.com/open?id=1ArNqoSILvAECF0ybhwW8LHxRfZa0ba-S,
 "PHYS 141, 132, 133",Physics for Scientist and Engineers,Knight,4,https://drive.google.com/file/d/1GV-SMOgwefBS6-bmjoPie6_O9yOGysLP/view?usp=sharing,
 "PHYS 141, 132, 133",Physics for Scientist and Engineers SOLUTION MANUAL,Knight,4,https://drive.google.com/file/d/1z6m00ihfTpfT_mqG4g9XSFugzFmNvcR4/view?usp=sharing,
 PHYS 141/132/133,Physics for Scientists and Engineers,Randall D. Knight,4,https://drive.google.com/file/d/1VSddfU7PNA3XhqFgk5kG0qrWBfP9Y6t0/view?usp=sharing,
-PHYS 143,Physics for Scientists and Engineers,Randall Knight,5,https://drive.google.com/open?id=1B7e_89XW59TRI0P00EGoJW2s1Jk2Ldlv,
+PHYS 143,Physics for Scientists and Engineers,Randall Knight,5,https://drive.google.com/open?id=1B7e_89XW59TRI0P00EGoJW2s1Jk2Ldlv,9780137344871
 PHYS 206,Electronics with Discrete Components,Enrique J. Galvez,1,https://drive.google.com/open?id=1NM9heJbNdd77JVuHapSALpe88vxuVyUN,
-PHYS 211,Modern Physics,Randy Harris,2,https://drive.google.com/open?id=19lDbb4xE_QoxSiwdKxHJOcOaPAH_u3qo,
-PHYS 211,Modern Physics (with IMPROVED PDF BOOKMARKS),Randy Harris,2,https://drive.google.com/open?id=1-lRWRtVIKic05Dd6wn9I5i5zXthaPm82,
-PHYS 211,Modern Physics,Randy Harris,2,https://drive.google.com/open?id=19yx_5WiCZP14nYodPlAhISFPytRncFhY,
+PHYS 211,Modern Physics,Randy Harris,2,https://drive.google.com/open?id=19lDbb4xE_QoxSiwdKxHJOcOaPAH_u3qo,9780805303087
+PHYS 211,Modern Physics (with IMPROVED PDF BOOKMARKS),Randy Harris,2,https://drive.google.com/open?id=1-lRWRtVIKic05Dd6wn9I5i5zXthaPm82,9780805303087
+PHYS 211,Modern Physics,Randy Harris,2,https://drive.google.com/open?id=19yx_5WiCZP14nYodPlAhISFPytRncFhY,9780805303087
 PHYS 211,Modern Physics [SOLUTIONS MANUAL],Randy Harris,2,https://drive.google.com/open?id=1KM7lhyvw4-CCkA8avZqDwHywmREcXa63,
-"PHYS 211, 212",Modern Physics,Randy Harris,2,https://drive.google.com/open?id=1MCMU1eQoaa6XPbOLuCDFR2aAvNW_O9BR,
+"PHYS 211, 212",Modern Physics,Randy Harris,2,https://drive.google.com/open?id=1MCMU1eQoaa6XPbOLuCDFR2aAvNW_O9BR,9780805303087
 PHYS 301,Statistical and Thermal Physics with Computer Applications,"Harvey Gould, Jan Tobochnik",,https://drive.google.com/file/d/1Nf-DMV0En8HVuwSQAEAsRXGBc2StNZoU/view?usp=sharing,
-PHYS 301,Statistical and Thermal Physics With Computer Applications,"Harvey Gould, Jan Tobochnik",2,https://drive.google.com/file/d/1CdD62R1tYKjUZPnUfDfWHEGe_UidIpHz/view?usp=share_link,
+PHYS 301,Statistical and Thermal Physics With Computer Applications,"Harvey Gould, Jan Tobochnik",2,https://drive.google.com/file/d/1CdD62R1tYKjUZPnUfDfWHEGe_UidIpHz/view?usp=share_link,9780691201894
 Phys 301,An introduction to thermal physics,Daniel V. Schroeder,,https://drive.google.com/open?id=1JeTpWDOoEBIaZrTUuLmUnpmS9wRBJrU6,
-PHYS 302,Classical Dynamics of Particles and Systems,"Marion, Thornton",5,https://drive.google.com/file/d/18GyujG0-Xkf58HiyHFTKOzGk7-MOZj_m/view,
+PHYS 302,Classical Dynamics of Particles and Systems,"Marion, Thornton",5,https://drive.google.com/file/d/18GyujG0-Xkf58HiyHFTKOzGk7-MOZj_m/view,9780534408961
 PHYS 305,Classical Mechanics,John R. Taylor,,https://drive.google.com/open?id=1AnMDxZ0wOgL9lYIh7CStMP4V3hRGD9kP,
-Phys 315,Introduction to Laser Technology,"Hitz, Ewing and Hecht",4th edition,https://ieeexplore-ieee-org.ezproxy.lib.calpoly.edu/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6183552.pdf&bkn=6183552&pdfType=book,
+Phys 315,Introduction to Laser Technology,"Hitz, Ewing and Hecht",4th edition,https://ieeexplore-ieee-org.ezproxy.lib.calpoly.edu/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6183552.pdf&bkn=6183552&pdfType=book,9780470916209
 PHYS 320,Essen Mathematical Methods for the Physical Sciences,Riley,1,https://drive.google.com/open?id=1vENZHNodv7FZknfuzSv0lY6AMx8x5Mwm,
 PHYS 320,Student Solution Manual for Essential Mathematical Methods for the Physical Sciences,Riley,1,https://drive.google.com/open?id=1W60_54eAJgeMWW9_Vup82YUc67Q04i-Y,
 PHYS 322,Vibrations and Waves,George C. King,,https://epdf.pub/vibrations-and-waves-manchester-physics-series.html,
-PHYS 323,Introduction to Optics,Pedrotti,3,https://drive.google.com/file/d/1_LrHDcSlg-yer5sb2MeKhqOfRL3XZZG6/view?usp=sharing,
+PHYS 323,Introduction to Optics,Pedrotti,3,https://drive.google.com/file/d/1_LrHDcSlg-yer5sb2MeKhqOfRL3XZZG6/view?usp=sharing,9780131499331
 PHYS 323,Introduction to Optics Instructor Solutions Manual,Pedrotti,3,https://drive.google.com/file/d/1W5dl6x36oNzoafBn5PC2vu2aa-WnueGH/view?usp=sharing,
-PHYS 323,Introduction to Optics,Pedrotti,3,https://drive.google.com/open?id=1Cxkb1jWJr9agFCD29s8Z7GK_qFGRlHP_,
+PHYS 323,Introduction to Optics,Pedrotti,3,https://drive.google.com/open?id=1Cxkb1jWJr9agFCD29s8Z7GK_qFGRlHP_,9780131499331
 PHYS 340,"Error Analysis, An Introduction to",John R. Taylor,2,http://hep.ucsb.edu/courses/ph128_18f/Taylor.pdf,
 PHYS 405,Intro to Quantum Mechanics [SOLUTION MANUAL],"David J. Griffiths, Darrell F. Schroeter",2,https://drive.google.com/open?id=1ITruBWjKiRSyx_fkRyjaMz8h_8hOG8Eu,
-PHYS 405,Introduction to Quantum Mechanics,"David J. Griffiths, Darrell F. Schroeter",3,https://drive.google.com/open?id=1EX9Fu9OsZWgrPnGCFFavB2Gy7d3rGUq2,
-PHYS 408,Introduction to Electrodynamics,David J. Griffiths,4,https://drive.google.com/open?id=15ACdNXyUUGrzBBr5GPYt6YvPE8eOKv30,
+PHYS 405,Introduction to Quantum Mechanics,"David J. Griffiths, Darrell F. Schroeter",3,https://drive.google.com/open?id=1EX9Fu9OsZWgrPnGCFFavB2Gy7d3rGUq2,9781107189638
+PHYS 408,Introduction to Electrodynamics,David J. Griffiths,4,https://drive.google.com/open?id=15ACdNXyUUGrzBBr5GPYt6YvPE8eOKv30,9780321856562
 PHYS 408,Introduction to Electrodynamics [SOLUTION MANUAL],David J. Griffiths,4,https://drive.google.com/open?id=1jyuj2lrIeVQBQG8lHdQ2jnvL3k-clizF,
-PHYS 428,Nonlinear Dynamics and Chaos,Steven H. Strogatz,2,https://drive.google.com/open?id=1cx3Xz2xZVh58ICQEFfQobIIQEeCdP7Wo,
+PHYS 428,Nonlinear Dynamics and Chaos,Steven H. Strogatz,2,https://drive.google.com/open?id=1cx3Xz2xZVh58ICQEFfQobIIQEeCdP7Wo,9780813349107
 PHYS 428,Nonlinear Dynamics and Chaos [SOLUTION MANUAL],Steven H. Strogatz,2,https://drive.google.com/open?id=13PafwXs5v84qmqQ4dHN7aYjKXRU2-V3x,
-"Physics 121, 122, 123",College Physics: A strategic Approach,Randall D. Knight,4,https://drive.google.com/open?id=17jVXpskXf7vNUOmXVgrS1I3nwH9noGxe,
+"Physics 121, 122, 123",College Physics: A strategic Approach,Randall D. Knight,4,https://drive.google.com/open?id=17jVXpskXf7vNUOmXVgrS1I3nwH9noGxe,9780134609034
 POLS 111,Governing California in the Twenty-First Century,Melissa Michelson,8,https://drive.google.com/open?id=1_AUqyDtiTMMIRikllTA0oNvbQF4u944v,
 POLS 112,American Government,Glen Krutz,2nd,https://assets.openstax.org/oscms-prodcms/media/documents/american-government-2e-6.11.pdf,
 POLS 112,American Government and Politics Today,"Bardee, Barbara A.",2019,https://drive.google.com/open?id=1LsLUTwP6QpDgW2hQGicPeyLB0o5Oeunr,
@@ -959,22 +959,22 @@ POLS 325,Global Issues Beyond Sovereignty,Maryann Cusimano Love,5,https://drive.
 POLS 339,Backsliding: Democratic Regress in the Contemporary World. 2021,Stephen Haggard and Robert Kaufma,,https://drive.google.com/open?id=19r41vHFkVa-fFDGjJPFm__E_VXd9H2B0,
 POLS 445,Uncounted: The Crisis of Voter Suppression in America,Gilda R. Daniels,,https://drive.google.com/open?id=12MMJpqIfGo5J7BQTfwPi3wD4p965B8Ma,
 POLS225,Essentials of International Relations,Mingst,8,https://ocd.lcwu.edu.pk/cfiles/Political%20Science/Maj/Pol.Sc-303/EssentialsofInternationalRelationsEighthEditionbyKarenA.Mingst.pdf,
-PSY 201,Invitation to Psychology (8th ed.),"Carole Wade, Carol Tavris, Samuel R Sommers, and Lisa M. Shin",8,https://drive.google.com/open?id=14pGHLUYADOTuA2YQRM8dZGRUGNzbVDJM,
+PSY 201,Invitation to Psychology (8th ed.),"Carole Wade, Carol Tavris, Samuel R Sommers, and Lisa M. Shin",8,https://drive.google.com/open?id=14pGHLUYADOTuA2YQRM8dZGRUGNzbVDJM,9780134999210
 psy 202,Invitation to Psychology,"Wade, Travis, Gary",6,https://drive.google.com/file/d/1WBLXaJVNOEXswp1aka-22yoV54JsK7qn/view?usp=sharing,
 PSY 202,Invitation to Psychology,"Wade, Travis, Garry",6,https://drive.google.com/file/d/1WBLXaJVNOEXswp1aka-22yoV54JsK7qn/view?usp=sharing,
-PSY 252,Social Psychology,"Tom Gilovich, Dacher Keltner, Serena Chen, Richard E. Nisbett",6,https://drive.google.com/open?id=1Jee90QytBlo9UctPDHS4SGpNiWMida7h,
+PSY 252,Social Psychology,"Tom Gilovich, Dacher Keltner, Serena Chen, Richard E. Nisbett",6,https://drive.google.com/open?id=1Jee90QytBlo9UctPDHS4SGpNiWMida7h,9781324045557
 PSY 252,"Principles of Social Psychology, International Edition",Dr. Charles Stangor,1,https://opentextbc.ca/socialpsychology/,
-PSY 252,Social Psychology,"Gilovich, Keltner, Chen, Nisbett",4,https://drive.google.com/open?id=1Kf4WLAFuErCNNRKOZKIL-c1pNXGt5cwQ,
+PSY 252,Social Psychology,"Gilovich, Keltner, Chen, Nisbett",4,https://drive.google.com/open?id=1Kf4WLAFuErCNNRKOZKIL-c1pNXGt5cwQ,9780393938968
 PSY 254,"Marriages & Families: Intimacy, Diversity","Olson, D.H., DeFrain, J., Skogrand,L. (2019)",9,https://cloudflare-ipfs.com/ipfs/bafykbzaceauxu734qhj7pilw6bzl2t3ytg276lswidwdvqijxjvmxlfkn3nkk?filename=David%20H.%20L.%20Olson_%20John%20D.%20DeFrain_%20Linda%20Skogrand%20-%20Marriages%20and%20families%20_%20intimacy%2C%20diversity%2C%20and%20strengths%20%282019%29.pdf,
 PSY 254,"Marriages & Families: Intimacy, Diversity, and Strengths","Olson, D.H., DeFrain, J., Skogrand,L.",9,https://ipfs.io/ipfs/bafykbzaceauxu734qhj7pilw6bzl2t3ytg276lswidwdvqijxjvmxlfkn3nkk?filename=David%20H.%20L.%20Olson_%20John%20D.%20DeFrain_%20Linda%20Skogrand%20-%20Marriages%20and%20families%20_%20intimacy%2C%20diversity%2C%20and%20strengths%20%282019%29.pdf,
 PSY 256,Human Development: A Lifespan View,Kail,7,http://93.174.95.29/main/6B0DA9BF40708F48019F3E78959E56C6,
 PSY 256,Invitation to the Life Span,Kathleen Stassen Berger,5,https://drive.google.com/file/d/1OuEU0t6wjONOXICCSndTOA4Lhb3TMfLn/view?usp=sharing,
-PSY 305,Personality,Jerry M. Burger,10,https://drive.google.com/open?id=1JVROs0ZqDAgmxgVPyrbf99MYpbOhKuVo,
+PSY 305,Personality,Jerry M. Burger,10,https://drive.google.com/open?id=1JVROs0ZqDAgmxgVPyrbf99MYpbOhKuVo,9781337559010
 PSY 306,Adolescence and Emerging Adulthood,Jeffrey J. Arnett,6,https://drive.google.com/open?id=1893GGAbGgSRJ3IND_Bcn6WeRyDSjE23X,
 PSY 318,Adult Development and Aging,Susan Krauss Whitbourne,Fourth,https://the-eye.eu/public/Books/Medical/texts/Adult%20Devel.%20and%20Aging%20-%20Biopsychosocial%20Persps.%204th%20ed.%20-%20S.%20Whitbourne%2C%20et.%20al.%2C%20%28Wiley%2C%202011%29%20WW.pdf,
 PSY 318,ADULT DEVELOPMENT AND AGING: BIOPSYCHOSOCIAL PERSPECTIVES,Whitbourne & Whitbourne,4,https://drive.google.com/open?id=14Pgf6a59kqiQirOqyFgz5haHW0ryk6Kq,
-PSY 323,The Skilled Helper A Problem-Management and Opportunity-Development Approach to Helping,"Gerald Egan, Robert J. Reese",11,https://www.dropbox.com/s/6sqjaueqlbvmcpn/The%20Skilled%20Helper%20%20A%20Problem-Management%20and%20Opportunity-Develop.pdf?dl=0,
-PSY 323,The Skilled Helper: A Problem-Management and Opportunity-Development Approach to Helping,"Gerard Egan, Robert J. Reese",11,https://drive.google.com/open?id=12mJ95I9oTMSS060kPl4JHjmROFSKtNLA,
+PSY 323,The Skilled Helper A Problem-Management and Opportunity-Development Approach to Helping,"Gerald Egan, Robert J. Reese",11,https://www.dropbox.com/s/6sqjaueqlbvmcpn/The%20Skilled%20Helper%20%20A%20Problem-Management%20and%20Opportunity-Develop.pdf?dl=0,9781337672115
+PSY 323,The Skilled Helper: A Problem-Management and Opportunity-Development Approach to Helping,"Gerard Egan, Robert J. Reese",11,https://drive.google.com/open?id=12mJ95I9oTMSS060kPl4JHjmROFSKtNLA,9781337672115
 PSY 324,The Psychology of Sex & Gender,"Bosson, Vandello, Buckner",1,https://drive.google.com/open?id=1m496WM64zehaccZk_YrIof2imOcbCsgF,
 PSy 329,Research Methods in Psychology,Beth Morling,3,https://drive.google.com/open?id=1mqPPq-KYWmuczbz7rdPlU9rGm58sWSq2,
 PSY 329,"Research Methods in Psychology: Evaluating a World of Information (2nd Edition). New York: W.W. Norton & Company, Inc.","Morling, B. (2015)",2,https://drive.google.com/open?id=183pTTJNRooHf5h4FJ_nu_mWqBrOoPjbq,
@@ -991,7 +991,7 @@ PSY 370,"Clinical Psychology: Science, Practice, and Diversity",Andrew Pomerantz
 PSY 370,Introduction to the Counseling Profession,"Capuzzi, D & Gross, D",7th,https://drive.google.com/file/d/1Ns8jtL9P3hBwEt69UwMTzyBAXvksRCwY/view?usp=sharing,
 Psy 370,"Clinical Psychology: Science, Practice, and Culture",Andrew M. Pomerantz,5,https://drive.google.com/open?id=1e6VsohQIMuu5HrgMxd_vfMpe1fpH8rlN,
 PSY 370,Theory and practice of counseling and psychotherapy,Gerald Corey,11,https://drive.google.com/open?id=1jnMxvDgpiI0q1RSaLM8LCjUKWqAH5H7L,
-PSY 370,"Clinical Psychology: Science, Practice, and Culture (4th edition) SAGE ISBN 978-1-5063-3374-8","Pomerantz, Andrew M. (2017)",4,https://drive.google.com/open?id=1JwqRy01vYotENg6RC-SbzrU7kbXEq2Dq,
+PSY 370,"Clinical Psychology: Science, Practice, and Culture (4th edition) SAGE ISBN 978-1-5063-3374-8","Pomerantz, Andrew M. (2017)",4,https://drive.google.com/open?id=1JwqRy01vYotENg6RC-SbzrU7kbXEq2Dq,9781506333748
 PSY 375,Forensic and Legal Psychology,"Costanzo, M. & Krauss, D.",3rd edition,file:///home/chronos/u-68aab7a1bc9d8c26c7a979fbaca76930c2693999/MyFiles/Downloads/Forensic%20and%20Legal%20Psychology%20by%20Mark%20Costanzo%20%20Daniel%20Krauss%20(z-lib.org).pdf,
 PSY 405,Essentials of Understanding Abnormal Behavior,"David Sue, Derald Wing Sue, Diane Sue, Stanley Sue",3,https://drive.google.com/open?id=1KgLQit5FAxyHLt3-zVHrGUCiJq8KNLBL,
 PSY 405,Abnormal Psychology,Comer,9,https://drive.google.com/open?id=1CMvaehanoCyl5QXrjw8Bj7nsk9dIhW0w,
@@ -999,11 +999,11 @@ PSY 430,Sensation and Perception,"Goldstein, E. B.",10,https://ipfs.io/ipfs/bafy
 PSY 458,The Principles Of Learning And Behavior,Michael P. Domjan,7,https://drive.google.com/open?id=14nNnAQGfv03EAeICLkNu0XxCenDA7vxs,
 PSY 460,A Child Called It,Dave Pelzer,,https://drive.google.com/file/d/0B5wC-Boy59OfOWZlMmQ3ZjQtZDRmMC00OWRhLWI0OWEtYzdmNmQzYTU2NTk0/view?resourcekey=0-Vy8NVL8pYS0vm7yvKFMC7A,
 PSY 460,The Boy Who Was Raised as a Dog,Bruce D. Perry,,https://yes-pdf.com/electronic-book/648,
-PSY 460,UNDERSTANDING CHILD ABUSE AND NEGLECT,CYNTHIA CROSSON-TOWER,10,https://drive.google.com/open?id=1xOpvp9_v-qLDJzyKwIx9dZP2plLQNiKC,
+PSY 460,UNDERSTANDING CHILD ABUSE AND NEGLECT,CYNTHIA CROSSON-TOWER,10,https://drive.google.com/open?id=1xOpvp9_v-qLDJzyKwIx9dZP2plLQNiKC,9780135168066
 PSYC 1000,Sexuality and Our Diversity,Marcus Tye,2.1,https://drive.google.com/open?id=1GSPvbypga9v_JKlZxGtwx9ErqRX18mOy,
 RELS 374,Fundamentalism: A Very Short Introduction,Malise Ruthven,,https://drive.google.com/open?id=1o8QSz_lTEOy-ghrqig6lkJPWPpfs26Zn,
 RELS 378,Ethical Issues in Six Religious Traditions,Peggy Morgan and Clive Lawton,2,https://drive.google.com/open?id=1jqMpn2dQag4pGGjPDUUG_bydolr7mefY,
-Requesting,"Highway Capacity Manual 6thThe National Academies of Sciences, Engineering, and Medicine edition (ISBN: 978-0-309-36997-8)",,6th,https://www.mytrb.org/MyTRB/Store/Product.aspx?ID=8435,
+Requesting,"Highway Capacity Manual 6thThe National Academies of Sciences, Engineering, and Medicine edition (ISBN: 978-0-309-36997-8)",,6th,https://www.mytrb.org/MyTRB/Store/Product.aspx?ID=8435,9780309369978
 RPTA 160,Contemporary Sport Management,"Pedersen, Paul M., Thibault, Lucie",6,https://drive.google.com/open?id=1gGUlrSY_H-JwSUzg4uesp_rLB8mG5fy5,
 RPTA 201,Pastimes: the context of contemporary leisure,Ruth Russell,7,https://drive.google.com/open?id=1TA34rZcYbXnrH1DZDdGvNN_3XsfQ1Mhb,
 RPTA 201,Pastimes: the context of contemporary leisure,Ruth Russell,6th,https://drive.google.com/file/d/1IOzAfBAsZWlb9zPTyQpi4hSGHccUUx9A/view?usp=sharing,
@@ -1026,13 +1026,13 @@ STAT 217,Introduction to Statistical Investigations,"Tintle, B. Chance, G. Cobb,
 STAT 217,OpenIntro Statistics,David M Diez,3,https://drive.google.com/file/d/1cqRn1oYiDanBevwQiEn0PrrsMmTXH6He/view?usp=sharing,
 STAT 218,Introduction to Statistical Investigations,Tintle,1,https://1lib.us/book/3417750/70808e,
 STAT 218,Introduction to Statistical Investigations,Nathan Tintle,1,https://libgen.is/book/index.php?md5=3AA75BF731D9A6DE0696772D38685018,
-STAT 218,Statistics for the Life Sciences,"Samuels, Witmer, Schaffner",5,https://drive.google.com/file/d/1f10SWi9lnnvLWd9DOic7j7BREfDnH1YI/view?usp=sharing,
+STAT 218,Statistics for the Life Sciences,"Samuels, Witmer, Schaffner",5,https://drive.google.com/file/d/1f10SWi9lnnvLWd9DOic7j7BREfDnH1YI/view?usp=sharing,9780321989581
 STAT 218,Statistics for the Life Sciences,"Samuels, Witmer, Schaffner",4,https://drive.google.com/open?id=13_77MWGsgfOA2KQmEJQXM5kZISpSgoiv,
 Stat 251,Business Statistics,"Sharpe, De Veaux and Velleman",,https://drive.google.com/open?id=1ii07h2B2j9SzCw0IgB_A16hAZR4Z60ce,
 STAT 251/252,Business Statistics,"Sharpe, Deveaux, Velleman",3,https://drive.google.com/open?id=1mDCMaHtky5KloNKB8ceKUKIMrbx9ogTH,
-STAT 251/252,Business Statistics,"Sharpe, De Veaux and Velleman",4,https://drive.google.com/open?id=1bUllKaAprm6yuvEd0aVr93DZvXnxKUd7,
-STAT 251/252,"Business Statistics, Global Edition, 4th Edition","Sharpe, Norean, De Veaux, Richard, Velleman etc.",4,https://drive.google.com/open?id=1dxAkBmyJ7q4jcFILg6xRGAaEG4Cu-eZh,
-STAT 252,Business Statistics,Sharpe,4th,https://drive.google.com/file/d/1ii07h2B2j9SzCw0IgB_A16hAZR4Z60ce/view,
+STAT 251/252,Business Statistics,"Sharpe, De Veaux and Velleman",4,https://drive.google.com/open?id=1bUllKaAprm6yuvEd0aVr93DZvXnxKUd7,9780134705217
+STAT 251/252,"Business Statistics, Global Edition, 4th Edition","Sharpe, Norean, De Veaux, Richard, Velleman etc.",4,https://drive.google.com/open?id=1dxAkBmyJ7q4jcFILg6xRGAaEG4Cu-eZh,9780134705217
+STAT 252,Business Statistics,Sharpe,4th,https://drive.google.com/file/d/1ii07h2B2j9SzCw0IgB_A16hAZR4Z60ce/view,9780134705217
 STAT 301,"Investigating Statistical Concepts, Applications, and Methods","Beth L. Chance, Allan J. Rossman",4,https://drive.google.com/open?id=1VuCbeJ-1j0KdwYUppRaoiy2Kw1nNbKzM,
 STAT 301,"Investigating Statistical Concepts, Applications, and Methods","Beth L. Chance, Allan J. Rossman",4,https://drive.google.com/open?id=15CzJf4mNZHIvH0xf3GgwKDYz1VB4qxos,
 STAT 301,"Investigating Statistical Concepts, Applications, and Methods","Beth L. Chance, Allan J. Rossman",3,https://drive.google.com/open?id=17GPZkKAAgl1SUFZEiL2ktLGy8LY_XYQk,
@@ -1040,20 +1040,20 @@ STAT 302,Stat 2: Building Models for a World of Data,Rossman,,http://stat2.org/m
 STAT 302,"Investigating Statistical Concepts, Applications, and Methods",Rossman/Chance,,https://drive.google.com/open?id=1RxKH_k7PVhczZw9fMPoHG4gFur1pya8Q,
 STAT 312,Statistics for Engineers and Scientists,William Navidi,4th,https://drive.google.com/file/d/0B1qS2ZdnjA_2SWtvbmQ5aUdRVHM/view,
 STAT 312,Statistics for Scientists and Engineers,William Navidi,4,https://drive.google.com/file/d/1AZaBnDIZEHPBmZf4W7YALI628asDP7vm/view?usp=sharing,
-STAT 312,Applied Statistics for Engineers and Scientists,"Jay L. Devore, Nicholas R. Farnum, Jimmy A. Doi",3,https://drive.google.com/open?id=1LTnjsNS3ZsrV8S_dxUkIvCwd8LEkJipa,
-STAT 312,Applied Statistics for Engineers and Scientists,"Jay Devore, Nicholas Farnum, Jimmy Doi",3,https://drive.google.com/open?id=196VdtG7AvaNC8Ov93JQUSzOSh6Zao7b6,
+STAT 312,Applied Statistics for Engineers and Scientists,"Jay L. Devore, Nicholas R. Farnum, Jimmy A. Doi",3,https://drive.google.com/open?id=1LTnjsNS3ZsrV8S_dxUkIvCwd8LEkJipa,9781133111368
+STAT 312,Applied Statistics for Engineers and Scientists,"Jay Devore, Nicholas Farnum, Jimmy Doi",3,https://drive.google.com/open?id=196VdtG7AvaNC8Ov93JQUSzOSh6Zao7b6,9781133111368
 STAT 312,Heather Smith Class Notes - Statistical Methods For Engineers STAT 312/542,Heather Smith,,https://drive.google.com/open?id=1-mMfRPSCOHkZlDpiS-nUQtmrfO69GCN3,
 STAT 312,Statistics For Engineers and Scientists,William Navidi,5,https://drive.google.com/open?id=1KFR6GlvufMVszuhIhThgcqwEzk-NaDi7,
-STAT 312,Applied Statistics for Scientists and Engineers,Devore,3,https://drive.google.com/file/d/1bVjgOYJ0AV9BMfzJW9fuh6BS1M5XZm23/view?usp=sharing,
-STAT 313,Statistical Sleuth,"Fred Ramsey, Daniel Schafer",2,https://drive.google.com/open?id=1pgDKXKVyPbWMsXu_5qeNcvIW2jau0m8T,
+STAT 312,Applied Statistics for Scientists and Engineers,Devore,3,https://drive.google.com/file/d/1bVjgOYJ0AV9BMfzJW9fuh6BS1M5XZm23/view?usp=sharing,9781133111368
+STAT 313,Statistical Sleuth,"Fred Ramsey, Daniel Schafer",2,https://drive.google.com/open?id=1pgDKXKVyPbWMsXu_5qeNcvIW2jau0m8T,9780534389505
 STAT 321,Statistics for Engineers & Scientists,William Navidi,Fourth,https://drive.google.com/file/d/0B1qS2ZdnjA_2SWtvbmQ5aUdRVHM/view,
 STAT 321,Statistics for Scientists and Engineers,William Navidi,6th,https://drive.google.com/file/d/1AflY1W8r5cVUEl-IPLSz1Eajsf700PYd/view?usp=sharing,
 STAT 321,Statistics for Engineers and Scientists,William Navidi,4,https://drive.google.com/open?id=1P8RlSsmbMz2ObApDwpom4DHCElmCvZrk,
 STAT 321,Statistics for Engineers and Scientists,William Navidi,5,https://drive.google.com/open?id=1oy4r32HGXiwu_C9lun2HOj_Zqk3cA8eF,
 STAT 321,Statistics for Engineers and Scientists,William Navidi,5,https://drive.google.com/open?id=1agP5foX49892rlItQ8Pjhd6qhB6CtXWO,
-STAT 324,Applied Linear Statistical Models,Michael H. Kutner,5 (same as 6),https://drive.google.com/file/d/1IKs683nxqijzTcct0ZBlLG08PSyEky5C/view?usp=sharing,
+STAT 324,Applied Linear Statistical Models,Michael H. Kutner,5 (same as 6),https://drive.google.com/file/d/1IKs683nxqijzTcct0ZBlLG08PSyEky5C/view?usp=sharing,9780073108742
 STAT 324,Applied Linear Statistical Models SOLUTION MANUAL,Michael H. Kutner,5,https://drive.google.com/file/d/1diu84zxi_r76yuARSZIkP1qwHmShJcu2/view?usp=sharing,
-STAT 330,The Little SAS Book,Delwiche and Slaughter,6,https://drive.google.com/open?id=11EHLKazxGqa6gn8zzlDJvSYQzYs0t_u2,
+STAT 330,The Little SAS Book,Delwiche and Slaughter,6,https://drive.google.com/open?id=11EHLKazxGqa6gn8zzlDJvSYQzYs0t_u2,9781642952834
 STAT 330,The Little SAS Book,Lora D. Delwiche,5,https://drive.google.com/open?id=1dYsa1rny7IkLkYgNXVx9fF52nnsRc3mT,
 STAT 331,R for Everyone: Advanced Analytics & Graphics,Lander,2,https://drive.google.com/open?id=1Fb4LJ-jSML7ipwLgydv377PUhhUGZ_YL,
 STAT 334,An R Companion to Applied Regression,"Fox, J. and Weisberg, S.",3rd,https://drive.google.com/file/d/17LeooCbhBJUBqD56L6TCgDmcwY0aRifj/view?usp=sharing,
@@ -1063,14 +1063,14 @@ STAT 350,Probability and Stochastic Processes,Yates and Goodman,3,https://drive.
 STAT 350,"Probability and Stochastic Processes, A Friendly Introduction For Electrical and Computer Engineers","Roy D. Yates, David J. Goodman",3,https://drive.google.com/open?id=1QXy5XRHCzm3Iw6R5XfYUTRmMjj9SVfUj,
 STAT 350,Probability With STEM Applications,"Matthew. A Carlton, Jay L. Devore",3,https://drive.google.com/open?id=1TMs0Bb-iOdFjqzJbfC6XqJ8PuBZ5NEZO,
 STAT 418,Categorical Data Analysis,Alan Agresti,3,https://drive.google.com/open?id=1GpYufZBxc1S3plxCUfBYBuilgfadst4R,
-STAT 419,METHODS OF MULTIVARIATE ANALYSIS,Alvin C. Rencher and William F. Christensen,Third,https://onlinelibrary-wiley-com.ezproxy.lib.calpoly.edu/doi/pdf/10.1002/9781118391686,
+STAT 419,METHODS OF MULTIVARIATE ANALYSIS,Alvin C. Rencher and William F. Christensen,Third,https://onlinelibrary-wiley-com.ezproxy.lib.calpoly.edu/doi/pdf/10.1002/9781118391686,9781118391686
 Stat 421,Elementary Survey Sampling,Scheaffer,7,https://drive.google.com/open?id=1Nc3Ha3cqexnHiUPKqNqIZTK-lqAfsLsM,
 STAT 425,Mathematical Statistics with Applications,Wackerly,7,https://drive.google.com/open?id=11XUH33ifDB_TflvqExrBY7BtS80QCUbn,
 STAT 425,Probability and Statistics,DeGroot,4,https://drive.google.com/file/d/1Rmk4tQiSzToZRx_NZkILcUC1YABGwRRp/view?usp=sharing,
 STAT 513,STAT2: Modelling with Regression and ANOVA,"Ann R. Cannon, George W. Cobb, Bradley A. Hartlaub, Julie M. Legler, Robin H. Lock, Thomas L. Moore, Allan J. Rossman, Jeffrey A. Witmer",2,https://drive.google.com/open?id=1QYAJrW6HWiEsMjmHJklro41J0eqkGFwa,
-Stats 252,Business Statistcs,Shrape,4,https://drive.google.com/open?id=1HCNMpx4ImQFuh7iuaKkcU2mtkBA2htTx,
+Stats 252,Business Statistcs,Shrape,4,https://drive.google.com/open?id=1HCNMpx4ImQFuh7iuaKkcU2mtkBA2htTx,9780134705217
 STATS 313,Intermediate Statistical Investigations,"Nathan Tintle, Beth L_ Chance, Karen McGaughey",,https://drive.google.com/open?id=1QQAPDM63r_KLmzoZMyWzoAx0qLMa6W3l,
-Stay 151/152,Business statistics,Sharp,4th,https://drive.google.com/file/d/1u2IXdIjxSircY_PXPSwEy2oXpkk6Lt01/view?usp=drive_web,
+Stay 151/152,Business statistics,Sharp,4th,https://drive.google.com/file/d/1u2IXdIjxSircY_PXPSwEy2oXpkk6Lt01/view?usp=drive_web,9780134705217
 TH 210,Disgraced (Link Actually Works),Ayad Ahktar,,https://literariness.org/wp-content/uploads/2021/02/Literariness.org-Disgraced-A-Play-by-Ayad-Akhtar-.pdf,
 TH 210,Disgraced (Play),Ayad Akhtar,,http://library.lol/fiction/4967DB86B9A1B703FA48F0FE70B8BBD4,
 TH 210,the curious incident of the dog in the nighttime,Simon Stephens,,https://drive.google.com/file/d/1RjDVjQvWdz4HofCoZAfIdbFpXB5vuDbC/view?usp=sharing,
@@ -1081,7 +1081,7 @@ TH 210,Disgraced,Ayad Akhtar,,https://drive.google.com/open?id=1_48NznutRGdzY4t0
 TH 210,The Flick,Annie Baker,,https://mymission.lamission.edu/userdata/cucuzzrj/docs/The%20Flick.pdf,
 TH 210,The Laramie Project,,,http://www.harringtonartsalliance.org/wp-content/uploads/2017/07/The-Laramie-Project-Script.pdf,
 TH 210,Really Really,Paul Downs Colaizzo,,https://drive.google.com/open?id=1_48NznutRGdzY4t03uuAyI8PFkzEMvFh,
-TH 227,Norton Anthology of Drama,"Gainor, Garner, & Puchner",1 (Long edition) / ISBN 9780393921519,(Open Library/1 hr loans) https://openlibrary.org/books/OL29675912M/Norton_Anthology_of_Drama,
+TH 227,Norton Anthology of Drama,"Gainor, Garner, & Puchner",1 (Long edition) / ISBN 9780393921519,(Open Library/1 hr loans) https://openlibrary.org/books/OL29675912M/Norton_Anthology_of_Drama,9780393921519
 TH 227,Living Theatre: A History of Theatre,"Edwin Wilson, Alvin Goldfarb",7,https://drive.google.com/open?id=1ZIT_V4k4TXf3C3V-kClbJ4jt-yTzAYmX,
 TH 227,Theatre Histories,Bruce McConachie,2,https://drive.google.com/open?id=1MH3tJDKcDq54KECGGgvNG6GK_v6tZK9x,
 TH 228,The Servant of Two Masters,Carlo Goldoni,,https://drive.google.com/open?id=1b3GdOWvCWu316Rlif2bdT_P7ze0djWTZ,
